@@ -20,3 +20,4 @@ What started out as just a ride...ended up in a hike to the top of the highest p
   
   Your browser does not support the video tag.
 </video>
+   </p>
