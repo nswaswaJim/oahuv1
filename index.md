@@ -3,6 +3,20 @@ title: Home
 layout: home
 ---
 t1
+
+  <p>Welcome to my pages!  A place to post pics, videos, and whatnot from biking around the island.  And whatever else pops into my head.</p>  
+    <p>Please note this is a work in progress.  The intent is to collect short videos which do a better job of capturing the surrounding scenes than pics can.  So, nothing worthy of a Red Bull advert but hopefully enjoyable to anyone interested.  So please enjoy!   </p>
+    
+      <a href="https://nswaswajim.github.io/lutembe/pages/Kaala.html">navigation links to posts</a>
+      </p>
+
+
+    <a href="https://nswaswajim.github.io/lutembe/pages/about.html"><img src="images/muhabura.jpg" height="300" title="The guide"></a>
+  
+      <p>test 5/14(from chromey)</p>
+
+
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
