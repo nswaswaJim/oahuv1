@@ -1,6 +1,7 @@
 ---
 title: Kaena
 layout: default
+regenerate: true
 ---
 kaena placeholder test
 update from office
