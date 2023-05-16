@@ -1,5 +1,5 @@
 ---
 title: Kaala
-layout: home
+layout: default
 ---
 kaala placeholder test
