@@ -4,8 +4,9 @@ layout: home
 ---
 t1
 
-  <p>Welcome to my pages!  A place to post pics, videos, and whatnot from biking around the island.  And whatever else pops into my head.</p>  
-    <p>Please note this is a work in progress.  The intent is to collect short videos which do a better job of capturing the surrounding scenes than pics can.  So, nothing worthy of a Red Bull advert but hopefully enjoyable to anyone interested.  So please enjoy!   </p>
+  <p>Welcome to my pages!  A place to post pics, videos, and whatnot from biking around the island.  And whatever else pops into my head.</p>     
+  
+  <p>Please note this is a work in progress.  The intent is to collect short videos which do a better job of capturing the surrounding scenes than pics can.  So, nothing worthy of a Red Bull advert but hopefully enjoyable to anyone interested.  So please enjoy!   </p>
     
       <a href="https://nswaswajim.github.io/lutembe/pages/Kaala.html">navigation links to posts</a>
       </p>
