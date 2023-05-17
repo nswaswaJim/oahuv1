@@ -7,7 +7,7 @@ regenerate: true
 ## China Walls
 
 
-template test 
+China Walls
 <p>
 <video width="320" height="240" controls>
 <source src="../oahuv1/images/walls1.webm" type="video/webm">
