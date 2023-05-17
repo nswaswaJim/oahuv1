@@ -1,13 +1,13 @@
 ---
-title: Kaena
+title: Page template
 layout: default
 regenerate: true
 ---
 
-## Kaena
+## template title
 
 
-Kaena text here   
+template test 
 <p>
 <video width="320" height="240" controls>
 <source src="../oahuv1/images/kaala.webm" type="video/webm">
