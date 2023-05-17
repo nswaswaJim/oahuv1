@@ -1,5 +1,5 @@
 ---
-title: Page template
+title: About
 layout: default
 regenerate: true
 parent: Home
