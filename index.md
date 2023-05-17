@@ -3,6 +3,8 @@ title: Home
 layout: home
 regenerate: true
 nav_order: 1
+has_children: true
+has_toc: false
 ---
 
   <p>Welcome to my pages!  A place to post pics, videos, and whatnot from biking around the island.  And whatever else pops into my head.</p>     
