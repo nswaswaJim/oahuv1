@@ -7,7 +7,7 @@ regenerate: true
 ## Kaena
 
 
-Kaena text here   
+Epic ride around northwest corner of Oahu, details to come.  Trail on way to point, and the point:
 <p>
 <video width="320" height="240" controls>
 <source src="../oahuv1/images/kaena1.webm" type="video/webm">
