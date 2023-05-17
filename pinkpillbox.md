@@ -7,7 +7,7 @@ regenerate: true
 ## Pink Pillbox
 
 
-template test 
+Sunrise at the Pink Pillbox, west coast
 <p>
 <video width="320" height="240" controls>
 <source src="../oahuv1/images/pillbox.webm" type="video/webm">
