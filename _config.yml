@@ -3,6 +3,6 @@ description: Pics and vids from bikes and hikes
 theme: just-the-docs
 
 url: https://nswaswaJim.github.io/oahuv1
-
+incremental: true
 # aux_links:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
