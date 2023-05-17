@@ -10,6 +10,8 @@ t1
   
   <p>Please note this is a work in progress.  The intent is to collect short videos which do a better job of capturing the surrounding scenes than pics can.  So, nothing worthy of a Red Bull advert but hopefully enjoyable to anyone interested.  So please enjoy!   </p>
 
-  Note to self:  Work in progress last updload Tues 16 May 21:15
+  <a href="https://nswaswajim.github.io/oahuv1/pages/about.html"><img src="images/muhabura.jpg" height="300" title="The guide"></a>
+
+  Note to self:  Work in progress last updload Weds 17 May
 
 
