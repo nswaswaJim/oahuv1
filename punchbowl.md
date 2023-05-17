@@ -6,8 +6,6 @@ regenerate: true
 
 ## Punchbowl Panorama
 
-
-template test 
 <p>
 
 </p>
