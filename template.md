@@ -2,6 +2,7 @@
 title: Page template
 layout: default
 regenerate: true
+nav_exclude: true
 ---
 
 ## template title
