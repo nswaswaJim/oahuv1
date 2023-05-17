@@ -2,6 +2,7 @@
 title: Home
 layout: home
 regenerate: true
+nav_order: 1
 ---
 t1
 
