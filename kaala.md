@@ -2,6 +2,7 @@
 title: Kaala
 layout: default
 regenerate: true
+nav_order: 2
 ---
 
 ## Kaala, highest peak on Oahu
