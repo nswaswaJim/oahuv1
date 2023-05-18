@@ -28,4 +28,4 @@ It's my old nickname.  Nswaswa is the Nile monitor lizard, a very amphibious lar
 ** Why NswaswaJim? **  <br>
 It's my old nickname.  Nswaswa is the Nile monitor lizard, a very amphibious large lizard, generally happier when at the water's edge.  Contrary to popular belief, these lizards are pretty much not poisonous (they have very, very mild venom, a bite is far more likely to suffer infection than envenomation.)  The bigger danger than any poison is their tail, which nswaswa will use as a weapon if provoked.  They are often solitary however can be social and are known to hunt together- for crocodile eggs.  More about these animals and my nickname to come, but for now enjoy the pic.
 
-<p><img src="../images/nswaswa1.webp height="300" title="Nswaswa, Nile Monitor Lizard" /><br /></p>
+<p><img src="../images/nswaswa1.webp" height="300" title="Nswaswa, Nile Monitor Lizard" /><br /></p>
