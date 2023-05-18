@@ -19,8 +19,6 @@ My first bike was a classic cruiser, a $110 rusty but very stylish, comfortable,
 Because video is better suited to capture the wide area of the surroundings.  Which is not always necessary, and for example I'm quite pleased with how the Manoa Falls pic turned out.<br>
 So video does a slightly better job of putting the viewer in the scene.  Videos are generally too large and laborious to email, hence a site to collect them in one place for sharing.  And while I'm at it, collect pics, stories, and other stuff.  
 
-** Why NswaswaJim? **  <br>
-It's my old nickname.  Nswaswa is the Nile monitor lizard, a very amphibious large lizard, generally happier when at the water's edge.  Contrary to popular belief, these lizards are pretty much not poisonous (they have very, very mild venom, a bite is far more likely to suffer infection than envenomation.)  The bigger danger than any poison is their tail, which nswaswa will use as a weapon if provoked.  They are often solitary however can be social and are known to hunt together- for crocodile eggs.  More about these animals and my nickname to come, but for now enjoy the pic.
 <p><img src="../images/muhabura.jpg" height="300" title="Muhabura, the guide" /><br /></p>
 
 <p><img src="../images/muhabura1.jpg" height="300" title="Muhabura, the guide" /><br /></p>
