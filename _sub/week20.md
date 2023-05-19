@@ -32,3 +32,14 @@ $ git push http://example.com/repo.git
 ### ok disregard rant earlier, github oahuv1 is running... just needs uploads via vscode, or git, or even ghpages, but do not hit build on gh pages.  Let it run it's own.  So, mostly working simple template site up using new format!!!
 
 Nice bike today after work also.  Toho No, gained about 500, plus total about 10m after work.  Imagine doing fresh sat am, then hike?!?  Can do.
+
+### Thurs  
+- shifted week19, week20 to oahuv1.
+- pretty smooth day work.
+- 601 tonight, should be easy, even though rain.  Eat easy, bkfast easy, sleep easy.
+- if 601 done thurs, fri easy day- easy bike work, easy home.  Fix rear brake, prep trip, also misc like laundry.  
+- weekend plan:  bike up Manoa Valley to Kolowalu trail.  Park, gear up and hike kolowalu, left turn, Mt. Olympus.  4 mile bike w/500 gain, only about 2ish mile hike tho gain 2000.  Eat bkfast, bring water and some fuel.  Bike down- check out serg kitchen just downhill on right from safeway.  
+- rest of weekend for:  hk projects?  R&R, personal mx.  Swim.  shop donquijote.  geek with just-the-docs, jekyll, etc.  
+- when able read this:  
+- https://routesofchange.org/blog/21-days-alone-at-sea
+
