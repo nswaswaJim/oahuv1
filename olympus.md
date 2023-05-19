@@ -2,7 +2,7 @@
 title: Olympus
 layout: default
 regenerate: true
-nav_exclude: true
+nav_exclude: false
 ---
 
 ## Olympus
@@ -12,7 +12,7 @@ Weekend plan:  Mt. Olympus.  Yes, that's real name!
 
 Even started plan.  Lightweight hiking boots...  
 
-Standby more...
+Standby more...1
 
 <!--
 <p>
