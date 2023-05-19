@@ -16,7 +16,7 @@ My first bike was a classic cruiser, a $110 rusty but very stylish, comfortable,
 
 
 ** Why videos? ** <br>  
-Because video is better suited to capture the wide area of the surroundings.  Which is not always necessary, and for example I'm quite pleased with how the Manoa Falls pic turned out.<br>
+Because video is better suited to capture the wide area of the surroundings.  Which is not always necessary, and for example I'm quite pleased with how the Manoa Falls pic turned out.  Plus, video will lay the foundation for the future upgrade to 4D AR, coming soon...<br>
 So video does a slightly better job of putting the viewer in the scene.  Videos are generally too large and laborious to email, hence a site to collect them in one place for sharing.  And while I'm at it, collect pics, stories, and other stuff.  
 
 <p><img src="../images/muhabura.jpg" height="300" title="Muhabura, the guide" /><br /></p>
