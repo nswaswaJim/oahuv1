@@ -1,5 +1,17 @@
 # Week20
 
+---
+Ok, make links section like so:  
+
+[links to save](#linksection)
+
+sample:
+[Custom foo description](#foo)
+
+
+
+---
+
 ## Mon 15 may - Sun 21 may.  
 - new idea for weeks- append prior weeks to bottom of last week?  then becomes tall searchable in one file?  
 - iPhoney seems working today???  Otherwise best buy has Oneplus nord 200, (alt nord 20), for a cnote.  
@@ -42,4 +54,26 @@ Nice bike today after work also.  Toho No, gained about 500, plus total about 10
 - rest of weekend for:  hk projects?  R&R, personal mx.  Swim.  shop donquijote.  geek with just-the-docs, jekyll, etc.  
 - when able read this:  
 - https://routesofchange.org/blog/21-days-alone-at-sea
+
+### Friday!!! 5/19.  
+- 601 done, 45 done, stby info for 43 cleaned sat 13, per lc text was checkin mon 15 so likely soon but for now caught up 45, 601, 43.  
+    - Fri plan:  work, get ahead. check eco for hike pants.  if no, check gwill.
+    - eat beets 3pm.  easy bike keehi, 2.5 m.  check project.  easy bike- check pressure, check gwill if needed. wm:  banana, greens;  dq beets.
+    - Prep for sat:  laundry(is a get ahead); multitask- research/prep/pack kolowalu/olympus.  (bike-hike-burrito-bike-beach-relaxandgeek  
+    - sun hk.  
+    - 
+
+
+    
+
+free time geek.    
+
+<a name="linksection">
+# linksection 
+</a>  
+
+# Foo
+
+ultimate weather globe:
+https://earth.nullschool.net/
 
