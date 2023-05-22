@@ -9,15 +9,18 @@ nav_exclude: false
 
 This trip was a little unique- It was actually somewhat planned, unlike some of my other posts which started out as bike rides/recon missions which evolved into bigger things.  So for Mt. Olympus there was a little prep:
 
-I had a pair of lightweight hiking boots.  Strongly recommended for this trip (and all the others I've recently done).  So thanks to my friends at Eco Town for a great deal on these second hand, perfect for this job North Face hiking boots, I probably would not have made the summmit without them.  
+I had a pair of lightweight hiking boots.  Strongly recommended for this trip (and most the others I've recently done).  So thanks to my friends at Eco Town for a great deal on these second hand North Face hiking boots, I probably would not have made the summmit without them.  
 
-I also brought:  My Mountainsmith bag, which I bought in 1991.  34 years ago.  One tough little bag!  Just a daypack, but we've done many overnights together, also always comes along as carry on.  Shown below at the first grassy patch on the trail, last steep climb before entering clouds at summit, and finally- summit!
+I also brought:  My Mountainsmith bag.  I bought this little bag in 1991, a testament to it's tremendous durability and utility.  Ok, a few pics of the hike:  
 
-(pause)
+The route:  
+
+<p><img src="../oahuv1/images/olympusgrass1JPG"   alt="bag at grassy spot 1" height="300px" /></p>
+
+<p><img src="../oahuv1/images/olympusroute.JPG"   alt="bag at grassy spot 1" height="300px" /></p>
 
 
-
-
+Scenic view from the first grassy patch:
 
 <p><img src="../oahuv1/images/olympusgrass1JPG"   alt="bag at grassy spot 1" height="300px" /></p>
 
