@@ -13,6 +13,6 @@ has_toc: false
 
   <a href="https://nswaswajim.github.io/oahuv1/pages/about.html"><img src="images/muhabura.jpg" height="300" title="The guide"></a>
 
-  Note to self:  Work in progress last updload Weds 17 May
+  Note to self:  Work in progress last updload Mon 22 May
 
 
