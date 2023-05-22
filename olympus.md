@@ -28,7 +28,6 @@ Scenic view from the first grassy patch:
 
 <p><img src="../oahuv1/images/olympus1.JPG" alt="top Mt. Olympus" height="300px" /></p>
 
-<p><img src="../oahuv1/images/olympus2.JPG" alt="top Mt. Olympus" height="300px" /></p>
 
 
 more to come, for now:  brief look over town, plus view of one of the rope sections:
@@ -46,3 +45,10 @@ more to come, for now:  brief look over town, plus view of one of the rope secti
   Your browser does not support the video tag.
 </video>
 </p>
+
+During breaks in clouds can see the East side: 
+
+<p><img src="../oahuv1/images/olympuskailuaview.JPG" alt="Kailua side" height="300px" /></p>
+
+
+<p><img src="../oahuv1/images/olympus2.JPG" alt="top Mt. Olympus" height="300px" /></p>
