@@ -7,16 +7,17 @@ nav_exclude: false
 
 ## Olympus
 
+This trip was a little unique- It was actually somewhat planned, unlike some of my other posts which started out as bike rides/recon missions which evolved into bigger things.  So for Mt. Olympus there was a little prep:
 
-Weekend plan:  Mt. Olympus.  Yes, that's real name!  
+I had a pair of lightweight hiking boots.  Strongly recommended for this trip (and all the others I've recently done).  So thanks to my friends at Eco Town for a great deal on these second hand, perfect for this job North Face hiking boots, I probably would not have made the summmit without them.  
 
-Even started plan.  Lightweight hiking boots...  
+I also brought:  My Mountainsmith bag, which I bought in 1991.  34 years ago.  One tough little bag!  Just a daypack, but we've done many overnights together, also always comes along as carry on.  
 
-Standby more...
 
-Standby so much more!  For now, pic of almost to top of Mt. Olympus, and then...on top!  More pics and writeup to come.  
 
-<p><img src="../oahuv1/images/olympus1.JPG" alt="Mt. Olympus in clouds" height="300px" /></p>
+
+
+<p><img src="../oahuv1/images/olympusgrass1.JPG" alt="Mt. Olympus in clouds" height="300px" /></p>
 
 
 <p><img src="../oahuv1/images/olympus2.JPG" alt="top Mt. Olympus" height="300px" /></p>
