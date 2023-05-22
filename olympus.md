@@ -31,20 +31,24 @@ Scenic view from the first grassy patch:
 
 
 more to come, for now:  brief look over town, plus view of one of the rope sections:
-<p>
-<video width="320" height="240" controls>
-<source src="../oahuv1/images/olympustrail.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-</p>
 
-640x480 format test:
+
 <p>
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/olympustrail.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
+
+360 vid just below clouds:
+
+<p>
+<video width="640" height="480" controls>
+<source src="../oahuv1/images/olympus360vid.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+</p>
+
 
 During breaks in clouds can see the East side: 
 
