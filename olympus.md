@@ -17,7 +17,7 @@ I also brought:  My Mountainsmith bag, which I bought in 1991.  34 years ago.  O
 
 
 
-<p><img src="../oahuv1/images/olympusgrass1.JPG"s    alt="bag at grassy spot 1" height="300px" /></p>
+<p><img src="../oahuv1/images/olympusgrass1.JPG"   alt="bag at grassy spot 1" height="300px" /></p>
 
 
 <p><img src="../oahuv1/images/olympus2.JPG" alt="top Mt. Olympus" height="300px" /></p>
