@@ -30,15 +30,7 @@ Scenic view from the first grassy patch:
 
 
 
-more to come, for now:  brief look over town, plus view of one of the rope sections:
-
-
-<p>
-<video width="640" height="480" controls>
-<source src="../oahuv1/images/olympustrail.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-</p>
+Some more to come but for now: 
 
 360 vid just below clouds:
 
@@ -48,9 +40,22 @@ more to come, for now:  brief look over town, plus view of one of the rope secti
   Your browser does not support the video tag.
 </video>
 </p>
+<p></p>
 
 
-During breaks in clouds can see the East side: 
+ brief look over town, plus trail view of one of the rope sections:
+
+
+<p>
+<video width="640" height="480" controls>
+<source src="../oahuv1/images/olympustrail.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+</p>
+
+
+
+During breaks in clouds can see the East side.  If zoomed you can pick out some details.  
 
 <p><img src="../oahuv1/images/olympuskailuaview.JPG" alt="Kailua side" height="300px" /></p>
 
