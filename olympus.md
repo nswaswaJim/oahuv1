@@ -31,11 +31,11 @@ Scenic view from the first grassy patch:
 <p><img src="../oahuv1/images/olympus2.JPG" alt="top Mt. Olympus" height="300px" /></p>
 
 
-<!--
+more to come, for now:  brief look over town, plus view of one of the rope sections:
 <p>
 <video width="320" height="240" controls>
-<source src="../oahuv1/images/kaala.webm" type="video/webm">
+<source src="../oahuv1/images/olympustrail.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
--->
+
