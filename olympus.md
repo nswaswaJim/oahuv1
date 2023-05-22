@@ -7,6 +7,8 @@ nav_exclude: false
 
 ## Olympus
 
+(in progress, still posting Monday, busy weekend :-)
+
 This trip was a little unique- It was actually somewhat planned, unlike some of my other posts which started out as bike rides/recon missions which evolved into bigger things.  So for Mt. Olympus there was a little prep:
 
 I had a pair of lightweight hiking boots.  Strongly recommended for this trip (and most the others I've recently done).  So thanks to my friends at Eco Town for a great deal on these second hand North Face hiking boots, I probably would not have made the summmit without them.  
