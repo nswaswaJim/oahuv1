@@ -39,3 +39,10 @@ more to come, for now:  brief look over town, plus view of one of the rope secti
 </video>
 </p>
 
+640x480 format test:
+<p>
+<video width="640" height="480" controls>
+<source src="../oahuv1/images/olympustrail.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+</p>
