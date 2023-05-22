@@ -11,14 +11,16 @@ This trip was a little unique- It was actually somewhat planned, unlike some of 
 
 I had a pair of lightweight hiking boots.  Strongly recommended for this trip (and all the others I've recently done).  So thanks to my friends at Eco Town for a great deal on these second hand, perfect for this job North Face hiking boots, I probably would not have made the summmit without them.  
 
-I also brought:  My Mountainsmith bag, which I bought in 1991.  34 years ago.  One tough little bag!  Just a daypack, but we've done many overnights together, also always comes along as carry on.  Shown below at the first grassy patch on the trail:
+I also brought:  My Mountainsmith bag, which I bought in 1991.  34 years ago.  One tough little bag!  Just a daypack, but we've done many overnights together, also always comes along as carry on.  Shown below at the first grassy patch on the trail, last steep climb before entering clouds at summit, and finally- summit!
 
 
 
 
 
-<p><img src="../oahuv1/images/olympusgrass1.JPG"   alt="bag at grassy spot 1" height="300px" /></p>
+<p><img src="../oahuv1/images/olympusgrass1JPG"   alt="bag at grassy spot 1" height="300px" /></p>
 
+
+<p><img src="../oahuv1/images/olympus1.JPG" alt="top Mt. Olympus" height="300px" /></p>
 
 <p><img src="../oahuv1/images/olympus2.JPG" alt="top Mt. Olympus" height="300px" /></p>
 
