@@ -1,4 +1,13 @@
-# Week20
+# Week21
+## 22 may- 28 may.
+ - kiana
+ - absa
+ - vic
+ - continue wk, bk, gk.  motivated.  
+ - 
+ 
+
+
 
 ---
 Ok, make links section like so:  
