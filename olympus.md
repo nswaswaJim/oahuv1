@@ -15,9 +15,8 @@ I also brought:  My Mountainsmith bag.  I bought this little bag in 1991, a test
 
 The route:  
 
-<p><img src="../oahuv1/images/olympusgrass1JPG"   alt="bag at grassy spot 1" height="300px" /></p>
 
-<p><img src="../oahuv1/images/olympusroute.JPG"   alt="bag at grassy spot 1" height="300px" /></p>
+<p><img src="../oahuv1/images/olympusroute.jpg"   alt="bag at grassy spot 1" height="300px" /></p>
 
 
 Scenic view from the first grassy patch:
