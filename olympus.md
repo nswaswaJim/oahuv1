@@ -13,6 +13,8 @@ I had a pair of lightweight hiking boots.  Strongly recommended for this trip (a
 
 I also brought:  My Mountainsmith bag, which I bought in 1991.  34 years ago.  One tough little bag!  Just a daypack, but we've done many overnights together, also always comes along as carry on.  Shown below at the first grassy patch on the trail, last steep climb before entering clouds at summit, and finally- summit!
 
+(pause)
+
 
 
 
