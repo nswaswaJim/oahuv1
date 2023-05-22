@@ -60,4 +60,10 @@ During breaks in clouds can see the East side.  If zoomed you can pick out some 
 <p><img src="../oahuv1/images/olympuskailuaview.JPG" alt="Kailua side" height="300px" /></p>
 
 
+A nice little hobbit or leprechaun forest on top:
+
+<p><img src="../oahuv1/images/olympustrollhouse.JPG" alt="trollhouse" height="300px" /></p>
+
+
+
 <p><img src="../oahuv1/images/olympus2.JPG" alt="top Mt. Olympus" height="300px" /></p>
