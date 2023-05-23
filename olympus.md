@@ -1,6 +1,7 @@
 ---
 title: Olympus
 layout: default
+nav_order: 3
 regenerate: true
 nav_exclude: false
 ---
