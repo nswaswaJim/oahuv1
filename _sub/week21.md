@@ -6,6 +6,22 @@
  - continue wk, bk, gk.  motivated.  
  - 
  
+### Weds 24 updates:
+
+- kiana gone.  Long story but probably for best.  However, Cabot???
+- absa today.  Is going to help Inshallah.  
+- clean 43 tonight, will be good for above.  
+- late eat, sleep, and thurs- bam- refresh!
+- Friday Ashley.  
+- more lucky cat:  
+-    - 43 wood out today....in on Thursday 25
+-    - 601 out on 26 Fri...in on 27 Sat
+-    - 45 tile out on 28, Sun, ...in on 29 Mon
+-    - 43 wood out on 29 Mon.....in on 31 Weds
+-     - 601 out on 31 Weds.... In on June 2, Fri. 
+ = clean 43 weds, 601 fri, 45 sun, 43 mon,  601 weds.
+ 
+Thanks!  No worries short notice 43, will get it done.  Oiled bike chain yesterday, she's even faster now :-)
 
 
 
