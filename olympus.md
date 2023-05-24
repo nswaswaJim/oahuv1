@@ -8,7 +8,6 @@ nav_exclude: false
 
 ## Olympus
 
-(in progress, still posting Monday, busy weekend :-)
 
 This trip was a little unique- It was actually somewhat planned, unlike some of my other posts which started out as bike rides/recon missions which evolved into bigger things.  So for Mt. Olympus there was a little prep:
 
