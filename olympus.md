@@ -12,7 +12,7 @@ nav_exclude: false
 
 This trip was a little unique- It was actually somewhat planned, unlike some of my other posts which started out as bike rides/recon missions which evolved into bigger things.  So for Mt. Olympus there was a little prep:
 
-I had a pair of lightweight hiking boots.  Strongly recommended for this trip (and most the others I've recently done).  So thanks to my friends at Eco Town for a great deal on these second hand North Face hiking boots, I probably would not have made the summmit without them.  
+I had a pair of lightweight hiking boots.  Strongly recommended for this trip (and most the others I've recently done).  So thanks to my friends at Eco Town for a great deal on these second hand North Face hiking boots- a great deal all around- the boots didn't end in the landfill but instead end up on top of a mountain, and for me- I actually made it to the top instead of sliding off a muddy drop in my sandals.  
 
 I also brought:  My Mountainsmith bag.  I bought this little bag in 1991, a testament to it's tremendous durability and utility.  Ok, a few pics of the hike:  
 
@@ -22,16 +22,18 @@ The route:
 <p><img src="../oahuv1/images/olympusroute.jpg"   alt="bag at grassy spot 1" height="300px" /></p>
 
 
-Scenic view from the first grassy patch:
+Scenic view from the first grassy patch.  With the well traveled Mountainsmith bag:
 
 <p><img src="../oahuv1/images/olympusgrass1JPG"   alt="bag at grassy spot 1" height="300px" /></p>
 
+
+One last push to get to the top:
 
 <p><img src="../oahuv1/images/olympus1.JPG" alt="top Mt. Olympus" height="300px" /></p>
 
 
 
-Some more to come but for now: 
+Two vids:
 
 360 vid just below clouds:
 
@@ -56,7 +58,7 @@ Some more to come but for now:
 
 
 
-During breaks in clouds can see the East side.  If zoomed you can pick out some details.  
+During breaks in clouds can see the East side towards Kailua/Kaneohe. If zoomed you can pick out some details.  
 
 <p><img src="../oahuv1/images/olympuskailuaview.JPG" alt="Kailua side" height="300px" /></p>
 
@@ -65,6 +67,6 @@ A nice little hobbit or leprechaun forest on top:
 
 <p><img src="../oahuv1/images/olympustrollhouse.JPG" alt="trollhouse" height="300px" /></p>
 
-
+Top is selfie time!
 
 <p><img src="../oahuv1/images/olympus2.JPG" alt="top Mt. Olympus" height="300px" /></p>
