@@ -6,6 +6,20 @@
  - continue wk, bk, gk.  motivated.  
  - 
  
+### Thurs 25:
+
+- Absa says acct reopened but must transact asap, this is very big priority!!!!
+- meet n greet with Ashley tomorrow, this is also very big priority!!!
+- Cabot is also gone.  However the above two developments at the moment take precedent..
+- cleaning fri.  Off this evening, take advantage of it, get organized for absa and Ashley 
+- long term idea- John D. and harbor, wow that is a c:  
+    -- a keep on doing
+    -- b main office
+    -- harborjohn?
+    -- none of the above preclude the big plan
+    -- all the above help.  
+
+
 ### Weds 24 updates:
 
 - kiana gone.  Long story but probably for best.  However, Cabot???
