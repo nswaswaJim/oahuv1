@@ -15,9 +15,39 @@
 - long term idea- John D. and harbor, wow that is a c:  
     -- a keep on doing
     -- b main office
-    -- harborjohn?
+    -- c- harborjohn?
     -- none of the above preclude the big plan
-    -- all the above help.  
+    -- all the above potentially help.  
+
+Update:  Can login to absa (whew!)
+- made a small depo with remitly, got email confirmation.
+- attempting transfer, still issues, sent email.  2am there.  
+- 
+ps when able check sail link:
+https://www.lifeofsailing.com/post/sail-rigs-and-types
+
+## OK, plan:  
+
+TODAY:  
+prep ashley
+-break for pre-screen
+PREP- absa wire
+Lunch- prep absawire
+afternoon finish ashleyprep
+afterwork absa mg
+
+Fri ashley mtgrt
+Fri abs follow up
+Fri after work cpb open
+Fri clean 601
+fri night setup absa ap
+
+sat clear
+sun clean 45 am
+mon off, naye 43 out, 2dayturn
+weds 31 out after short, 2dayturn.  
+
+
 
 
 ### Weds 24 updates:
