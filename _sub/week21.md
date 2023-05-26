@@ -6,6 +6,21 @@
  - continue wk, bk, gk.  motivated.  
  - 
  
+### Fri 26:
+- met Victor early, positive chat, meeting Ashley and maybe Guan today.  Positive thoughts, sounds cool...
+-  some cases assigned, ready with new template
+-  stop cpb after work
+-  601 after work
+then:
+
+sat clear
+
+sun clean 45 am
+mon off Memorial day, naye clean 43 out am, 2dayturn
+weds 31 out after short, 2dayturn.  
+-  
+
+
 ### Thurs 25:
 
 - Absa says acct reopened but must transact asap, this is very big priority!!!!
@@ -43,8 +58,9 @@ Fri clean 601
 fri night setup absa ap
 
 sat clear
+
 sun clean 45 am
-mon off, naye 43 out, 2dayturn
+mon off, naye clean 43 out am, 2dayturn
 weds 31 out after short, 2dayturn.  
 
 
