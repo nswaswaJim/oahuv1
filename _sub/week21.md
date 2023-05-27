@@ -17,8 +17,10 @@ sat clear
 
 sun clean 45 am
 mon off Memorial day, naye clean 43 out am, 2dayturn
-weds 31 out after short, 2dayturn.  
--  
+weds 31 601 out after short, 2dayturn.  
+
+Ok, finish Fri:  No meeting today, however Victor still positive encourages to put in app.  Will do so Tues. 
+off to cp, then 601, then time is mine, make plan for tomorrow!
 
 
 ### Thurs 25:
