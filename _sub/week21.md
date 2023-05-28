@@ -166,3 +166,6 @@ https://worldsailing.guru/articles/choosingyourroute.aspx
 
 ultimate weather globe:
 https://earth.nullschool.net/
+
+and again, for git:
+git config credential.helper store
