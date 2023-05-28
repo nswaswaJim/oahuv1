@@ -169,3 +169,5 @@ https://earth.nullschool.net/
 
 and again, for git:
 git config credential.helper store
+
+(test)
