@@ -8,6 +8,9 @@ nav_exclude: false
 
 ## Nuuanu
 
+The route:  
+
+<p><img src="../oahuv1/images/map2.jpg/IMG_0929.JPG"   alt="Nuuanu trail route map" height="300px" /></p>
 
 
 
