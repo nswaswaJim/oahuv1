@@ -10,7 +10,7 @@ nav_exclude: false
 
 The route:  Urban biking through town.  Then uphill biking on Pali Highway.  Turn off at Toho No then winding road up to Ginger pond.  Ah, finally, hike!
 
-<p><img src="../oahuv1/images/nuuanu/map2.jpg"   alt="Nuuanu trail route map"  width="/></p>
+<p><img src="../oahuv1/images/nuuanu/map2.jpg"   alt="Nuuanu trail route map" /></p>
 
 The trail starts with an easy crossing of Nuuanu stream.  At this level you can rock-hop and keep your shoes on and feet dry.
 
