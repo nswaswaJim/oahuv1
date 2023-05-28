@@ -10,7 +10,7 @@ nav_exclude: false
 
 The route:  
 
-<p><img src="../oahuv1/images/map2.jpg/IMG_0929.JPG"   alt="Nuuanu trail route map" height="300px" /></p>
+<p><img src="../oahuv1/images/nuuanu/map2.jpg"   alt="Nuuanu trail route map" /></p>
 
 
 
