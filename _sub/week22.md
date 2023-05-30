@@ -188,3 +188,5 @@ https://earth.nullschool.net/
 https://www.sailboat-cruising.com/sailing-equipment-for-sale.html
 https://www.sailboat-cruising.com/sailing-equipment-for-sale.html
 https://www.sailboat-cruising.com/sailing-equipment-for-sale.html
+
+https://smalltridesign.com/masts/Rigging-Mast-Loads.html
