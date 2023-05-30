@@ -18,6 +18,8 @@ The climb was noteworthy in that it shattered my previous bike climb limits.  I 
 
 Or, test google maps:  
 
+<p><img src="https://www.google.com/maps/d/edit?mid=1Fs5nGCygzvK0C-KWwYiTGIuRBOtg3uw&usp=sharing" width="600" /></p>
+
 https://www.google.com/maps/d/edit?mid=1Fs5nGCygzvK0C-KWwYiTGIuRBOtg3uw&usp=sharing
 
 Trusty Christine, strong machine, got me to the top.  Note Diamond Head in the background.  Diamond Head, at 760' in this pic is well below the horizon, a good visual of our altitude gain.
