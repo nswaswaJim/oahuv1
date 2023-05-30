@@ -16,6 +16,9 @@ My first bike was a classic cruiser, a $110 rusty but very stylish, comfortable,
 Because video is better suited to capture the wide area of the surroundings.  Which is not always necessary, and for example I'm quite pleased with how the Manoa Falls pic turned out.  Plus, video will lay the foundation for the future upgrade to 4D AR, coming soon...<br>
 So video does a slightly better job of putting the viewer in the scene.  Videos are generally too large and laborious to email, hence a site to collect them in one place for sharing.  And while I'm at it, collect pics, stories, and other stuff.  
 
+** Why is my bike called Christine? ** <br>
+It's a joke about an old Stephen King story about a kid who buys an old rustbucket beater car to rebuild.  Turns out the car is posessed in a bad way and has an evil mind of it's own.  Well it ends badly but the kid has a great time rebuilding and driving her in the process.  So, when my bike sometimes doesn't shift when needed or does anything else  unexpected...Christine!
+
 
 ** Why Github?  ** <br>
 Well, it's free, I like that.  It's a place for collaboration, I like that too.  And a chance to learn a bit about the git process, which is a cool thing in a geeky way:  
