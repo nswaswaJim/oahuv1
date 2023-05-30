@@ -29,15 +29,10 @@ Panorama from the top:
 
 The goal for the day was to ride, so at this point it was mission mostly accomplished.  But why not do a little hike while up at the trailhead?  
 
-So I wandered off up Ualakaa trail.  There is such a network of trails I'm not sure which trail I was on at any given time.  But they are very well marked with signs and maps, impossible to get lost; very good easy trails, kind of place you can take people who don't hike much:
+So I wandered off up Ualakaa trail.  There is such a network of trails I'm not sure which trail I was on at any given time.  But they are very well marked with signs and maps, impossible to get lost; very good easy trails, kind of place you can take people who don't hike much.  Can hike in sandals:
 
 <p><img src="../oahuv1/images/puuualakaa/IMG_0980.JPG"   alt="ualakaa trail" height="300px" /></p>
 
-
-
-972 pano
-980 trail 
-makikitrailsample
 
 Peaceful sounds on the quiet, easy trail:
 <p>
@@ -46,8 +41,12 @@ Peaceful sounds on the quiet, easy trail:
   Your browser does not support the video tag.
 </video>
 </p>
-<p></p>
 
+### What goes up...  
+
+So, after a great hill climb on the bike, then a relaxing walk in the forest... time to come down.  Memories of a blown tube Saturday were fresh in my mind...
+
+We rode back down, alternatly using front and rear brake, s-turning across lanes (traffic permitting, and there were few cars) to help reduce the gradient/slow the descent; stopping at the vista to let the front tire cool after excessive braking.  With caution we kept speed under control and made it down.  Another epic day out!  
 
 
 
