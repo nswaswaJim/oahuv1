@@ -10,7 +10,7 @@ nav_exclude: false
 
 ### aka Roundtop ride
 
-The route:  Roundtop road uphill from Makiki.  Intent on something to push my low gear hill climbing limits, this was it!  Climbed 1000' on the bike, then short easy hike on the shady trails at the top.  
+The route:  Roundtop road uphill from Makiki.  Intent on something to push my low gear hill climbing limits, this was it!  Climbed 1000' on the bike, then short easy hike on the shady trails at the top.  A few miles urban biking at first, good warmup for what was to come.
 
 The climb was noteworthy in that it shattered my previous bike climb limits.  I had been much more confident in my hiking/climbing ability than bike/climbing, and had been limiting my outings accordingly, in finding trailheads about 500' elevation or so.  But today's batch of banana oatmeal must have been just right because we ground all the way up roundtop road, stopping only once at the scenic overlook vista about 600 feet up for about 15 minutes, then pushed on to the the park/trailhead.
 
@@ -20,11 +20,8 @@ Or, test google maps:
 
 standby multiple google maps test...
 
-
-
 and another map format test:  
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1Fs5nGCygzvK0C-KWwYiTGIuRBOtg3uw&ehbc=2E312F" width="640" height="480"></iframe>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Fs5nGCygzvK0C-KWwYiTGIuRBOtg3uw&ehbc=2E312F" width="800" height="600"></iframe>
 
