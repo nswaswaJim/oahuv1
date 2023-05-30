@@ -16,6 +16,10 @@ The climb was noteworthy in that it shattered my previous bike climb limits.  I 
 
 <p><img src="../oahuv1/images/puuualakaa/map.png"   alt="Nuuanu trail route map" /></p>
 
+Or, test google maps:  
+
+https://www.google.com/maps/d/edit?mid=1Fs5nGCygzvK0C-KWwYiTGIuRBOtg3uw&usp=sharing
+
 Trusty Christine, strong machine, got me to the top.  Note Diamond Head in the background.  Diamond Head, at 760' in this pic is well below the horizon, a good visual of our altitude gain.
 
 <p><img src="../oahuv1/images/puuualakaa/IMG_0962.JPG"   alt="Strong Machine" height="300px" /></p>
