@@ -26,6 +26,10 @@ Trusty Christine, strong machine, got me to the top.  Note Diamond Head in the b
 
 <p><img src="../oahuv1/images/puuualakaa/IMG_0962.JPG"   alt="Strong Machine" height="300px" /></p>
 
+and another map format test:  
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1Fs5nGCygzvK0C-KWwYiTGIuRBOtg3uw&ehbc=2E312F" width="640" height="480"></iframe>
+
 Panorama from the top:
 
 
