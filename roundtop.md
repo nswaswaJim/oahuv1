@@ -14,15 +14,13 @@ The route:  Roundtop road uphill from Makiki.  Intent on something to push my lo
 
 The climb was noteworthy in that it shattered my previous bike climb limits.  I had been much more confident in my hiking/climbing ability than bike/climbing, and had been limiting my outings accordingly, in finding trailheads about 500' elevation or so.  But today's batch of banana oatmeal must have been just right because we ground all the way up roundtop road, stopping only once at the scenic overlook vista about 600 feet up for about 15 minutes, then pushed on to the the park/trailhead.
 
-<p><img src="../oahuv1/images/nuuanu/map2.jpg"   alt="Nuuanu trail route map" /></p>
+<p><img src="../oahuv1/images/puuualakaa/map.png"   alt="Nuuanu trail route map" /></p>
 
 Trusty Christine, strong machine, got me to the top.  Note Diamond Head in the background.  Diamond Head, at 760' in this pic is well below the horizon, a good visual of our altitude gain.
 
 <p><img src="../oahuv1/images/puuualakaa/IMG_0962.JPG"   alt="Strong Machine" height="300px" /></p>
 
 
-"Build a mile of road, you can go one mile.  Build a mile of runway, you can go anywhere."<br>
-On the way up you start getting some vistas through the trees, like this one back towards HNL:
 
 <p><img src="../oahuv1/images/nuuanu/IMG_0929.JPG"   alt="HNL" height="300px" /></p>
 
