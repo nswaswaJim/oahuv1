@@ -6,9 +6,15 @@
 - long weekend was epic- bike, hike, swim, 601, 43, very healthy, project coming along, great weekend.  Carry that into week!!! 
 - Goals:  
     - talk john
-    - keep up abs
-    - org hse. 
-    - 
+    - keep up ab acct
+    - vic proj?
+    - org things
+    - consider wai?  
+    - map on github.  Link to roundtop map:  
+    -
+
+
+google.com/maps/d/edit?hl=en&mid=1Fs5nGCygzvK0C-KWwYiTGIuRBOtg3uw&ll=21.309938307568203%2C-157.82870948837592&z=16
 
 # Week21alt
 ## 22 may- 28 may.
@@ -178,3 +184,7 @@ https://worldsailing.guru/articles/choosingyourroute.aspx
 
 ultimate weather globe:
 https://earth.nullschool.net/
+
+https://www.sailboat-cruising.com/sailing-equipment-for-sale.html
+https://www.sailboat-cruising.com/sailing-equipment-for-sale.html
+https://www.sailboat-cruising.com/sailing-equipment-for-sale.html
