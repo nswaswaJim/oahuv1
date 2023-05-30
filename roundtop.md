@@ -20,49 +20,34 @@ Trusty Christine, strong machine, got me to the top.  Note Diamond Head in the b
 
 <p><img src="../oahuv1/images/puuualakaa/IMG_0962.JPG"   alt="Strong Machine" height="300px" /></p>
 
+Panorama from the top:
 
 
-<p><img src="../oahuv1/images/nuuanu/IMG_0929.JPG"   alt="HNL" height="300px" /></p>
+<p><img src="../oahuv1/images/puuualakaa/IMG_0972.JPG"   alt="Roundtop Panorama" height="300px" /></p>
 
-Alone in the tall lush forest full of calming peaceful sounds, hard to believe just a few miles back was urban biking:
+<a href="../oahuv1/images/puuualakaa/IMG_0972.JPG" target="blank">open in new tab</a>
 
+The goal for the day was to ride, so at this point it was mission mostly accomplished.  But why not do a little hike while up at the trailhead?  
+
+So I wandered off up Ualakaa trail.  There is such a network of trails I'm not sure which trail I was on at any given time.  But they are very well marked with signs and maps, impossible to get lost; very good easy trails, kind of place you can take people who don't hike much:
+
+<p><img src="../oahuv1/images/puuualakaa/IMG_0980.JPG"   alt="ualakaa trail" height="300px" /></p>
+
+
+
+972 pano
+980 trail 
+makikitrailsample
+
+Peaceful sounds on the quiet, easy trail:
 <p>
 <video width="640" height="480" controls>
-<source src="../oahuv1/images/nuuanu/nuuanu0.webm" type="video/webm">
+<source src="../oahuv1/images/puuualakaa/makikitrailsample.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
 <p></p>
 
-The trail starts to change after gaining some elevation- drier, more level, more sunshine:
-
-<p><img src="../oahuv1/images/nuuanu/IMG_0931.JPG"   alt="HNL" height="300px" /></p>
-
-The forest has changed higher up, with cool breeze now more prominent than the birds lower down the trail:
-<p>
-<video width="640" height="480" controls>
-<source src="../oahuv1/images/nuuanu/nuuanu.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-</p>
-
-I wasn't expecting a boardwalk!!!  The Nuuanu trail joins the Pauoa Flats trail, where a few boardwalks keep you above most of the mud.  
-
-<p><img src="../oahuv1/images/nuuanu/IMG_0939.JPG"   alt="HNL" height="300px" /></p>
-
-View from the end of Pauoa Flats trail, looking east through the Pali gap:
-
-<p><img src="../oahuv1/images/nuuanu/IMG_0941.JPG"   alt="HNL" height="300px" /></p>
-
-Christine.  She has been bombproof reliable in her mission of taking us to trailheads.  Good job girl!
-
-<p><img src="../oahuv1/images/nuuanu/IMG_0944.JPG"   alt="HNL" height="300px" /></p>
-
-...5 minutes after taking the above pic, we were rolling down the road back towards Pali Highway.  Going fast. While thinking in wonder that just a few hours before we were in a slow, steady, laborious uphill low gear hill climbing grind, working for every foot of elevation gain, pedal by pedal.  Now, enjoying that investment in potential energy at high speed...
-
-WHAM!  We hit a small pothole at high speed, a whole-body jarring kind of hit.  Still rolling at high speed I ask "wow, sorry Christine, you ok?!?" That we were still in control indicated maybe she was. The hissing sound from the front tire indicated perhaps she was not.  
-
-Things to be grateful for:  Lucky Pali Highway was very near.  Thanks to the cool people at TheBus, who gave Christine and I a ride down to town and to my now favorite bike shop Velohana on Nuuanu.  Where I met two awesome people, owner Will and Triathlete Ku, who stopped what they were doing and hooked me up with a new tube install and got me back on my way in no time.  Thank you Velohana!!! 
 
 
 
