@@ -20,7 +20,10 @@ Or, test google maps:
 
 <p><img src="https://www.google.com/maps/d/edit?mid=1Fs5nGCygzvK0C-KWwYiTGIuRBOtg3uw&usp=sharing" width="600" /></p>
 
-https://www.google.com/maps/d/edit?mid=1Fs5nGCygzvK0C-KWwYiTGIuRBOtg3uw&usp=sharing
+
+standby multiple google maps test...
+
+<p><img src="https://www.google.com/maps/d/embed?mid=1Fs5nGCygzvK0C-KWwYiTGIuRBOtg3uw&ehbc=2E312F" width="800"></p>
 
 
 and another map format test:  
