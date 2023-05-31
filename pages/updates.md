@@ -9,9 +9,11 @@ parent: Home
 
 ## Updates    
 
-Recent changes on top:
+This is brand new!!! 
 
-30 May:  Google Maps!!! Embedded Google Map feature into Tantalus Lookout - Puu Ualakaa State Park, AKA Roundtop Ride page.  Map is zoomable, expandable, and includes some Google features.  
+Most recent changes on top.  
+
+30 May:  Google Maps!!! Embedded Google Map feature into new page, Tantalus Lookout - Puu Ualakaa State Park, AKA Roundtop Ride page.  Map is zoomable, expandable, and includes some Google features.  
 
 Will add to most upcoming posts, and a few of the older ones.
 
