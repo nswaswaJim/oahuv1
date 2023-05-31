@@ -190,3 +190,7 @@ https://www.sailboat-cruising.com/sailing-equipment-for-sale.html
 https://www.sailboat-cruising.com/sailing-equipment-for-sale.html
 
 https://smalltridesign.com/masts/Rigging-Mast-Loads.html
+
+https://smalltridesign.com/masts/Rigging-Mast-Loads.html
+
+https://www.practical-sailor.com/sails-rigging-deckgear/chainplates-revisited
