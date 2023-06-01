@@ -2,6 +2,13 @@
 ---
 ## 30 May - 5 June
 ---
+
+## Weds.  
+- work- flow project is coming.
+- stby vic?
+- stby John?  Am ready man.
+- wallyworld:  blue stuff, bogoya, pb pwder.
+
 - another week is here!  Short week, starting on Tuesday.  
 - long weekend was epic- bike, hike, swim, 601, 43, very healthy, project coming along, great weekend.  Carry that into week!!! 
 - Goals:  
