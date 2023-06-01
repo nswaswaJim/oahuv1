@@ -1,7 +1,7 @@
 ---
 title: Bike Stories
 layout: default
-nav_order: 99
+nav_order: 
 regenerate: true
 nav_exclude: false
 ---
@@ -16,7 +16,7 @@ Then suddenly around lunchtime I noticed, parked behind my desk, in the office, 
 
 A well prepared bicyclist always carries a patch kit, a tool kit, a pump, etc blah blah.  That's not me.  All that stuff adds weight.  I carry a BusPass with a few bucks on it.  
 
-<p><img src="../oahuv1/images/bikebus.png"   alt="Strong Machine" height="300px" /></p>
+<p><img src="../oahuv1/images/bikebus.png"   alt="bike on thebus" height="300px" /></p>
 
 But instead of taking TheBus, and thus relocating my flat tire problem, I wondered...Fix-a-Flat?  That miracle spare tire in a can?  
 
@@ -28,4 +28,4 @@ Up the elevator to the 8th floor.  I changed out of my clean office shirt and in
 
 Sure enough, the fix-a-flat pumped the tire up quickly with only a portion of the can used.  I jumped on and whizzed down the garage and out onto the street, happily pedaling at high speed.  When we finally did need to stop it appeared fix a flat was doing it's job.  If there are no additions to this post, that is good news, it means it not only got me home but also back to work Thursday morning.
 
-<p><img src="../oahuv1/images/fixaflat.webp"   alt="Strong Machine" height="300px" /></p>
+<p><img src="../oahuv1/images/fixaflat.webp"   alt="fix a flat spare in a can" height="300px" /></p>
