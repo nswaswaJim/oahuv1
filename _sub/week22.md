@@ -224,3 +224,7 @@ https://smalltridesign.com/masts/Rigging-Mast-Loads.html
 https://smalltridesign.com/masts/Rigging-Mast-Loads.html
 
 https://www.practical-sailor.com/sails-rigging-deckgear/chainplates-revisited
+
+https://www.cruiserswiki.org/wiki/Email_at_Sea
+
+http://www.saildocs.com/gribinfo
