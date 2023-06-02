@@ -2,6 +2,29 @@
 ---
 ## 30 May - 5 June
 ---
+## Thurs 6 june
+
+did it.  Submitted resume/cover for the position victor was referring to.  Very unlikely but can't hurt I hope.
+
+Working on flow ppt, getting happy with it.
+
+No word from John D.  Njjagalla illyato.  Will reply at some point.  
+
+Update:  
+- clean 601 tonight, 43 tomorrow: plan:
+     - 601: tonight.  Home.  Pack for wai tonight.
+     - Fri:  go to work with wai bag packed.
+     - clean 43 aprestravaille.
+     - straight alamoana 825c.
+     - sleep early wai.
+     - prep trail food/water
+-SAT:  -Early start.  bikenhike.
+        - swim.
+        - -rnr with film?
+        - 
+-Sun: -early start.  alawai.  
+sun eve clean, geek.
+Mon back to work.
 
 ## Weds.  
 - work- flow project is coming.
