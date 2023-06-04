@@ -11,8 +11,10 @@ has_toc: false
 
 
 What started out as just a ride...ended up in a hike to the top of the highest peak on Oahu!   
+
+t1
 <p>
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
 <source src="../oahuv1/images/kaala.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
