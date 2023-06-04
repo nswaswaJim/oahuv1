@@ -71,7 +71,7 @@ Almost forgot the vids:
 ropes, pano, still got some steep above:
 <p>
 <video width="320" height="240" controls>
-<source src="../oahuv1/images/kaala1/kaala21.webm type="video/webm">
+<source src="../images/kaala1/kaala21.webm type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
@@ -80,7 +80,7 @@ ropes, pano, still got some steep above:
  pano vid from the top at the edge of the swamp 
 <<p>
 <video width="320" height="240" controls>
-<source src="../oahuv1/images/kaala1/kaala22.webm type="video/webm">
+<source src="../images/kaala1/kaala22.webm type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
