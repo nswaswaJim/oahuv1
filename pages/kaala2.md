@@ -15,8 +15,9 @@ We biked from Waianae, past the gate, past the place I had to stop and walk the 
 
 Route:  Blue for bike, red for hike.  (blue mark is actual spot).  Thanks to Alltrails for KML map data for hike portion:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1TqN_gaBoUwRE5S1eT6X5LbLiD5LyFXg&ehbc=2E312F" width="607"><iframe>
-
+<iframe src="https://www.google.com/maps/d/embed?mid=1TqN_gaBoUwRE5S1eT6X5LbLiD5LyFXg&ehbc=2E312F" width="800" height="600"></iframe>
+                                                                                                                         
+                                                                                                                          <p> test iframe size 2:</p>
 <iframe src="https://www.google.com/maps/d/embed?mid=1TqN_gaBoUwRE5S1eT6X5LbLiD5LyFXg&ehbc=2E312F" width="640" height="480"></iframe>
 
 
@@ -71,7 +72,7 @@ Almost forgot the vids:
 ropes, pano, still got some steep above:
 <p>
 <video width="320" height="240" controls>
-<source src="../images/kaala1/kaala21.webm type="video/webm">
+<source src="../images/kaala1/kaala21.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
@@ -80,7 +81,7 @@ ropes, pano, still got some steep above:
  pano vid from the top at the edge of the swamp 
 <<p>
 <video width="320" height="240" controls>
-<source src="../images/kaala1/kaala22.webm type="video/webm">
+<source src="../images/kaala1/kaala22.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
