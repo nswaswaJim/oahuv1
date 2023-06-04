@@ -15,7 +15,10 @@ We biked from Waianae, past the gate, past the place I had to stop and walk the 
 
 Route:  Blue for bike, red for hike.  (blue mark is actual spot).  Thanks to Alltrails for KML map data for hike portion:
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1TqN_gaBoUwRE5S1eT6X5LbLiD5LyFXg&ehbc=2E312F" width="607"><iframe>
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1TqN_gaBoUwRE5S1eT6X5LbLiD5LyFXg&ehbc=2E312F" width="640" height="480"></iframe>
+
 
 <p><img src="../images/kaala1/IMG_0983.JPG" title="vista" height="300" /><br>Bike, stay here and enjoy the view.  We'll deal with flat later.</p>
 
