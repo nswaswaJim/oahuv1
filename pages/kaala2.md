@@ -13,6 +13,10 @@ Back to Kaala!  This time with a plan- make the summit, in light hiking boots, w
 
 We biked from Waianae, past the gate, past the place I had to stop and walk the bike due to steep gradient.  Determinely climbed past those points in lowest gear today.  At this vista I noticed white bubbles coming from the front tire- ah, my fix a flat, coming out a different hole...Nothing to do about it now, the summit awaits.  Just time to change mode of transport, from bike to boots.  Was gonna hapen shortly anyway. 
 
+Route:  Blue for bike, red for hike.  (blue mark is actual spot).  Thanks to Alltrails for KML map data for hike portion:
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1TqN_gaBoUwRE5S1eT6X5LbLiD5LyFXg&ehbc=2E312F" width="640" height="480"></iframe>
+
 <p><img src="../images/kaala1/IMG_0983.JPG" title="vista" height="300" /><br>Bike, stay here and enjoy the view.  We'll deal with flat later.</p>
 
 The rest of the way up the lead-in road is mostly shady due to eastern ridge and entering the forest.  Not a bad hike- no traffic, this is a gated one-lane access road to the water tank:
