@@ -15,7 +15,14 @@ I had long been curious about this place- an undisturbed coastline?  No access b
 Logisticlly, it is also cool a way to get from Makaha to Haleiwa in a relatively short distance.  Going around via Kapolei etc seems so far.  
 
 I took the C bus as far as possible, just north side of Makaha.  Then biked to the pavement's end.  I had biked up this far once before but the rest was unknown to me except for what I had seen on Google Maps and read about on Alltrails, Trailforks, etc.  
-(test upload using dillinger)
+
+It's a nice ride to get things started.  About 5 or 6 miles up the coast on a road with very little traffic.  Starting near daybreak meant the morning sun was still well below the ridge on the right, and beautiful beaches, rocks, and surf on the left.  
+
+Then the trail.  It is an old railroad grade.  Tracks are long, long gone but in a very few places there are some wooden ties remaining.  Most of it is rideable on bike, even on my rigid (no suspension) bike.  And heavy bike, because I was packed:  Tons of water, some food, spare tube and pump- can't just get on the bus out here, more water, ok one more water that's enough...  
+
+There were a few sections of trail that needed walking the bike.  The old railroad grade was washed out and only the most extreme would attempt biking.  But these spots were very few, and limited to the west side of the point.  
+
+The point itself is pretty incredible!  First, just reaching a destination is very cool.  Especially a remote destination, not far from a crowded city but with almost no people.  There were two people, quietly fishing off rocks on the west side.  More Albatross than people.  
 
 
 The route:  
