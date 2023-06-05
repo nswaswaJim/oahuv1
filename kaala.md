@@ -10,9 +10,15 @@ has_toc: false
 ## Kaala, highest peak on Oahu
 
 
-What started out as just a ride...ended up in a hike to the top of the highest peak on Oahu!   
+Kaala!!! Revisited, reloaded, even better.
 
-t1
+Kaala1 link is the first climb.  Added a few pics after the second climb, (6/3). 
+
+Kaala2 obviously is the second, more improved bike 'n hike.  
+
+<p><img src="../oahuv1/images/kaala1/kaalaroute3d.png"   alt="kaala route" height="300px" /></p>
+
+
 <p>
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/kaala.webm" type="video/webm">
