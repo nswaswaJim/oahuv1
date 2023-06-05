@@ -31,7 +31,7 @@ Scenic view from the first grassy patch.  With the well traveled Mountainsmith b
 
 View looking back towards Makaha
 
-<p><img src="../oahuv1/images/kaena/IMG_0784JPG"   alt="beautiful coast" height="300px" /></p>
+<p><img src="../oahuv1/images/kaena/IMG_0784.JPG"   alt="beautiful coast" height="300px" /></p>
 
 
 The route:  
