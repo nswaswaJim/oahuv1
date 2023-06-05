@@ -18,9 +18,9 @@ Kaala1 link is the first climb.  Added a few pics after the second climb, (6/3).
 
 (test link format below, use nav menu links  at left if inop. Hey this whole thing is in progress:-)
 
-[kaala1](pages/kaala1.html")  
+[kaala1](pages/kaala1.html)  
 
-[kaala2](pages/kaala2.html")  
+[kaala2](pages/kaala2.html)  
 
 
 Kaala2 obviously is the second, more improved bike 'n hike.  
