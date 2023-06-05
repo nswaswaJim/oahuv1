@@ -20,7 +20,7 @@ Kaala1 link is the first climb.  Added a few pics after the second climb, (6/3).
 
 ["../oahuv1/pages/kaala1.html"](kaala1)  
 
-["../oahuv1/pages/kaala2.html"](kaala2)  
+[kaala2]("../oahuv1/pages/kaala2.html")  
 
 
 Kaala2 obviously is the second, more improved bike 'n hike.  
