@@ -23,15 +23,15 @@ Still in the clear on first hike...
   
 All still good, but getting into clouds:
 
-<p><img src="../images/kaala1/IMG_0707JPG" title="" height="300" /><br></p>
+<p><img src="../images/kaala1/IMG_0707.JPG" title="" height="300" /><br></p>
 
 By this point I was getting serious about the summit.  Go up.  Don't let sandals, or clouds stop you.  Annoyed Yoda on my shoulder saying "There is no try!!! Do, or do not!!!"
 
-<p><img src="../images/kaala1/IMG_0709JPG" title="" height="300" /><br></p>
+<p><img src="../images/kaala1/IMG_0709.JPG" title="" height="300" /><br></p>
 
 According to everything, there's a massive golf/ball radome up here at the top:
 
-<p><img src="../images/kaala1/IMG_0710JPG" title="" height="300" /><br></p>
+<p><img src="../images/kaala1/IMG_0710.JPG" title="" height="300" /><br></p>
 
 So, if you just count the result- success!  Made it to the top.  Despite poor planning.  Which gave a reason to come back...
 
