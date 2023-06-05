@@ -1,3 +1,13 @@
+# week23  
+
+- Kaala, revisited!  Take that into new week.
+- waiting JD.  
+- keep up flow ppt.  
+- bulk foods today.  
+- kaena write up today.
+- txfer ekilo.  
+- make good week.  No try, only do.  
+
 # week22
 ---
 ## 30 May - 5 June
