@@ -2,6 +2,7 @@
 title: Kaena
 layout: default
 regenerate: true
+nav_order: 5
 ---
 
 ## Kaena
