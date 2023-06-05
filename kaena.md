@@ -39,7 +39,8 @@ The route:
 <iframe src="https://www.google.com/maps/d/embed?mid=1CZUBpk4T-Emr3e8WM833FW9KwG7HOCY&ehbc=2E312F" width="800" height="600"></iframe>
 <p>
 
-Trail on way to point, and the point:  
+
+Trail on way to point, 
 
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/kaena1.webm" type="video/webm">
@@ -47,9 +48,39 @@ Trail on way to point, and the point:
 </video>
 </p>
 
+Welcome to Kaena Point!  
+
+<p><img src="../oahuv1/images/kaena/IMG_0789.JPG"   alt="kaena point sign" height="300px" /></p>
+
+
+Juvenile albatross surprised me!  Just came around the corner and there it was.  Crept around slowly and quietly and it didn't seem concerned.
+
+<p><img src="../oahuv1/images/kaena/lilAlbatross.jpg"   alt="lil' albatross" height="300px" /></p>
+
+
+The albatross are nice to watch.  Video also captures the remote beauty of this place:
+
+<p>
+<video width="640" height="480" controls>
+<source src="../oahuv1/images/kaena/kaenaalbatross1.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+</p>
+
+
+Kaena point.  Was a monk seal basking on the rocks (not in video, sorry!)
 <p>
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/kaena2.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+</p>
+
+Albatross courting
+
+<p>
+<video width="640" height="480" controls>
+<source src="../oahuv1/images/kaena/kaenaalbatross2.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
