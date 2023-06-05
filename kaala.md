@@ -16,6 +16,9 @@ Kaala gets two entries- not because she's the tallest, but because I couldn't st
 
 Kaala1 link is the first climb.  Added a few pics after the second climb, (6/3). 
 
+["../oahuv1/pages/kaala1.html"](kaala1)  
+
+
 Kaala2 obviously is the second, more improved bike 'n hike.  
 
 <p><img src="../oahuv1/images/kaala1/kaalaroute3d.png"   alt="kaala route" height="300px" /></p>
