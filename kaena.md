@@ -15,6 +15,7 @@ I had long been curious about this place- an undisturbed coastline?  No access b
 Logisticlly, it is also cool a way to get from Makaha to Haleiwa in a relatively short distance.  Going around via Kapolei etc seems so far.  
 
 I took the C bus as far as possible, just north side of Makaha.  Then biked to the pavement's end.  I had biked up this far once before but the rest was unknown to me except for what I had seen on Google Maps and read about on Alltrails, Trailforks, etc.  
+(test upload using dillinger)
 
 
 The route:  
