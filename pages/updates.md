@@ -3,6 +3,7 @@ title: Updates
 layout: default
 regenerate: true
 parent: Home
+nav_order: 1
 ---
 
 
@@ -11,7 +12,7 @@ parent: Home
 
 List of updates, most recent updates/changes on top.  
 
-**3 June** Kaala revisited, in progress
+**3 June** Kaala revisited!  New pics, mostly on Kaala2, but a few on Kaala1.  
 
 **31 May:**  Added 'Bike Stories' to nav links.  A place for stories mostly related to biking and not so much hiking.  Added story today about the second flat in 5 days.
 
