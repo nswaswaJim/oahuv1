@@ -7,7 +7,13 @@ regenerate: true
 ## Kaena
 
 
-Epic ride around northwest corner of Oahu, details to come.  
+Epic ride around the northwest corner of the island!!!
+
+I had long been curious about this place- an undisturbed coastline?  No access but by foot, boat, or bike?!  The rest of the island is circumfrenced by a road, but not Kaena point.  Let's check it out.  
+
+Logisticlly, it is also cool a way to get from Makaha to Haleiwa in a relatively short distance.  Going around via Kapolei etc seems so far.  
+
+I took the C bus as far as possible, just north side of Makaha.  Then biked to the pavement's end.  I had biked up this far once before but the rest was unknown to me except for what I had seen on Google Maps and read about on Alltrails, Trailforks, etc.  
 
 
 The route:  
