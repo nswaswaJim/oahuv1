@@ -11,7 +11,7 @@ parent: Kaala
 
 Back to Kaala!  This time with a plan- make the summit, in light hiking boots, with adequate food and water (unlike last time, stumbling to the summit exhausted in muddy sandals.)
 
-We biked from Waianae, past the gate, past the place I had to stop and walk the bike due to steep gradient.  Determinely climbed past those points in lowest gear today.  At this vista I noticed white bubbles coming from the front tire- ah, my fix a flat, coming out a different hole...Nothing to do about it now, the summit awaits.  Just time to change mode of transport, from bike to boots.  Was gonna hapen shortly anyway. 
+We biked from Waianae, past the gate, past the place I had to stop and walk the bike due to steep gradient.  Determinely climbed past those points in lowest gear today.  At this vista I noticed white bubbles coming from a pinhole leak in the front tire- ah, my fix a flat, coming out a different hole...Nothing to do about it now, the summit awaits.  Just time to change mode of transport, from bike to boots.  Was gonna hapen shortly anyway. 
 
 Route:  Blue for bike, red for hike.  (blue mark is actual spot).  Thanks to Alltrails for KML map data for hike portion:
 
@@ -87,7 +87,7 @@ If you've read this far, you are of course wondering about the flattening tire a
 
 Half can of fix-a-flat was still packed in the small bag I left on the bike.  It was enough to inflate the tire and slosh some fresh sealant, which...might get me down?  
 
-I jumped back on the bike and down the one lane road.   The front tire was slinging white sealant out on every rapid revolution.  Brakes are hot, hill is steep, and this little one-lane road has a very hard and unavoidable gate at the end.  So this had multiple ways it could have ended badly.  Yoda on my shoulder reminding me it could all work out ok.
+I jumped back on the bike and down the one lane road.   The front tire was slinging white sealant out on the tiny hole on every rapid revolution.  Brakes are hot, hill is steep, and this little one-lane road has a very hard and unavoidable gate at the end.  So this had multiple ways it could have ended badly.  Yoda on my shoulder reminding me it could all work out ok.
 
 And it did.  Tire stopped slinging sealant and remained inflated all the way down to Waianae.  Buspass can just stay in my pocket.  
 
