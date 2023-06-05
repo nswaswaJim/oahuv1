@@ -17,9 +17,6 @@ Route:  Blue for bike, red for hike.  (blue mark is actual spot).  Thanks to All
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1TqN_gaBoUwRE5S1eT6X5LbLiD5LyFXg&ehbc=2E312F" width="800" height="600"></iframe>
 
-<p> test iframe size 2:</p>
-<iframe src="https://www.google.com/maps/d/embed?mid=1TqN_gaBoUwRE5S1eT6X5LbLiD5LyFXg&ehbc=2E312F" width="640" height="480"></iframe>
-
 
 <p><img src="../images/kaala1/IMG_0983.JPG" title="vista" height="300" /><br>Bike, stay here and enjoy the view.  We'll deal with flat later.</p>
 
@@ -86,5 +83,13 @@ ropes, pano, still got some steep above:
 </video>
 </p>
 
+If you've read this far, you are of course wondering about the flattening tire at the trailhead of this bike 'n hike?  No problem at all...
 
+Half can of fix-a-flat was still packed in the small bag I left on the bike.  It was enough to inflate the tire and slosh some fresh sealant, which...might get me down?  
+
+I jumped back on the bike and down the one lane road.   The front tire was slinging white sealant out on every rapid revolution.  Brakes are hot, hill is steep, and this little one-lane road has a very hard and unavoidable gate at the end.  So this had multiple ways it could have ended badly.  Yoda on my shoulder reminding me it could all work out ok.
+
+And it did.  Tire stopped slinging sealant and remained inflated all the way down to Waianae.  Buspass can just stay in my pocket.  
+
+In Waianae, a visit to the best West-side bike shop, Hale Nalu, where Derek fixed me up.  Again.  Thanks man!
   
