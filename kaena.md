@@ -81,3 +81,9 @@ Albatross courting
   Your browser does not support the video tag.
 </video>
 </p>
+
+The ride out:  Didn't get any pics.  The trail was much better around the eastern side of the point.  After a total of about 4 miles of dirt biking, on top of the paved ride from Makaha, I was ready for the paved road, for easy bike into Haleiwa...
+
+Surprise!!! Headwinds made me feel like I was pedaling backwards.  Reached the small airport on the right.  The runway isn't very long, but about a thousand pedals later- the small runway was still on my right.  Compounding factors were taking a few wrong turns on the way into Haleiwa, a result of my own complacency (how hard is it?  Head east, bam, Haleiwa!) combined with my poor assumption that the bike path I had run into must, obviously, run into town.  But eventually I did roll into Haleiwa for a great coffee and burrito.  
+
+I took the bus back, as planned, to the west side.  
