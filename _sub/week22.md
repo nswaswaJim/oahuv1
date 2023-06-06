@@ -1,5 +1,15 @@
 # week23  
 
+## Tues 6 June.
+
+- Wow, maybe found it?  1981 Union Polaris 36’ sailboat.  Contacted Josh, meet Fri...  
+    - is more than I wanted, less of a project more an investment.  Naaaayeee,  mostly ready to go.  3 sails.  Needs paint.  
+    - needs place to stay.  Contact keehi leero.   get on it.  Even if not for this one, get ready.  
+    - article about elec boat batts:
+    - https://plugboats.com/plugboats-guide-to-electric-boat-batteries/
+    - 
+--- 
+
 - Kaala, revisited!  Take that into new week.
 - waiting JD.  
 - keep up flow ppt.  
