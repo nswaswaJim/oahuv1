@@ -2,6 +2,7 @@
 title: China Walls
 layout: default
 regenerate: true
+
 ---
 
 ## China Walls
@@ -14,12 +15,8 @@ It is a cool little spot- a secluded, tiny little park in a quiet neighborhood. 
 
 ![Warning sign:](images/chinawallssign.JPG)
 
-<p>test height:
+<p><img src="/images/chinawallssign.JPG" alt="China walls warning sign" height="450px" /></p>
 
-![Warning sign:](images/chinawallssign.JPG height="300px")
-
-end test
-</p>
 
 
 China Walls
