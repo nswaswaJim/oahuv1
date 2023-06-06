@@ -15,7 +15,7 @@ It is a cool little spot- a secluded, tiny little park in a quiet neighborhood. 
 
 ![Warning sign:](images/chinawallssign.JPG)
 
-<p><img src="/images/chinawallssign.JPG" alt="China walls warning sign" height="450px" /></p>
+<p><img src="images/chinawallssign.JPG" alt="China walls warning sign" height="450px" /></p>
 
 
 
