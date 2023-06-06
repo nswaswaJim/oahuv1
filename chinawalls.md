@@ -18,6 +18,8 @@ It is a cool little spot- a secluded, tiny little park in a quiet neighborhood. 
 
 
 
+Obviously I didn't get washed, but did see a turtle, a seal, and some spray:
+
 China Walls
 <p>
 <video width="640" height="480" controls>
