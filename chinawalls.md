@@ -15,13 +15,12 @@ It is a cool little spot- a secluded, tiny little park in a quiet neighborhood. 
 
 ![Warning sign:](images/chinawallssign.JPG)
 
-<p><img src="images/chinawallssign.JPG" alt="China walls warning sign" height="450px" /></p>
 
 
 
 China Walls
 <p>
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
 <source src="../oahuv1/images/walls1.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
