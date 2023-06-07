@@ -1,5 +1,44 @@
 # week23  
 
+## 7 June  
+
+options maybe:
+1) simplest- keep at alawai for now, if possible?
+    - get 120 temp, should be easy as part of txfr?
+    - get details worked out during that time
+    - work on keehi paper, relocate when able
+    - a little expensive, naye:
+        - secure
+        - logistics easy
+        - stay 3 nights/week when able, keep working, cleaning, 
+        - weekends sort things out
+        - huge relief timewise, can relax as sorting.
+        
+2) temp.  relocate keehi, mooring ball or dock?  
+    - need paperwork
+    - need kayak or small boat
+    - need to relocate 
+    - all happen in hurry 
+    - need secure. 
+    
+    Ok, latest iteration of plan:
+    
+    - Called Ala Wai. Spoke Isaac.  973-9727
+    - Is on temp already?  If so, 120 day clock is already running.
+    - if NOT on temp- yes, I do paperwork, can get 120 day!!!!!!!!
+    
+    Next:
+    
+    - still touch base with keehi for future, and mooring, etc.
+    - meet Josh.  
+    - 'nuther xfr.'
+    - organize ppwk apps for alawai
+    - longer out:
+        - batt system/charge, security, sails
+        - halyards up/down
+        - misc
+        - sleeps
+        - take Merin sailing.  
 ## Tues 6 June.
 
 - Wow, maybe found it?  1981 Union Polaris 36’ sailboat.  Contacted Josh, meet Fri...  
