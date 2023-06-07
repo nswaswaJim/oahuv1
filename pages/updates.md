@@ -12,6 +12,8 @@ nav_order: 1
 
 List of updates, most recent updates/changes on top.  
 
+**6 June** Added pics, write-up, and map to <a href="https://nswaswajim.github.io/oahuv1/kaena.html">Kaena point</a>
+
 **3 June** Kaala revisited!  New pics, mostly on Kaala2, but a few on Kaala1.  
 
 **31 May:**  Added 'Bike Stories' to nav links.  A place for stories mostly related to biking and not so much hiking.  Added story today about the second flat in 5 days.
