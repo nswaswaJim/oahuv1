@@ -24,7 +24,7 @@ The rest of the way up the lead-in road is mostly shady due to eastern ridge and
 
 <p><img src="../images/kaala1/IMG_0985.JPG" title="" height="300" /><br></p>
 
-After the lead-in road the trail begins.   Can be broken into three pards:  The trail, the ropes, and the swamp.  
+After the lead-in road the trail begins.   Can be broken into three parts:  The trail, the ropes, and the swamp.  
 
 The trail is a lovely hike through varying types of forest.  Shady, quiet except for the birds.  In general it is steep- but you need to get to the highest peak on Oahu, the trail can't do that by going level.  Tree roots provide natural stairs.
 
