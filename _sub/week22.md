@@ -42,6 +42,15 @@ options maybe:
         - misc
         - sleeps
         - take Merin sailing.  
+        
+        
+7 june rolling on:  Spoke with Gina @ keehi. 832-3464.  Very nice and helpful.  No available, 36ish is limit.  Even mooring is full but in general mooring is easier.  
+Gave me Joe number waianae 697-7095
+gave tidbit- keep alawai if at all possible.  make sure prior owner no fees. go office together confirm.
+(already spoke Jan keehi marine 845-6465, said no avail.)
+
+
+
 ## Tues 6 June.
 
 - Wow, maybe found it?  1981 Union Polaris 36’ sailboat.  Contacted Josh, meet Fri...  
