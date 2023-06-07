@@ -2,6 +2,9 @@
 
 ## 7 June  
 
+electric boat everything to know:
+https://boattest.com/article/tutorial-electrical-propulsion-boats
+
 options maybe:
 1) simplest- keep at alawai for now, if possible?
     - get 120 temp, should be easy as part of txfr?
@@ -287,3 +290,6 @@ https://www.practical-sailor.com/sails-rigging-deckgear/chainplates-revisited
 https://www.cruiserswiki.org/wiki/Email_at_Sea
 
 http://www.saildocs.com/gribinfo
+
+Electric boat everything to know:
+https://boattest.com/article/tutorial-electrical-propulsion-boats
