@@ -2,6 +2,17 @@
 
 ## 7 June  
 
+Summary calls:
+Alawai Isaac said can give 120 temp, implied space avail.
+Gina Keehi lagoon no space, just filled, but mooring balls move quicker
+Jan (yesterday) Keehi Marine no space
+
+
+call now Joe Waianae 
+La Mariana 
+
+- keep positive, keehi, wainae lamariana are all plan b's, still hoping for plan A, just stay at ala wai for now, inshallah....
+
 electric boat everything to know:
 https://boattest.com/article/tutorial-electrical-propulsion-boats
 
