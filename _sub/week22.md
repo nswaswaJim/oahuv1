@@ -1,5 +1,37 @@
 # week23  
 
+
+## 8 June
+
+breakdown:
+  -  boat  
+        - why sell?
+        - known issues?
+        - sails? 
+        - mast
+        - 
+    - logistics
+        - timeframe?
+        - ins agent?  txfr?
+        - survey done when?
+        - slip?  owe anything?
+        - rlnship corey?  go together clear?
+        - 
+               
+
+ - still need call waianae and lmsc.  both are plan b.  
+ - things from j36:  
+    - details on up.
+    - why sell?
+    - time frame.
+    - owe dock anything?
+    - relationship w/corey?
+    - survey? last done?
+    - insurance?  current agent?  like to just swap over.
+    - slip?  Can keep there?  
+    - need 120.  then what?
+    - 
+    - 
 ## 7 June  
 
 Summary calls:
