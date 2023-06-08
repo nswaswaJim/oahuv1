@@ -6,10 +6,10 @@ Summary calls:
 Alawai Isaac said can give 120 temp, implied space avail.
 Gina Keehi lagoon no space, just filled, but mooring balls move quicker
 Jan (yesterday) Keehi Marine no space
+Joe Waianae called after lunch, rang no answer
+La Mariana not in service.
 
 
-call now Joe Waianae 
-La Mariana 
 
 - keep positive, keehi, wainae lamariana are all plan b's, still hoping for plan A, just stay at ala wai for now, inshallah....
 
@@ -313,3 +313,12 @@ http://www.saildocs.com/gribinfo
 
 Electric boat everything to know:
 https://boattest.com/article/tutorial-electrical-propulsion-boats
+
+
+plotting:  
+https://map.openseamap.org/ 
+created kml, csv, etc.
+Then can load on NOAA
+https://www.nauticalcharts.noaa.gov/enconline/enconline.html
+also check 
+https://charts.noaa.gov/InteractiveCatalog/nrnc.shtml#mapTabs-2
