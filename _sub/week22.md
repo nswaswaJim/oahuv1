@@ -1,5 +1,36 @@
 # week23  
 
+## 9 June
+### good friday morning!
+
+- started boater safety education class, continue
+- downloaded forms for alawai, complete today
+- call again wai and lmsc.  (still, both plan b+c)
+
+Also:
+- 74 fuji john alden ketch- Ronell msgd back, 'off island a few weeks'.  At least in contact, boat still avail, possible slip.  A plan b alternate boat for sure, but slip is nice to know if possible.  Beautful but light boat, surely has some issue at that price?
+- Last but not least:  Meeting Josh today about union polaris 36.  is money but nearly ready and I can do the rest.  This is the project I want.  
+    (carried forward:)
+  -  boat  
+        - why sell?
+        - known issues?
+        - sails? 
+        - mast
+        - survey?
+        - 
+    - logistics
+        - timeframe?
+        - ins agent?  txfr?
+        - survey done when?
+        - slip?  owe anything?
+        - rlnship corey?  go together clear?
+
+    - me:  
+        - ala wai forms
+        - insurance
+        - boater safety crs
+        - 
+             - 
 
 ## 8 June
 
