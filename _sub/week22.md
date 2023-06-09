@@ -3,9 +3,17 @@
 ## 9 June
 ### good friday morning!
 
-- started boater safety education class, continue
+- started boater safety education class, continue (https://boatus.org/hawaii/)
 - downloaded forms for alawai, complete today
 - call again wai and lmsc.  (still, both plan b+c)
+- meet josh!!! up36.  Get organized for that today, meeting 5ish insh.  
+- 
+PS dates for form:
+- arrive Apr 2020
+- altres may or june 21
+- cch june 22 
+- filed 21 and 22
+- get addresses for above
 
 Also:
 - 74 fuji john alden ketch- Ronell msgd back, 'off island a few weeks'.  At least in contact, boat still avail, possible slip.  A plan b alternate boat for sure, but slip is nice to know if possible.  Beautful but light boat, surely has some issue at that price?
