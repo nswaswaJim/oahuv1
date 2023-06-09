@@ -10,22 +10,25 @@
 - 
 PS dates for form:
 - arrive Apr 2020
-- altres may or june 21
-- cch june 22 
-- filed 21 and 22
-- get addresses for above
+- altres may or june 21  967 Kapiolani Blvd, Honolulu, HI 96814
+- cch june 22 1822 Ke’eaumoku St, Honolulu, HI 96822
+- filed  state in 21 and 22
+- 
 
 Also:
 - 74 fuji john alden ketch- Ronell msgd back, 'off island a few weeks'.  At least in contact, boat still avail, possible slip.  A plan b alternate boat for sure, but slip is nice to know if possible.  Beautful but light boat, surely has some issue at that price?
 - Last but not least:  Meeting Josh today about union polaris 36.  is money but nearly ready and I can do the rest.  This is the project I want.  
     (carried forward:)
   -  boat  
+        - tour, for starters
         - why sell?
         - known issues?
         - sails? 
-        - mast
+        - mast, rigging
         - survey?
-        - 
+        - very interested in electric motor need to see
+        - while there look at bilge, keel
+        
     - logistics
         - timeframe?
         - ins agent?  txfr?
