@@ -9,6 +9,7 @@ breakdown:
         - known issues?
         - sails? 
         - mast
+        - survey?
         - 
     - logistics
         - timeframe?
@@ -16,6 +17,11 @@ breakdown:
         - survey done when?
         - slip?  owe anything?
         - rlnship corey?  go together clear?
+
+    - me:  
+        - ala wai forms
+        - insurance
+        - boater safety crs
         - 
                
 
