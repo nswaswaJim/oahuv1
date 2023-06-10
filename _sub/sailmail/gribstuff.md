@@ -1,3 +1,9 @@
+Installed XyGrib on HP (is in education start menu), may be different but also installed on chromey.
+
+presently saves to /home/jim/.xygrib/grib on HP.  Can change.
+
+Review email steps:
+
 http://www.saildocs.com/gribinfo
 
 Requesting grib files from Saildocs (2010-07-08)
