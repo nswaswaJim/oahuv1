@@ -1,5 +1,10 @@
 # week23  
 
+
+10 June
+Saturday morning.  Two cleanings today- busy but steady, no start before 11 so relaxed morning, plan all day for cleaning.  Slow but steady will get both jobs done, then- weekend!  Rest and rebuild time for bike'n'hike legs.  
+Moondrop....
+
 ## 9 June
 ### good friday morning!
 
