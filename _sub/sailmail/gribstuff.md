@@ -1,3 +1,6 @@
+sent and received email to get grib.  That's how it works over hf sailmail.  
+(also get in XyGrib viewer direct.  Learning this stuff!  
+
 Installed XyGrib on HP (is in education start menu), may be different but also installed on chromey.
 
 presently saves to /home/jim/.xygrib/grib on HP.  Can change.
