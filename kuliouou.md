@@ -39,7 +39,7 @@ windy forest sounds 2
 
 Stairmaster!  Almost there...  
 
-<p><img src="../oahuv1/images/kuliouou/IMG_1034.JPG" height="300px" alt="stairmaster trail/></p>
+<p><img src="../oahuv1/images/kuliouou/IMG_1034.JPG" height="300px" alt="stairmaster trail"></p>
 
 
 pano at the top
