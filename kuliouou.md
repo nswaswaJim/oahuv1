@@ -15,7 +15,7 @@ Ok, the bike portion:  About 8ish miles, about double my daily trip to work. Wit
 
 The route:  
 
-<iframe src="https://www.google.com/maps/d/embed?mid=19hohaKaMlOv-LKCxGIa-aFU-ym_-q1g&hl=en&ehbc=2E312F" width="600" height="800"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=19hohaKaMlOv-LKCxGIa-aFU-ym_-q1g&hl=en&ehbc=2E312F" width="800" height="600"></iframe>
 
 <br>  
 Blue for bike out, red for hike, purple-ish for return route on the Southwest side of Diamond head. 
