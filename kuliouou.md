@@ -8,24 +8,15 @@ nav_order: 1
 ## Kuliouou
 
 
-<!-- template  
-Scenic view from the first grassy patch.  With the well traveled Mountainsmith bag:
-<p><img src="../oahuv1/images/olympusgrass1JPG"   alt="bag at grassy spot 1" height="300px" /></p>
--->
 
 Switchbacks trail:
 
 <p><img src="../oahuv1/images/kuliouou/IMG_1029.JPG" height="300px" alt="switchbacks trail"/></p>
 
 
+Pine forest trail:  
+
 <p><img src="../oahuv1/images/kuliouou/IMG_1030.JPG" height="300px" alt="pine trail"/></p>
-
-<!-- vid here>
-<-->
-
-<p><img src="../oahuv1/images/kuliouou/IMG_1034.JPG" height="300px" alt="stairmaster trail/></p>
-
-<p><img src="../oahuv1/images/kuliouou/IMG_1029.JPG" height="300px" alt="switchbacks trail"/></p>
 
 forest sounds 1
 <p>
@@ -36,7 +27,6 @@ forest sounds 1
 </p>
 
 
-<p><img src="../oahuv1/images/kuliouou/IMG_1029.JPG" height="300px" alt="switchbacks trail"/></p>
 
 
 windy forest sounds 2
@@ -47,7 +37,9 @@ windy forest sounds 2
 </video>
 </p>
 
+Stairmaster!  Almost there...  
 
+<p><img src="../oahuv1/images/kuliouou/IMG_1034.JPG" height="300px" alt="stairmaster trail/></p>
 
 
 pano at the top
