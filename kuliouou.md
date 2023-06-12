@@ -44,7 +44,8 @@ Stairmaster!  Almost there...
 
 pano at the top
 
-<p><img src="../oahuv1/images/kuliouou/IMG_1036.JPG" height="300px" alt="pano top"/></p>
+<p><img src="../oahuv1/images/kuliouou/IMG_1036.JPG" height="300px" alt="pano top"/></p><br>
+<a href="..oahuv1/images/kuliouou/IMG_1036.JPG" target="_blank">Open pano image in new tab, then click to zoom and enjoy!</a>
 
 ridgeline top
 
