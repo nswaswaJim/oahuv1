@@ -38,7 +38,7 @@ Swithching to pine forest trail:
 forest sounds 1
 <p>
 <video width="640" height="480" controls>
-<source src="../oahuv1/images/kuliouou/forest1.webm" type="video/webm">
+<source src="../oahuv1/images/kuliouou/forest2.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
@@ -48,7 +48,7 @@ With more altitude you reach the ridge, where the predominent sound is wonderful
 windy forest sounds 2
 <p>
 <video width="640" height="480" controls>
-<source src="../oahuv1/images/kuliouou/forest2.webm" type="video/webm">
+<source src="../oahuv1/images/kuliouou/forest1.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
@@ -61,7 +61,7 @@ When you reach the Stairmaster you're almost there!  Views start getting awesome
 The top!  Panoramic pic below, clickable and zoomable when opened in new tab.
 
 <p><img src="../oahuv1/images/kuliouou/IMG_1036.JPG" height="300px" alt="pano top"/></p><br>
-<a href="..oahuv1/images/kuliouou/IMG_1036.JPG" target="_blank">Open pano image in new tab, then click to zoom and enjoy!</a>
+<a href="https://nswaswajim.github.io/oahuv1/images/kuliouou/IMG_1036.JPG" target="_blank">Open pano image in new tab, then click to zoom and enjoy!</a>
 
 Morning sun reflecting off the water and giving the ridgeline beautiful light and shadows:
 
@@ -78,6 +78,11 @@ Of course a panoramic video as well.
 
 On the way down, just below the peak, is time for the views of the coast looking west.  
 <p><img src="../oahuv1/images/kuliouou/IMG_1043.JPG" height="300px" alt="pano west"/></p>
+
+<p><img src="../oahuv1/images/kuliouou/IMG_1036.JPG" height="300px" alt="pano top"/></p><br>
+<a href="https://nswaswajim.github.io/oahuv1/images/kuliouou/IMG_1043.JPG" target="_blank">Open west coast image in new tab, then click to zoom and enjoy!</a>
+
+
 
 No trip complete without a pic of Christine, who flawlessly got us to Kuliouou trailhead.  Up, around, and down both sides of Diamond head, and back home.  Then to a coffee shop to relax and upload pics.  And sitting next to me now as I write this up in the shade with a cool breeze on the edge of the water.  What a great day!
 
