@@ -7,9 +7,13 @@ nav_order: 1
 
 ## Kuliouou
 
+A fantastic bike 'n hike!!!
 
+More writeup coming, for now:
 
-Switchbacks trail:
+The route:  
+
+<iframe src="https://www.google.com/maps/d/embed?mid=19hohaKaMlOv-LKCxGIa-aFU-ym_-q1g&hl=en&ehbc=2E312F" width="600" height="800"></iframe>
 
 <p><img src="../oahuv1/images/kuliouou/IMG_1029.JPG" height="300px" alt="switchbacks trail"/></p>
 
