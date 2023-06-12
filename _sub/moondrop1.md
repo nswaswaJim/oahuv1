@@ -75,11 +75,36 @@ Then:
 - make more habitable for stay
 - clean part 3
 
-- order cruel sea for Josh
+- order cruel sea for Josh?
 
 - other stuff- alltrails, keep up blog, keep fresh with Vic, keep up bike'nhike, sanity mostly.  Eyes open, keep life SA.  
 
+ ### 12 June  
  
+ Keeping on.  Mon.  easy day, reco ride.  Out the house.  
+ -tonight- finish bsconline
+ - marinaforms  
+ - tx. 
+ - still check cruel sea josh.
+ while in town?  Used bookstore.
+
+what else i can do: Study everything.
+- study sails
+- ebay,craigslist
+- dc electrics
+- hf comms
+- iridiumgo? oba pactor?
+
+**Othernews**:
+
+-Ronell.  She explained story on ketch.  Sounds mostly reasonable, still waiting what she means 'transfer slip'?  LMSC?  I explained that Rainbow marina won't work, waiting reply.  If lmsc maybe a good thing.  2 project idea is not completely insane but yeah it kinda is.  so ketch remains plan b regardless.  Better investment opportinity probably.  But not for my mission.  Moondrop is heavy.  Teak Tank is my goal.  Ketch is plan B- not a bad plan b but nonetheless b. Her main purpose now is distracting the others- similar class, price range, but prettier.   Still keep plan b open, keep life SA.  But Moondrop is going to be at Keehi soon, on mooring ball.  Likely sequence, will know more Weds:
+Josh finds new place.  His timeline, i believe, July out alawai, Aug travel?  It's in his interest to find new place:  Gives him extra month to move, gives fallback in case not sold, knows I will hand him cash when moved.  Panelpuller is not a guarantee, is still looking, Josh don't want August roll around and still looking buyer,  I'm the bird in his hand.  
+
+while in town, don't waste easy day!  Visit Keehi just for look.  Maybe see plan b is there?  Check HD:  solar, wind.  glass and resin.  
+
+
+
+
 
 
 
