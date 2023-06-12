@@ -27,7 +27,28 @@ Switchbacks trail:
 
 <p><img src="../oahuv1/images/kuliouou/IMG_1029.JPG" height="300px" alt="switchbacks trail"/></p>
 
+forest sounds 1
+<p>
+<video width="640" height="480" controls>
+<source src="../oahuv1/images/kuliouou/forest1.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+</p>
+
+
 <p><img src="../oahuv1/images/kuliouou/IMG_1029.JPG" height="300px" alt="switchbacks trail"/></p>
+
+
+windy forest sounds 2
+<p>
+<video width="640" height="480" controls>
+<source src="../oahuv1/images/kuliouou/forest2.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+</p>
+
+
+
 
 pano at the top
 
@@ -36,6 +57,16 @@ pano at the top
 ridgeline top
 
 <p><img src="../oahuv1/images/kuliouou/IMG_1037.JPG" height="300px" alt="switchbacks trail"/></p>
+
+video top
+<p>
+<video width="640" height="480" controls>
+<source src="../oahuv1/images/kuliouou/top.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+</p>
+
+
 
 pano west
 
@@ -52,13 +83,6 @@ The route:
 <p>
 
 
-Trail on way to point:  
-<p>
-<video width="640" height="480" controls>
-<source src="../oahuv1/images/kaena1.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-</p>
 
 
 
