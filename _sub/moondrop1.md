@@ -43,7 +43,44 @@ Distant plan B is 74 fuji john alden ketch.  Looks much nicer than moondrop in p
 So, insha Allah, I might have made a verbal MOU to buy Moondrop.  Best case- she's mine, she's at keehi shortly, Josh and I transfer things smoothly, and soon I'm the one living on Moondrop at least part time.  Cleaning, servicing, with all my heart and love.  Still bike'n'hike, still work, still clean, nothing else change.  Except my heart will be overflowing.  
 
 
-### 10 June
+### 11 June
+
+Sunday:  A great, great bike 'n hike day!!!  And, bonus, long weekend, off tomorrow!!!  Will enjoy a bit of rest, pushed bikenhike kinda hard today. Sleep good tonight...
+
+Thoughts all day about Moondrop.  Josh texted me in afternoon, like:  Keehi closed Tues, will go in Weds to check.  
+
+No problem, this is good, he's still working hard to get to Keehi, the other guy is probably still interested in pulling panels and haggling, where Josh is interested in where to keep boat and he knows I'm ready.  I told him wherever she parks, I'll take her.  Just need more time than what the little remaining on Alawai is.  Convenient as Ala wai would have been, Keehi be even better, moooring ball even best yet, come on Josh work your magic!  Moondrop, aka the Teak Tank, is very likely going to be mine soon.  
+
+Things I can do while waiting: 
+- finish boater safety course.  
+- make nice printable pdfs for DOBOR.  
+- plan day to get ppwrk to sand island.  Weds pm?  Work half day?  Research:  Wait list per harbor or island wide?  ie submit once or at each desired?  Find out Tuesday.    
+- still follow up ronell.  Won't need that option but per murphy, if i keep the option I won't need it.  
+
+- look into transport- that inflatable kayak looked best if moored.  If not bike is perfect keehi.  If Wai, I already know the drill.  If Hale, need research but will be similar to wai.  Can't do anything until I know location but at least have plan at the ready.  
+- start organize specific plan and prioritize:
+- security
+    - padlock?  Combo?
+    - md?  Don't piss off neighbors.
+    - other ways?  Josh will have good grip on this btw.  
+- rough clean
+- organize for night stay
+- elec/water
+
+Then:
+- deck cover worst spots
+- start treating worst spots
+- keep on where Josh started on outside, inside can wait
+- clean part 2
+- make more habitable for stay
+- clean part 3
+
+- order cruel sea for Josh
+
+- other stuff- alltrails, keep up blog, keep fresh with Vic, keep up bike'nhike, sanity mostly.  Eyes open, keep life SA.  
+
+ 
+
 
 
 
