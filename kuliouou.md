@@ -7,9 +7,13 @@ nav_order: 1
 
 ## Kuliouou
 
-A fantastic bike 'n hike!!!
+### A fantastic bike 'n hike!!!
 
-More writeup coming, for now:
+Got lucky with an outstanding trip today!  Semi-randomly picked a spot on Google Maps and ended up shocking myself with how great a bike and hike it turned out to be!  
+
+Ok, the bike portion:  About 8ish miles.  For scale, that's like the same distance as if I'd mistakenly biked to work on a Saturday so had to turn around and bike home.  With a small difference- hills!  There's no way to get around Diamond head without climbing, and for the Kuliouou trail there is a literally breathtaking steep climb before the trailhead.  But not for too long, just enough to ensure my heart was beating before even starting the hike.  
+
+Ok, the hike:
 
 The route:  
 
