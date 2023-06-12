@@ -1,5 +1,5 @@
 ---
-title: Kuliouou
+title: kuliouou
 layout: default
 regenerate: true
 nav_order: 1
