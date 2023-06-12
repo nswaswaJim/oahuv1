@@ -79,7 +79,6 @@ Of course a panoramic video as well.
 On the way down, just below the peak, is time for the views of the coast looking west.  
 <p><img src="../oahuv1/images/kuliouou/IMG_1043.JPG" height="300px" alt="pano west"/></p>
 
-<p><img src="../oahuv1/images/kuliouou/IMG_1036.JPG" height="300px" alt="pano top"/></p><br>
 <a href="https://nswaswajim.github.io/oahuv1/images/kuliouou/IMG_1043.JPG" target="_blank">Open west coast image in new tab, then click to zoom and enjoy!</a>
 
 
