@@ -1,5 +1,12 @@
 # week23  
 
+## 12 June
+Monday- day off, easy riding about. lmsc closed today but saw a mast getting stepped, kinda cool.  bscourse coming, forms written up just need print, submit.  Thursday pm, take half day after lunch?  Await Josh on Weds.  Await Ronell.  Don't forget plan C, spice.  Or D, cabot yawl, ever sell?  John you need to check emails man.  
+
+
+
+## 11 June
+- most epic bike'n'hike, Kuliouou ridge!  Great outing, then great blogging, slept great.   
 
 10 June
 Saturday morning.  Two cleanings today- busy but steady, no start before 11 so relaxed morning, plan all day for cleaning.  Slow but steady will get both jobs done, then- weekend!  Rest and rebuild time for bike'n'hike legs.  
