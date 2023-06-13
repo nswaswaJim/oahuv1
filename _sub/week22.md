@@ -1,5 +1,18 @@
 # week23  
 
+Mon night, ready for the week kinda:
+Tues:  work, clean 43 qt.  
+Weds:  work, clean 45 qt.  Big news day from J, much depends...
+Thur:  work, maybe half day to submit at keehi (and others?)  
+Fri:  Work, c bus to waianae
+Sat:  Haleiwa, go nail it.  
+Sun: recoup, ready.
+Mon:  Nanakuli. Clean 45, not qt afaik.  
+Tues:  work, 43 qt.
+Weds:  601 empty but maybe wait a day, 
+
+
+
 ## 12 June
 Monday- day off, easy riding about. lmsc closed today but saw a mast getting stepped, kinda cool.  bscourse coming, forms written up just need print, submit.  Thursday pm, take half day after lunch?  Await Josh on Weds.  Await Ronell.  Don't forget plan C, spice.  Or D, cabot yawl, ever sell?  John you need to check emails man.  
 
