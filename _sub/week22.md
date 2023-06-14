@@ -1,3 +1,25 @@
+# week 24
+
+## Tues 13 June
+
+electric boat article, possibly all need to know:
+https://sailinguma.com/our-boat/electric-motor/
+
+Not just about electric boat conversion but also life:
+    - "don't buy a couch".
+    
+No news from Josh (none expected until Weds), none from Ronell but expect day or two.  
+
+Electric plan:
+    overview
+    inventory
+    test componenents
+    get basic test bed working, then:
+    3 components:
+        - elec bank 4batt
+        - house bank 2 batt
+        - aux bank can divert either side 2 batt.  Simple!
+
 # week23  
 
 Mon night, ready for the week kinda:
