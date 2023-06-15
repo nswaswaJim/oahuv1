@@ -2,14 +2,19 @@
 
 ## Weds 14 June
 
+In other news:
+WX source, maybe don't need pactor modem?
+https://seatech.systems/2018/10/21/hf-ssb-weatherfax-reception-using-your-smartphone-or-tablet/
+
 so now plan:
 weds clean 45
 Thurs work per normal, laundry, finish bsc
 Fri same
 Sat md and j!!!
-sat or sun wai.
-Mon nanakuli, home seashore
-tues clean
+sat eve wai.
+Sun kaena?
+Mon nanakuli, home ss 45 qt maybe
+tues 43 qt for sure
 weds clean ughh
 Thurs catchup
 
@@ -538,3 +543,6 @@ Then can load on NOAA
 https://www.nauticalcharts.noaa.gov/enconline/enconline.html
 also check 
 https://charts.noaa.gov/InteractiveCatalog/nrnc.shtml#mapTabs-2
+
+tablet weather from HF:  
+https://seatech.systems/2018/10/21/hf-ssb-weatherfax-reception-using-your-smartphone-or-tablet/
