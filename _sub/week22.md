@@ -1,5 +1,83 @@
 # week 24
 
+## Weds 14 June
+
+Weds update:
+
+Josh says:  Keehi has mooring ball avail!  Next week!  Details still unknown but sounded like it was my choice?!  I think he still inquiring lmsc and wai, however I did let him know mooring fine by me.  At Keehi pref.  
+ALSO, says Sat am- go through rigging!!!!  So sounds like panel puller is out?!  Banange yes let's get her to Keehi change money and be done!  Well not done, far from done.  But started!
+
+So this the plan, updated a little:
+
+- fantastic!!!  Big sigh relief, then:
+ still standing by lmsc?  Assume keehi mooring:
+will need kayak if so.  Maybe Josh help, or get uber or lyft.  
+Majors:
+    
+	- when move?
+	- when txfr money?
+	- insurance/paperwork when?
+minors:
+	- ride along for move?  
+	- Josh stay how long?
+	- dock or intek?
+	- 
+Plan:  
+    - friday half day, get ppk into Keehi.  
+	- work around j schedule.
+	- love every single minute of life.
+
+Will need:
+
+SO, gonna be busy:  
+
+Good morning!  thoughts:
+
+Weds:  Come on Josh force be with you!
+
+Keehi if Yes:
+- fantastic!!!  Big sigh relief, then:
+Majors:
+	- when move?
+	- when txfr money?
+	- insurance/paperwork when?
+minors:
+	- ride along for move?  
+	- Josh stay how long?
+	- dock or intek?
+	- 
+Plan:  
+    - friday half day, get ppk into Keehi.  
+	- work around j schedule.
+	- love every single minute of life.
+
+
+Keehi no or indefinite:    
+    - life has obstacles...  Let J know I cannot let md slip away, find plan for md:
+    - many balls available keehi, J knows system.  
+    - if keehi not work:  Still Waianae or Haleiwa. 
+    take some comfort in knowledge of b and c and d...
+    - still, Ronell ketch is a remote plan b.
+    - plan c is spice. 
+    - submit keehi anyway.  Wai, ala wai, etc when able.   
+    
+ Back to plan A!  Moondrop, in Keehi or whereever:
+        - work asmap.
+        - cont clean.
+        - stay md/prom/wai.  
+        - when prom unable, md/wai.  
+        - when cch finish:  stay md/wai.
+        - when cch finish:  any other or ue.  or wind. 
+        
+    
+    
+    
+
+
+
+
+	
+
 ## Tues 13 June
 
 electric boat article, possibly all need to know:
