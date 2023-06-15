@@ -2,6 +2,17 @@
 
 ## Weds 14 June
 
+so now plan:
+weds clean 45
+Thurs work per normal, laundry, finish bsc
+Fri same
+Sat md and j!!!
+sat or sun wai.
+Mon nanakuli, home seashore
+tues clean
+weds clean ughh
+Thurs catchup
+
 Weds update:
 
 Josh says:  Keehi has mooring ball avail!  Next week!  Details still unknown but sounded like it was my choice?!  I think he still inquiring lmsc and wai, however I did let him know mooring fine by me.  At Keehi pref.  
