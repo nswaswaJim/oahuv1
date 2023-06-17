@@ -1,5 +1,23 @@
 # week 24
 
+## Fri 16 June morning:
+- fb marketplace, inquired pelican kayak, standing by.
+- also no reply yet Ronell but should be no matter because:
+- meeting Josh tomorrow!!!  Haven't yet shored up time, but we will today.  If (When) so that should pretty much seal it.  Moondrop!!!  
+
+related:  later check vid on canoe stern in weather:  
+https://forums.sailboatowners.com/threads/canoe-stern-and-following-seas.1249924668/
+
+- work related:  Mon is nanakuli event, sleep sun wai.  Sun do kaena point if Sat all works out:  Best is:
+    -   - kayak fri eve
+    -   - josh and md sat am
+    -   - wai sat eve
+    -   - kaena sun am 
+    -   - nanakuli mon
+    -   - mon eve clean 45 (after 4 day)
+    -   - tues work, then clean 43 qt
+    -   - weds or thurs clean 601
+
 ## Weds 14 June
 
 In other news:
@@ -546,3 +564,6 @@ https://charts.noaa.gov/InteractiveCatalog/nrnc.shtml#mapTabs-2
 
 tablet weather from HF:  
 https://seatech.systems/2018/10/21/hf-ssb-weatherfax-reception-using-your-smartphone-or-tablet/
+
+Charts from NOAA:
+https://www.nauticalcharts.noaa.gov/enconline/enconline.html
