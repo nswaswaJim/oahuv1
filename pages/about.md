@@ -25,7 +25,6 @@ Panorimic images can be clicked to open a much larger zoomable image which can b
 
 Best viewed in Chrome, tested and appears working in Firefox, Edge, and Opera.  Mobiles- large items like videos, maps, and panoramics display better in landscape mode, but much better on larger display.
 
-Cool in a geeky way:  This site built on an old laptop running Linux purchased from second hand store for $50; site hosted on Github's free pages, built using free software to make an easily updateable/navigable site- so I can spend more time bikin' 'n hikin'; free maps from Google;  pics and videos taken with a used Iphone donated by my awesome brother-in-law who hooked me up when I was a phoneless covid immigrant.  
 What is github?  Free, I like that.  It's a place for collaboration, I like that too.  And a chance to learn a bit about the git process, which is a cool thing in a geeky way:  
 
 <p><img src="../images/gitprocess.png" height="300" title="git process" /><br /></p>
