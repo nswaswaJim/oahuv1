@@ -21,7 +21,7 @@ Put the viewer in the scene a little better.  A pic is worth a thousand words, a
 Some nice features in case you weren't aware:
 Videos can be made full-screen, click the box in the player controls at bottom of video.
 Most route maps are embedded from Google Maps thus have zoom and full-screen features enabled. 
-Panorimic images can be clicked to open a much larger zoomable image which can be scrolled around.  
+Panoramic images can be clicked to open a much larger zoomable image which can be scrolled around.  
 
 Best viewed in Chrome, tested and appears working in Firefox, Edge, and Opera.  Mobiles- large items like videos, maps, and panoramics display better in landscape mode, but much better on larger display.
 
