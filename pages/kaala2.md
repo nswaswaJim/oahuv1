@@ -34,7 +34,7 @@ When the ropes begin you know the steep is about to get steeper.
 
 <p><img src="../images/kaala1/IMG_0992.JPG" title="" height="300" /><br></p>
 
-When the ropse start a few things happen:  You pareallel a fence for as short bit, the fence serving a good purpose.  The views out towards the coast open up beautifully.  And the trail continues to get steeper.
+When the ropse start a few things happen:  You parallel a fence for as short bit, the fence serving a good purpose.  The views out towards the coast open up beautifully.  And the trail continues to get steeper.
 
 <p><img src="../images/kaala1/IMG_0993.JPG" title="" height="300" /><br></p>
 
