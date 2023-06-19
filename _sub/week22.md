@@ -1,5 +1,35 @@
 # week 24
 
+## Sun 18:
+
+Met with Josh Sat am.  Moondrop, awesome dream, Josh gave me a little deeper tour, showed me some details of what needs attention inside (noting is like 911 at this point, though does need attention.)  He had removed 16 batts, wow like submarine!  They were from like 2013ish, some bulging, no point trying to save.  He gave me tour of rigging, all seems much more straightforward after very brief hoisting, furling.  I can do all this.  
+He gave good update- going back Mon to Keehi to confirm ball, and is hoping Weds to move.  His progress is remarkable, he will most likely achieve Weds.  I told him I now have kayak, can put on board for Weds?  Likely but will confirm.  No matter.  Also told him I can take off Weds, or any other day needed, for paperwork at Keehi.  But weds probably busy with move, likely won't be keehi office day on Weds.  
+He dropped bombshell:  Said to be fair and honest another guy is seriously looking (I suspect panel puller dude?), and though Josh does like him, Josh also thinks he's not realistic about reality of being on a mooring ball.  Josh also said the other guy has shown proof of funds, I have not; further said that when Josh told other guy about me he said 'bidding war!' as if he really wants MD and has the cash to back it.  I said nothing about bidding war, don't wanna get into one, and really can't afford it.  Hopefully my quiet email of screenshot of avail funds and affirmation that I can handle ball will be enough.  Summary, Josh did sound like I was his plan B at that moment.  Nothing I could do except keep being cool and send that simple mail.  One thing might be in my favor is if bidding war panel puller idiot realizes I'm not into a bidding war, he may then start trying to talk Josh down, (maybe again, as he likely already did if he's kind of guy quick to start a bidding war to get the boat, likely to haggle to get better price if he thinks he can.)  So maybe he will haggle again due to his haggling and inability to handle mooring reality; and Josh will have better reality that this was meant for me.  Nothing to do but wish for best until Mon.  Other thing in my favor- Josh did take time to meet with me, Saturday viewing was his idea, and at a time when he's obviously very busy.  Maybe he just wanted chance in person to get confirmation on the cash issue?  Maybe seeing what my reaction would be- would I offer more, could he be doing typical 'I got another buyer...' to see what I'll pay?  Don't know, and nothing I can do about any of that but wait, come on Yoda and The Force, I'm really needing this.  Don't forget there are plan b, and c, and d.
+
+Otherwise week is on schedule for most part.  Skipped the Sunday Kaena ride, first day of relax- no work, no ride, no clean- in long time, was good time to give legs rebuild day and take a rest, this week already busy.  Updated and carried forward, week 25:
+
+  -   - nanakuli mon
+    -   - mon eve clean 45 (after 4 day)
+    -   - tues work, then clean 43 qt
+    -   - weds or thurs clean 601
+
+Mon is news day from Josh on mooring ball, Weds is his planned move day, will know more by then.  
+- need to try to get kayak to moondrop Tues?  Good idea:  Off early.  bus home.  Relocate boat.  Straight to 43.  
+
+
+Good weather article in meantime:
+https://bluewatermiles.com/extras/heavy-weather/
+
+Inludes simple summary of seasons:
+
+Tropical Revolving Storms (TRS) that must be avoided at all costs (North Atlantic and North Pacific: July - November; Bay of Bengal and Arabian Sea: June - November; South Pacific and South Indian Ocean: November - April).
+
+
+Tropical Revolving Storms (TRS) that must be avoided at all costs (North Atlantic and North Pacific: July - November; Bay of Bengal and Arabian Sea: June - November; South Pacific and South Indian Ocean: November - April).
+
+
+
+
 ## Fri 16 June morning:
 - fb marketplace, inquired pelican kayak, standing by.
 - also no reply yet Ronell but should be no matter because:
@@ -567,3 +597,10 @@ https://seatech.systems/2018/10/21/hf-ssb-weatherfax-reception-using-your-smartp
 
 Charts from NOAA:
 https://www.nauticalcharts.noaa.gov/enconline/enconline.html
+
+Weather strategy:
+https://bluewatermiles.com/extras/heavy-weather/
+
+Above includes simplest summary of seasons:
+
+>Tropical Revolving Storms (TRS) that must be avoided at all costs (North Atlantic and North Pacific: July - November; Bay of Bengal and Arabian Sea: June - November; South Pacific and South Indian Ocean: November - April).  
