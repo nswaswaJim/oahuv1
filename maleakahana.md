@@ -11,7 +11,7 @@ nav_order: 1
 
 A packed weekend, fortuitously brought about by our annual conference on Friday on the Windward side in Haleiwa!  And while on that beautiful side of the island, why not explore a bit?  
 
-Maleakahana Beach on the northeast corner has a campground.  I did not have a reservation because I threw this plan together last minute, but long story short- security man at Maleakahana Camp hooked me up with a tiny, secret overflow campsite at 7pm Friday night.   Soon I'm sitting on the beach, under the stars and a waxing half moon, in front of a campfire, eating takeaway Brazilian food from the nearby food trucks in Kahuka.  With the sound of surf on the beach, wind in the trees, and crackling campfire.  
+Maleakahana Beach on the northeast corner has a campground.  I did not have a reservation because I threw this plan together kinda last minute, but long story short- security man at Maleakahana Camp hooked me up with a tiny, secret overflow campsite at 7pm Friday night.   Soon I'm sitting on the beach, under the stars and a waxing half moon, in front of a campfire, eating takeaway Brazilian food from the nearby food trucks in Kahuka.  With the sound of surf on the beach, wind in the trees, and crackling campfire.  
 
 The night was great, as was sunrise:  
 
@@ -23,7 +23,7 @@ A video of the beach at sunrise:
 <source src="../oahuv1/images/maleakahana/sunrisevid.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
-</p>  
+
 
 The next logical step was to visit Maleakahana falls after camping at Maleakahana beach.  
 
@@ -53,5 +53,18 @@ Soon the trail changed again, into what felt like tunneling though this thick gr
 
 <p><img src="../oahuv1/images/maleakahana/trail4.JPG" height="300px" alt="Maleakahana trail4"/></p>    
 
+But trail to where?  I still wasn't sure this was the intended trail.  Not long after the above pic the trail deteriorated tremendously.  The thicket grew thicker and the canopy overhead denser as the trail turned down a north-facing slope of perpetual shade due to the forest above.  The trail became a steep, narrow, confused stew of roots and rocks, all covered in a super slick carpet of leaves and mud.  Thoughts of turning back crossed my mind.  Again, I was not sure this was even the trail I wanted to be on.  So I had two competing voices in my head.  A bit of a life parallel there- the crew better have belief in the plan.  The crew must trust that the leader knows the course.  Any doubts will erode the crew's morale, and that will impact the mission and it's chance of success.  Even if the crew is just one potentially lost guy wandering an unknown trail.  
+
+But the trail was sloping downward and turning north after heading southwest for a few miles.  That was on the map I had looked at a few days prior. There was also the faintest sound of running water- hard to pick out from the wind in the trees.  All of this was enough to push on, down the dark and gloomy forest of Gollum.  No place for pics because hands were busy gabbing onto the trees for handholds.  So even the otherwise impenetrable mess of scrawny trees in the dark undergrowth serve a purpose.  
+
+After crossing a small stream, at last, come across:  The falls!  
+
+<p><img src="../oahuv1/images/maleakahana/falls1.JPG" height="300px" alt="Maleakahana falls"/></p>     
 
 
+
+
+<video width="400" height="640" controls>
+<source src="../oahuv1/images/maleakahana/fallsvid.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
