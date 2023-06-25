@@ -19,10 +19,10 @@ The night was great, as was sunrise:
 
 A video of the beach at sunrise:  
 
-windy forest sounds 2
 <p>
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/maleakahana/sunrisevid.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 </p>
+
