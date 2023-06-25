@@ -1,5 +1,5 @@
 ---
-title: maleakahana
+title: Maleakahana
 layout: default
 regenerate: true
 nav_order: 1
