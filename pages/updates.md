@@ -12,7 +12,7 @@ nav_order: 1
 
 List of updates, most recent updates/changes on top.  
 
-**25 June** Added Maleakahana- bike/hike from a camping on the beach start!  <a href="https://nswaswajim.github.io/oahuv1/Maleakahana.html">Maleakahana camp and bike and hike</a>
+**25 June** Added Maleakahana- bike/hike from a camping on the beach start!  <a href="https://nswaswajim.github.io/oahuv1/maleakahana.html">Maleakahana camp and bike and hike</a>
 
 **11 June** Added Kuli'ou'ou Ridge trail- a surprisingly fantastic bike 'n hike!  Great hike with spectacular scenery.  <a href="https://nswaswajim.github.io/oahuv1/kuliouou.html">Kuli'ou'ou Ridge Trail</a>
 
