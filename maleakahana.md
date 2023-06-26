@@ -13,8 +13,6 @@ A packed weekend, fortuitously brought about by our annual conference on Friday 
 
 Maleakahana Beach on the northeast corner has a campground.  I did not have a reservation because I threw this plan together kinda last minute, but long story short- security man at Maleakahana Camp hooked me up with a tiny, secret overflow campsite at 7pm Friday night.   Soon I'm sitting on the beach, under the stars and a waxing half moon, in front of a campfire, eating takeaway Brazilian food from the nearby food trucks in Kahuka.  With the sound of surf on the beach, wind in the trees, and crackling campfire.  
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1m30v0G5H0nfxALb51S_Rx1tSpAj2djE&ehbc=2E312F" width="640" height="480"></iframe>
-
 The night was great, as was sunrise:  
 
 <p><img src="../oahuv1/images/maleakahana/sunrise.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
@@ -28,6 +26,10 @@ A video of the beach at sunrise:
 
 
 The next logical step was to visit Maleakahana falls after camping at Maleakahana beach.  
+
+Blue for bike, red for hike.  Thanks to Alltrails for the KML map data.  Which I did not have with me...
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1m30v0G5H0nfxALb51S_Rx1tSpAj2djE&ehbc=2E312F" width="640" height="480"></iframe>
 
 Maleakahana falls trail, along with it's big sister trail Laie falls trail, are both on private property and thus require permits from Hawaii Reserves, Inc.  Permit is available via email, very kind woman in the office processed mine Thursday afternoon.  
 
