@@ -70,11 +70,24 @@ After crossing a small stream, at last, come across:  The falls!
 
 <p><img src="../oahuv1/images/maleakahana/falls1.JPG" height="300px" alt="Maleakahana falls"/></p>     
 
+Falls from top:  
 
+<video width="640" height="400" controls>
+<source src="../oahuv1/images/maleakahana/fallsvidupper.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>  
 
+From below:  
 
 <video width="640" height="400" controls>
 <source src="../oahuv1/images/maleakahana/fallsvid.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>  
+
+So there's a few more picturesque falls on the island.  That don't take wandering about looking for an unmarked, un Google-mapped trailhead; that don't require a few miles hike before a trek descent through Gollum's forest.  
+
+But then those other very nice to look at falls don't give the same sense of achievement.  These falls took a bike and a hike and a chunk of a day.  That I could have spent doing...whatever it is that normal people do.  
+
+Back up the dark forest with a quick pace to beat the coming rain and a happy heart that I had reached the goal and was now definitely hiking to where I had left my bike.  And if she's not there, no big deal, just keep walking until I reach TheBus.  She would likely be there though- due to remoteness and other issues mentioned above, I did not see a single person since leaving the farms, either on the way in or out.  On a Saturday.  So if you want lots of big-money-shot quality photos, don't come here.  If you want to get off the beaten path, this place is pretty good :-)    
+
 
