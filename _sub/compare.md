@@ -1,5 +1,5 @@
 compare.
-
+ (Wow, this file was created on...Thursday 6/22 I believe.  And messaged Ronell thursday...and wow, life might be moving in great direction.  Ketch!)
 ---
 
 Ketch is best.  unk.  
