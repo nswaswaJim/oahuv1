@@ -64,7 +64,8 @@ After crossing a small stream, at last, come across:  The falls!
 
 
 
-<video width="400" height="640" controls>
+<video width="640" height="400" controls>
 <source src="../oahuv1/images/maleakahana/fallsvid.webm" type="video/webm">
   Your browser does not support the video tag.
-</video>
+</video>  
+
