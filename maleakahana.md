@@ -29,7 +29,7 @@ The next logical step was to visit Maleakahana falls after camping at Maleakahan
 
 Blue for bike, red for hike.  Thanks to Alltrails for the KML map data.  Which I did not have with me...
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1m30v0G5H0nfxALb51S_Rx1tSpAj2djE&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1m30v0G5H0nfxALb51S_Rx1tSpAj2djE&ehbc=2E312F" width="800" height="600"></iframe>
 
 Maleakahana falls trail, along with it's big sister trail Laie falls trail, are both on private property and thus require permits from Hawaii Reserves, Inc.  Permit is available via email, very kind woman in the office processed mine Thursday afternoon.  
 
