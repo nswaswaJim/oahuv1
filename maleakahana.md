@@ -45,7 +45,7 @@ After one false start I did find what could have been the trailhead hidden in th
 Bike was heavy and road was deteriorating from country road to muddy steep two track to the point where biking was unfeasable.  Time to park and walk.  Still not exactly sure I was on the right trail.  I reassured myself that I was mostly heading west by southwest, gaining altitude, the major drainage was on my right, the distance seemed to agree with what I had seen on the map.  Still, dead reckoning and most basic pilotage is not the best means of navigation for a hike!  Pressed on anyway.   
 
 
-<p><img src="../oahuv1/images/maleakahana/trail3.JPG" height="300px" alt="Maleakahana trail 3/></p>   
+<p><img src="../oahuv1/images/maleakahana/trail3.JPG" height="300px" alt="Maleakahana trail 3"/></p>   
 
 <p>
 With altitude and distance the trail changed dramatically, from a jungle forest walk to occaisional exposed sunny stretches.  Which did offer great views of the northern end of the windward side.  For location reference, note the windmills in the distance on the left. Still not exactly sure if I'm on the correct trail.  However going for random lost walk in the remote hills isn't a bad way to spend the morning. </p> 
