@@ -55,7 +55,7 @@ With altitude and distance the trail changed dramatically, from a jungle forest 
 Panoramic video from a break in the trees:
 
 <video width="640" height="480" controls>
-<source src="../oahuv1/images/maleakahana/maleakahanatrails.webm" type="video/webm">
+<source src="../oahuv1/images/maleakahana/maleakahanatrailsvid.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
