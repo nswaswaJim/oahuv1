@@ -48,6 +48,15 @@ Bike was heavy and road was deteriorating from country road to muddy steep two t
 <p>
 With altitude and distance the trail changed dramatically, from a jungle forest walk to occaisional exposed sunny stretches.  Which did offer great views of the northern end of the windward side.  For location reference, note the windmills in the distance on the left. Still not exactly sure if I'm on the correct trail.  However going for random lost walk in the remote hills isn't a bad way to spend the morning. </p> 
 
+Panoramic video from a break in the trees:
+
+<video width="640" height="480" controls>
+<source src="../oahuv1/images/maleakahana/maleakahanatrails.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+
+
 Soon the trail changed again, into what felt like tunneling though this thick growth.  Less panoramic views but welcome shade, and absolutely no doubt that you are on a trail to somewhere.  
 
 
