@@ -9,7 +9,9 @@ regenerate: true
 
 Sunrise at the Pink Pillbox, west coast.
 
-This hike started all this
+This hike started all this madness.
+
+(for my geek reference.  Fileupload test via stackedit.)
 <p>
 <video width="320" height="240" controls>
 <source src="../oahuv1/images/pillbox.webm" type="video/webm">
@@ -17,5 +19,5 @@ This hike started all this
 </video>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ1ODc2NDZdfQ==
+eyJoaXN0b3J5IjpbMTIwMzY1MTI2MV19
 -->
