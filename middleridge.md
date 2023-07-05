@@ -44,6 +44,8 @@ The weather was quite low on reaching the ridge, with clouds blowing up from the
 Same view but panoramic image instead of video:  
 
 <p><img src="../oahuv1/images/middleridge/middleridgepano.JPG" height="300px" alt="Middle ridge pano"/></p><br>
+<a href="https://nswaswajim.github.io/oahuv1/middleridge/middleridgepano.JPG" height="300px" alt="Middle ridge pano" target="_blank">Open  image in new tab, then click to zoom and enjoy!</a>
+
 
 
 
@@ -78,5 +80,5 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODc1MTg4MiwtNzMwMDAwMzAyXX0=
+eyJoaXN0b3J5IjpbMTg2NDMzMDk0NiwtNzMwMDAwMzAyXX0=
 -->
