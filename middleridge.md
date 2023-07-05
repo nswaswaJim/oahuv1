@@ -50,11 +50,9 @@ Same view but panoramic image instead of video:
 
 Looking Southeast along the fantastic Ko'olau ridge, towards Mt. Olympus.  Been there not long ago.  Ah, that was a good hike!  And with a good trail.
 
+<p><img src="../oahuv1/images/middleridge/mtolympusview.JPG" height="300px" alt="koolau ridge and mt olympus"/></p>
 
-
-<p><img src="../oahuv1/images/middleridge/mtolympusview.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
-
-After several minutes and wandering the first bit of the olympus trail decided against it.  
+Possibilities of hiking over to Olympus and going back down that way ran through my head.  However a brief explora  
 
 <p><img src="../oahuv1/images/middleridge/olympustrail.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
 
@@ -81,7 +79,7 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTYzNTg2Niw1MTY5OTY4NTYsLTE4Nj
-U5MjU2NDMsLTEyODY0Nzg5NywxNjYzNzEyMDQ5LDE4NjQzMzA5
-NDYsLTczMDAwMDMwMl19
+eyJoaXN0b3J5IjpbLTIxNDAzMjgwNzIsMTI4NTYzNTg2Niw1MT
+Y5OTY4NTYsLTE4NjU5MjU2NDMsLTEyODY0Nzg5NywxNjYzNzEy
+MDQ5LDE4NjQzMzA5NDYsLTczMDAwMDMwMl19
 -->
