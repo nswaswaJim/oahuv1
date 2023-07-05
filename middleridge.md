@@ -52,7 +52,7 @@ Looking Southeast along the fantastic Ko'olau ridge, towards Mt. Olympus.  Been 
 
 <p><img src="../oahuv1/images/middleridge/mtolympusview.JPG" height="300px" alt="koolau ridge and mt olympus"/></p>
 
-Possibilities of hiking over to Olympus and going back down that way ran through my head.  However a brief explora  
+Possibilities of hiking over to Olympus and going back down that way ran through my head.    
 
 <p><img src="../oahuv1/images/middleridge/olympustrail.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
 
@@ -79,7 +79,7 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAzMjgwNzIsMTI4NTYzNTg2Niw1MT
-Y5OTY4NTYsLTE4NjU5MjU2NDMsLTEyODY0Nzg5NywxNjYzNzEy
-MDQ5LDE4NjQzMzA5NDYsLTczMDAwMDMwMl19
+eyJoaXN0b3J5IjpbLTMzODM3MDY2OCwxMjg1NjM1ODY2LDUxNj
+k5Njg1NiwtMTg2NTkyNTY0MywtMTI4NjQ3ODk3LDE2NjM3MTIw
+NDksMTg2NDMzMDk0NiwtNzMwMDAwMzAyXX0=
 -->
