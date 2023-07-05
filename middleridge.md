@@ -20,7 +20,15 @@ Route map:  Green for bus.  I rode this just 3 days ago,  So to save a little ti
 <iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>
 
 
-The trail begins at the common trailhead for Mt. Olympus (climbed a few weeks ago) and the much shorter Pu'u Pia overlook trail (hiked Saturday as a plan b in the rain.)  Before the Pu'u Pia summit the middle ridge trail branches down very steeply to the right into a dense jungle valley, steeply and mud-slippery loosing about 200 feet in the process.   The Waiakeakua stream runs through the bottom of the valle
+The trail begins at the common trailhead for Mt. Olympus (climbed a few weeks ago) and the much shorter Pu'u Pia overlook trail (hiked Saturday as a plan b in the rain.)  Before the Pu'u Pia summit the middle ridge trail branches down very steeply to the right into a dense jungle valley, steeply and mud-slippery loosing about 200 feet in the process.   The Waiakeakua stream runs through the bottom of the valley.  Video shows the lushness of this place:    
+
+
+<video width="640" height="480" controls>
+<source src="../oahuv1/images/middleridge/streamvid.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video><br>
+Waiakeakua stream:  Only thing missing is colobus monkeys, forest elephants, a
+
 
 <p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="bamboo forest"/></p>
 
@@ -68,5 +76,5 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMjI2Njc1LC03MzAwMDAzMDJdfQ==
+eyJoaXN0b3J5IjpbODg5NjM1NjM4LC03MzAwMDAzMDJdfQ==
 -->
