@@ -18,7 +18,7 @@ Route map:  Green for bus.  I rode up Manoa Valley on Saturday, then hiked about
 
 Starts with the bamboo forest:  
 
-<p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
+<p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="bamboo forest"/></p>
 
 
 <p><img src="../oahuv1/images/middleridge/middleridgepano.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
@@ -53,6 +53,6 @@ Starts with the bamboo forest:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc2OTUyOTAsNjQ1MDUxNTEyLDE0OD
-M1NzE2MzFdfQ==
+eyJoaXN0b3J5IjpbLTg5MTQ2MzY4MywtMTM2NzY5NTI5MCw2ND
+UwNTE1MTIsMTQ4MzU3MTYzMV19
 -->
