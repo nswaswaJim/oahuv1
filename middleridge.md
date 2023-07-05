@@ -15,12 +15,12 @@ Flashback to prior attempt on Saturday:  I was turned back due rain.  The rain w
 Now, 3 days later- 4th of July!  A day off.   And the forecast was for clear.  Try again.  Today, so glad of the prior decision to turn back, so glad I came back here to finish what was started!
 
 
-Route map:  Green for bus.  I rode this just 3 days ago,  So to save a little time and hit the trail fresh today I only biked a little, to where the bus could pick me up.  
+Route map:  Green for bus.  I rode this just 3 days ago,  So to save a little time and hit the trail fresh today I only biked a little, to where the bus could pick me up.  As always, thanks Alltrails for Google maps KML data:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>
 
 
-Starts with the bamboo forest 
+The trailhead starts off on the same trail as the MtStarts with the bamboo forest 
 
 <p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="bamboo forest"/></p>
 
@@ -68,5 +68,5 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDA3ODQ2NV19
+eyJoaXN0b3J5IjpbMTU3NTg4OTExXX0=
 -->
