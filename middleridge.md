@@ -1,5 +1,5 @@
 ---
-title: Middle Rige t3
+title: Middle Ridge
 layout: default
 nav_order: 2
 regenerate: true
