@@ -15,7 +15,7 @@ Flashback to prior attempt on Saturday:  About a quarter way in I was turned bac
 Now, 3 days later- 4th of July!  A day off.   And the forecast was for clear.  Try again.  Today, so glad of the prior decision to turn back, so glad I came back here to finish what was started!
 
 
-Route map:  The trail begins at the common trailhead for Mt. Olympus (climbed a few weeks ago) and the much shorter Pu'u Pia overlook trail (hiked Saturday as a plan b in the rain.)   As always, thanks Alltrails for Google maps KML data.  Blue icon is end of Manoa Middle Ridge Rail.  Green mountain icon to the southeast is Olympus, to the north is K2:
+Route map:  The trail begins at the common trailhead for Mt. Olympus (climbed a few weeks ago) and the much shorter Pu'u Pia overlook trail (hiked Saturday as my fallback plan b in the rain.)   Zoom in map for trailhead visual.   Blue icon is end of Manoa Middle Ridge Rail.  Green mountain icon to the southeast is Olympus, to the north is K2:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>  
 
@@ -81,6 +81,7 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU5MjU2NDMsLTEyODY0Nzg5NywxNj
-YzNzEyMDQ5LDE4NjQzMzA5NDYsLTczMDAwMDMwMl19
+eyJoaXN0b3J5IjpbLTEwOTk3Nzg0ODYsLTE4NjU5MjU2NDMsLT
+EyODY0Nzg5NywxNjYzNzEyMDQ5LDE4NjQzMzA5NDYsLTczMDAw
+MDMwMl19
 -->
