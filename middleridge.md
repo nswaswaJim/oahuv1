@@ -16,13 +16,15 @@ Route map:  Green for bus.  I rode up Manoa Valley on Saturday, then hiked about
 <iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>
 
 
-<p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
+<p><img src="../oahuv1/images/middleridge/middleridgepano.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
+
+<p><img src="../oahuv1/images/middleridge/mtolympusview.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
 
 <p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
 
-<p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
+<p><img src="../oahuv1/images/middleridge/olympustrail.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
 
-<p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
+<p><img src="../oahuv1/images/middleridge/panowest.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
 
 
 
@@ -46,6 +48,6 @@ Route map:  Green for bus.  I rode up Manoa Valley on Saturday, then hiked about
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMDI3Nzc3LDY0NTA1MTUxMiwxNDgzNT
-cxNjMxXX0=
+eyJoaXN0b3J5IjpbLTEzNjc2OTUyOTAsNjQ1MDUxNTEyLDE0OD
+M1NzE2MzFdfQ==
 -->
