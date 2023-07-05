@@ -45,11 +45,10 @@ The weather was quite low on reaching the ridge, with clouds blowing up from the
 Same view but panoramic image instead of video:  
 
 <p><img src="../oahuv1/images/middleridge/middleridgepano.JPG" height="300px" alt="Middle ridge pano"/></p><br>
-<a href="https://nswaswajim.github.io/oahuv1/middleridge/middleridgepano.JPG" height="300px" alt="Middle ridge pano" target="_blank">Open  image in new tab, then click to zoom and enjoy!</a>
-images/middleridge/middleridgepano.JPG
+<a href="https://nswaswajim.github.io/oahuv1/images/middleridge/middleridgepano.JPG
+" height="300px" alt="Middle ridge pano" target="_blank">Open  image in new tab, then click to zoom and enjoy!</a>
 
-
-
+Looking
 looking towards olympus.  Been there.  Considering going there again for more pleasant way down...
 
 <p><img src="../oahuv1/images/middleridge/mtolympusview.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
@@ -81,7 +80,7 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDc5OTc0MSw1MTY5OTY4NTYsLTE4Nj
-U5MjU2NDMsLTEyODY0Nzg5NywxNjYzNzEyMDQ5LDE4NjQzMzA5
-NDYsLTczMDAwMDMwMl19
+eyJoaXN0b3J5IjpbMzI0MjUwNzk2LDUxNjk5Njg1NiwtMTg2NT
+kyNTY0MywtMTI4NjQ3ODk3LDE2NjM3MTIwNDksMTg2NDMzMDk0
+NiwtNzMwMDAwMzAyXX0=
 -->
