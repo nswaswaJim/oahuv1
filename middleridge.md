@@ -52,11 +52,11 @@ Looking Southeast along the fantastic Ko'olau ridge, towards Mt. Olympus.  Been 
 
 <p><img src="../oahuv1/images/middleridge/mtolympusview.JPG" height="300px" alt="koolau ridge and mt olympus"/></p>
 
-Possibilities of hiking over to Olympus and going back down that way ran through my head.  So much nicer than the trail I just came up...  But the windswept ridge over to Olympus had to be crossed, and that trail would surely be as slick, just more overgrown and tremendously exposed.  After serious debate I opted to just go back down the Middle Ri  
+Possibilities of hiking over to Olympus and going back down that way ran through my head.  So much nicer than the trail I just came up...  But the windswept ridge over to Olympus had to be crossed, and that trail would surely be as slick, just more overgrown and tremendously exposed.  After serious debate I opted to just go back down the Middle Ridge trail, the way I had come up.    
 
 <p><img src="../oahuv1/images/middleridge/olympustrail.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
 
-Panoramic to the west:
+Panoramic to the west at the top of descent:
 
 <p><img src="../oahuv1/images/middleridge/panowest.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
 
@@ -79,7 +79,7 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjIxNjI5MywtMzM4MzcwNjY4LDEyOD
+eyJoaXN0b3J5IjpbMTc4NzU0MTA4MCwtMzM4MzcwNjY4LDEyOD
 U2MzU4NjYsNTE2OTk2ODU2LC0xODY1OTI1NjQzLC0xMjg2NDc4
 OTcsMTY2MzcxMjA0OSwxODY0MzMwOTQ2LC03MzAwMDAzMDJdfQ
 ==
