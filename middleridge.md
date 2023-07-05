@@ -1,6 +1,6 @@
 
 ---
-title: Middle1 test
+title: Middle1 test1
 layout: default
 regenerate: true
 
