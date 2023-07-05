@@ -26,8 +26,9 @@ The trail begins at the common trailhead for Mt. Olympus (climbed a few weeks ag
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/middleridge/streamvid.webm" type="video/webm">
   Your browser does not support the video tag.
-</video><br>
-Waiakeakua stream:  Only thing missing is colobus monkeys, forest elephants, a
+</video>  
+
+There are trails on each side of the stream and it is not immedia
 
 
 <p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="bamboo forest"/></p>
@@ -76,5 +77,5 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5NjM1NjM4LC03MzAwMDAzMDJdfQ==
+eyJoaXN0b3J5IjpbOTIxNjA1ODQsLTczMDAwMDMwMl19
 -->
