@@ -10,7 +10,7 @@ nav_exclude: false
 
 ### Second attempt success :-)
 
-Flashback to prior attempt on Saturday:  About a quarter way in I was turned back due rain.  The rain was moderate and steady.  That's not enough to make one give up.  But the trail conditions- this is a steep trail- were going from terrible to really terrible.  Water was starting to run down the already slippery trail, with about 3000 steps to go, every one of them a slip hazard.  then back down again- I turned around to come back another day.
+Flashback to prior attempt on Saturday:  About a quarter way in I was turned back due rain.  The rain was moderate and steady.  That's not enough to make one give up.  But the trail conditions- this is a steep trail- were going from terrible to really terrible.  Water was starting to run down the already slippery trail, with about 3000 steps to go, every one of them a slip hazard.  And then back down again.   I turned around to come back another day.
 
 Now, 3 days later- 4th of July!  A day off.   And the forecast was for clear.  Try again.  Today, so glad of the prior decision to turn back, so glad I came back here to finish what was started!
 
@@ -80,6 +80,6 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI0NTk5NDMsMTg2NDMzMDk0NiwtNz
-MwMDAwMzAyXX0=
+eyJoaXN0b3J5IjpbMTY2MzcxMjA0OSwxODY0MzMwOTQ2LC03Mz
+AwMDAzMDJdfQ==
 -->
