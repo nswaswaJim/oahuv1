@@ -28,10 +28,11 @@ The trail begins at the common trailhead for Mt. Olympus (climbed a few weeks ag
   Your browser does not support the video tag.
 </video>  
 
-There are trails on each side of the stream and it is not at all well marked which way to go.  But the sun was at my 1 o'clock, stream was to my right, ahead is up- this will probably work.  An occasional bit of survey tape, and a bootprint of someone h
+There are trails on each side of the stream and it is not at all well marked which way to go.  But the sun was at my 1 o'clock, stream was to my right, ahead is up- this will probably work.  An occasional bit of survey tape, and a bootprint of someone who hopefully had a map, were encouraging.   Otherwise, this bamboo forest could be leading anywhere:  
 
+<p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="bamboo forest"/></p>  
 
-<p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="bamboo forest"/></p>
+Before too long you get out of the bamboo and onto the proper ridge trail.  
 
 
 
@@ -77,5 +78,5 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDk0NzIyMiwtNzMwMDAwMzAyXX0=
+eyJoaXN0b3J5IjpbLTEyNDIzMzU0LC03MzAwMDAzMDJdfQ==
 -->
