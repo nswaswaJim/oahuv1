@@ -11,12 +11,12 @@ nav_order: 1
 ### Second attempt success :-)
 
 
-Maleakahana Beach on the northeast corner has a campground.  I did not have a reservation because I threw this plan together :  
+Route map:  Green for bus.  I rode up Manoa Valley on Saturday, then hiked about the first quarter of the trail before turning back due trail conditions.  So to save a little time and hit the trail fresh today, I bike
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>
 
 
 
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1m30v0G5H0nfxALb51S_Rx1tSpAj2djE&ehbc=2E312F" width="800" height="600"></iframe>
 
 
 <p><img src="../oahuv1/images/maleakahana/sunrise.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
@@ -31,5 +31,5 @@ Maleakahana Beach on the northeast corner has a campground.  I did not have a re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODU4NjM3MSwxNDgzNTcxNjMxXX0=
+eyJoaXN0b3J5IjpbMjEwOTAxNzkwMSwxNDgzNTcxNjMxXX0=
 -->
