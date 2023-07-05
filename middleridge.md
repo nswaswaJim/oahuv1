@@ -14,6 +14,8 @@ nav_order: 1
 Maleakahana Beach on the northeast corner has a campground.  I did not have a reservation because I threw this plan together :  
 
 
+
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1m30v0G5H0nfxALb51S_Rx1tSpAj2djE&ehbc=2E312F" width="800" height="600"></iframe>
 
 
@@ -29,5 +31,5 @@ Maleakahana Beach on the northeast corner has a campground.  I did not have a re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTAwMTMxMSwxNDgzNTcxNjMxXX0=
+eyJoaXN0b3J5IjpbLTgwODU4NjM3MSwxNDgzNTcxNjMxXX0=
 -->
