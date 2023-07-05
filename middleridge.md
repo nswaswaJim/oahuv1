@@ -11,7 +11,7 @@ nav_order: 1
 ### Second attempt success :-)
 
 
-Route map:  Green for bus.  I rode up Manoa Valley on Saturday, then hiked about the first quarter of the trail before turning back due trail conditions.  So to save a little time and hit the trail fresh today, I bike
+Route map:  Green for bus.  I rode up Manoa Valley on Saturday, then hiked about the first quarter of the trail before turning back due trail conditions.  So to save a little time and hit the trail fresh today I only biked a little, to where the bus could pick me up.  
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>
 
@@ -31,5 +31,5 @@ Route map:  Green for bus.  I rode up Manoa Valley on Saturday, then hiked about
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTAxNzkwMSwxNDgzNTcxNjMxXX0=
+eyJoaXN0b3J5IjpbNjQ1MDUxNTEyLDE0ODM1NzE2MzFdfQ==
 -->
