@@ -15,7 +15,7 @@ Flashback to prior attempt on Saturday:  About a quarter way in I was turned bac
 Now, 3 days later- 4th of July!  A day off.   And the forecast was for clear.  Try again.  Today, so glad of the prior decision to turn back, so glad I came back here to finish what was started!
 
 
-Route map:  Green for bus.  I rode this just 3 days ago,  So to save a little time and hit the trail fresh today I only biked a little, to where the bus could pick me up.  As always, thanks Alltrails for Google maps KML data:
+Route map:   As always, thanks Alltrails for Google maps KML data.  Blue icon is end of Manoa Middle Ridge Rail.  Green mountain to the south is Olympus, to the north is K2:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>
 
@@ -80,6 +80,6 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzcxMjA0OSwxODY0MzMwOTQ2LC03Mz
-AwMDAzMDJdfQ==
+eyJoaXN0b3J5IjpbODM0ODgzNDY3LDE2NjM3MTIwNDksMTg2ND
+MzMDk0NiwtNzMwMDAwMzAyXX0=
 -->
