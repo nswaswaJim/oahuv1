@@ -29,7 +29,7 @@ Starts with the bamboo forest
 ...hike details, then bam, touching clouds...
 
 <video width="640" height="480" controls>
-<source src="../oahuv1/images/middleridge/touchingclouds.webm" type="video/webm">
+<source src="../oahuv1/images/middleridge/touchingcloud.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
