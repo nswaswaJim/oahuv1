@@ -41,9 +41,9 @@ The weather was quite low on reaching the ridge, with clouds blowing up from the
   Your browser does not support the video tag.
 </video>
 
-then pano make link for this:
+Same view but panoramic image instead of video:  
 
-<p><img src="../oahuv1/images/middleridge/middleridgepano.JPG" height="300px" alt="Middle "/></p>
+<p><img src="../oahuv1/images/middleridge/middleridgepano.JPG" height="300px" alt="Middle ridge pano"/></p>
 
 looking towards olympus.  Been there.  Considering going there again for more pleasant way down...
 
@@ -76,5 +76,5 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgwNTcwMDYsLTczMDAwMDMwMl19
+eyJoaXN0b3J5IjpbLTYzOTEzNDQxMiwtNzMwMDAwMzAyXX0=
 -->
