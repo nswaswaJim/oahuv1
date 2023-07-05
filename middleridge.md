@@ -15,10 +15,9 @@ Flashback to prior attempt on Saturday:  About a quarter way in I was turned bac
 Now, 3 days later- 4th of July!  A day off.   And the forecast was for clear.  Try again.  Today, so glad of the prior decision to turn back, so glad I came back here to finish what was started!
 
 
-Route map:   As always, thanks Alltrails for Google maps KML data.  Blue icon is end of Manoa Middle Ridge Rail.  Green mountain to the south is Olympus, to the north is K2:
+Route map:  The trail begins at the common trailhead for Mt. Olympus (climbed a few weeks ago) and the much shorter Pu'u Pia overlook trail (hiked Saturday as a plan b in the rain.)   As always, thanks Alltrails for Google maps KML data.  Blue icon is end of Manoa Middle Ridge Rail.  Green mountain to the south is Olympus, to the north is K2:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>
-
+<iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>  
 
 Before the Pu'u Pia summit the middle ridge trail branches down very steeply to the right into a dense jungle valley, steeply and mud-slippery loosing about 200 feet in the process.   The Waiakeakua stream runs through the bottom of the valley.  Video shows the lushness of this place:    
 
@@ -28,7 +27,7 @@ Before the Pu'u Pia summit the middle ridge trail branches down very steeply to 
   Your browser does not support the video tag.
 </video>  
 
-There are trails on each side of the stream and it is not at all well marked which way to go.  But the sun was at my 1 o'clock, stream was to my right, ahead is up- this will probably work.  An occasional bit of survey tape, and a bootprint of someone who hopefully had a map, were encouraging.   Otherwise, this bamboo forest could be leading anywhere:  
+There are trails running up and down both sides of the stream and it is not at all well marked which way to go.  But the sun was at my 1 o'clock, stream was to my right, ahead is up- this will probably work.  An occasional bit of survey tape, and a bootprint of someone who hopefully had a map, were encouraging.   Otherwise, this bamboo forest could be leading anywhere:  
 
 <p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="bamboo forest"/></p>  
 
@@ -80,6 +79,6 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTE1MTQzMywxNjYzNzEyMDQ5LDE4Nj
-QzMzA5NDYsLTczMDAwMDMwMl19
+eyJoaXN0b3J5IjpbLTY5NjAwNzM4LDE2NjM3MTIwNDksMTg2ND
+MzMDk0NiwtNzMwMDAwMzAyXX0=
 -->
