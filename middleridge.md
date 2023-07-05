@@ -1,6 +1,6 @@
 
 ---
-title: Manoa Middle Ridge Trail
+title: Middle1
 layout: default
 regenerate: true
 
