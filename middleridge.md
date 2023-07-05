@@ -33,7 +33,7 @@ There are trails running up and down both sides of the stream and it is not at a
 
 Before too long you get out of the bamboo and clearly onto the proper ridge trail.  The trail is difficult.  Muddy, very slippery, very narrow with ferns and brush encroaching on the edges and brushing your legs with every step. Rocks and roots and narrow and more slippery.  Not pleasant hiking.   Just determined hiking.  The rain which turned me back days ago, and the mud it left behind, will not stop me from getting to the top of this ridge.
 
- I had a small advantage this morning- d taken the bus to the trailhead, instead of grinding up hills in low gear.  Thus I was rested.  And determined.  So I had to laugh out loud when, thinking I was reaching a false summit, I could see the windward side- I had reached the ridge!  
+One small advantage this morning- I had biked/hiked part of this just two days before.  So today, to save a little time and effort, I had taken the bus to the trailhead.  Instead of grinding up hills in low gear.   Thus I had hit the trailhead .  So I had to laugh out loud when, thinking I was reaching a false summit, I could see the windward side- I had reached the ridge!  
 
 The weather was quite low on reaching the ridge, with clouds blowing up from the windward side.  It reminded me of telling flight students to carefully open the window and stick their hand out to touch a cloud:  
 
@@ -81,7 +81,7 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg4NTM3MTUsLTE4NjU5MjU2NDMsLT
-EyODY0Nzg5NywxNjYzNzEyMDQ5LDE4NjQzMzA5NDYsLTczMDAw
-MDMwMl19
+eyJoaXN0b3J5IjpbMTMyNDkwMDg4LC0xODY1OTI1NjQzLC0xMj
+g2NDc4OTcsMTY2MzcxMjA0OSwxODY0MzMwOTQ2LC03MzAwMDAz
+MDJdfQ==
 -->
