@@ -56,13 +56,8 @@ Possibilities of hiking over to Olympus and going back down that way ran through
 
 <p><img src="../oahuv1/images/middleridge/olympustrail.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
 
-Panoramic to the west at the top of descent:
 
-<p><img src="../oahuv1/images/middleridge/panowest.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
-
-
-Clouds lifted a bit, another pano vid:
-
+Before descending the  clouds lifted a bit, another pano vid.  Waianae range is visible in the distance at the end of this clip:
 
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/middleridge/panovid.webm" type="video/webm">
@@ -70,17 +65,12 @@ Clouds lifted a bit, another pano vid:
 </video>
 
 
-Stream vid, stby
 
-<video width="640" height="480" controls>
-<source src="../oahuv1/images/middleridge/streamvid.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzU0MTA4MCwtMzM4MzcwNjY4LDEyOD
-U2MzU4NjYsNTE2OTk2ODU2LC0xODY1OTI1NjQzLC0xMjg2NDc4
-OTcsMTY2MzcxMjA0OSwxODY0MzMwOTQ2LC03MzAwMDAzMDJdfQ
-==
+eyJoaXN0b3J5IjpbLTE4Mzk3NDI4NTIsLTMzODM3MDY2OCwxMj
+g1NjM1ODY2LDUxNjk5Njg1NiwtMTg2NTkyNTY0MywtMTI4NjQ3
+ODk3LDE2NjM3MTIwNDksMTg2NDMzMDk0NiwtNzMwMDAwMzAyXX
+0=
 -->
