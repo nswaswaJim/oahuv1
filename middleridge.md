@@ -3,15 +3,19 @@
 title: Manoa Middle Ridge Trail
 layout: default
 regenerate: true
-nav_order: 1
+
 ---
 
 ## Middle ~~fork~~ ridge!-
 
 ### Second attempt success :-)
 
+Prior attempt on Saturday was turned back due rain.  The rain was moderate and steady.  That's not enough to make one give up.  But the trail conditions- this is a steep trail- were going from terrible to really terrible.  Water was starting to run down the already slippery trail, with about 3000 steps to go- and then back down again- I turned around to come back another day.
 
-Route map:  Green for bus.  I rode up Manoa Valley on Saturday, then hiked about the first quarter of the trail before turning back due trail conditions.  So to save a little time and hit the trail fresh today I only biked a little, to where the bus could pick me up.  
+Today is Tuesday, July 4th- a holiday!  And 3 days later.  And the forecast was for clear.  Try again.  So glad on both decisions!  
+
+
+Route map:  Green for bus.  I rode this just 3 days ago,  So to save a little time and hit the trail fresh today I only biked a little, to where the bus could pick me up.  
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>
 
