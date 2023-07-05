@@ -48,7 +48,7 @@ Same view but panoramic image instead of video:
 <a href="https://nswaswajim.github.io/oahuv1/images/middleridge/middleridgepano.JPG
 " height="300px" alt="Middle ridge pano" target="_blank">Open  image in new tab, then click to zoom and enjoy!</a>
 
-Looking
+Looking Southeast along the Ko'olau ridge, towards Mt. Olympus.  Been there 
 looking towards olympus.  Been there.  Considering going there again for more pleasant way down...
 
 <p><img src="../oahuv1/images/middleridge/mtolympusview.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
@@ -80,7 +80,7 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0MjUwNzk2LDUxNjk5Njg1NiwtMTg2NT
-kyNTY0MywtMTI4NjQ3ODk3LDE2NjM3MTIwNDksMTg2NDMzMDk0
-NiwtNzMwMDAwMzAyXX0=
+eyJoaXN0b3J5IjpbLTExNTM2NjQxODksNTE2OTk2ODU2LC0xOD
+Y1OTI1NjQzLC0xMjg2NDc4OTcsMTY2MzcxMjA0OSwxODY0MzMw
+OTQ2LC03MzAwMDAzMDJdfQ==
 -->
