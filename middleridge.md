@@ -33,17 +33,19 @@ Route map:  Green for bus.  I rode up Manoa Valley on Saturday, then hiked about
   Your browser does not support the video tag.
 </video>
 
+
 <video width="640" height="480" controls>
-<source src="../oahuv1/images/maleakahana/sunrisevid.webm" type="video/webm">
+<source src="../oahuv1/images/middleridge/touchingclouds.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
 <video width="640" height="480" controls>
-<source src="../oahuv1/images/maleakahana/sunrisevid.webm" type="video/webm">
+<source src="../oahuv1/images/middleridge/touchingclouds.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzcyNjA2Myw2NDUwNTE1MTIsMTQ4Mz
-U3MTYzMV19
+eyJoaXN0b3J5IjpbNTkxMDI3Nzc3LDY0NTA1MTUxMiwxNDgzNT
+cxNjMxXX0=
 -->
