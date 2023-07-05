@@ -32,7 +32,9 @@ There are trails on each side of the stream and it is not at all well marked whi
 
 <p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="bamboo forest"/></p>  
 
-Before too long you get out of the bamboo and onto the proper ridge trail.  The trail is difficult- muddy, very slippery, very narrow with ferns and brush encroaching on the edges and brushing your legs with every step.  Not exactly pleasant hiking!  But the benefit I had this morning- I had taken the bus to the trailhead, instead of grinding up hills in low gear.  Thus I was rested.  And determined.  So I had to laugh out loud when, thinking I was reaching a false summit, I could see the windward side- I had reached the ridge!  Wow, that was...
+Before too long you get out of the bamboo and onto the proper ridge trail.  The trail is difficult- muddy, very slippery, very narrow with ferns and brush encroaching on the edges and brushing your legs with every step.  Not exactly pleasant hiking!  But the benefit I had this morning- I had taken the bus to the trailhead, instead of grinding up hills in low gear.  Thus I was rested.  And determined.  So I had to laugh out loud when, thinking I was reaching a false summit, I could see the windward side- I had reached the ridge!  
+
+The weather was quite low on reaching the ridge, with clouds blowing up from the windward side.  It reminded me of telling flight students to carefully open the window and stick their hand out to touch a cloud:
 
 
 
@@ -78,5 +80,5 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc3MjU3MzUsLTczMDAwMDMwMl19
+eyJoaXN0b3J5IjpbLTY0OTM4NywtNzMwMDAwMzAyXX0=
 -->
