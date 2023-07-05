@@ -20,7 +20,7 @@ Route map:  Green for bus.  I rode this just 3 days ago,  So to save a little ti
 <iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>
 
 
-The trailhead starts off on the same trail as the Mt. Olympus hike I had previously done.  It forks to the Puthen branches off to the Starts with the bamboo forest 
+The trail begins at the common trailhead for Mt. Olympus (done a few weeks ago) and the much shorter Pu'u Pia overlook trail (done Saturday as a plan b in the rain.)  It forks to the Pu'u Pia trailthen branches off to the Starts with the bamboo forest 
 
 <p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="bamboo forest"/></p>
 
@@ -68,5 +68,5 @@ Stream vid, stby
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTExMjAyOF19
+eyJoaXN0b3J5IjpbLTExMDE0MDEzMzhdfQ==
 -->
