@@ -6,19 +6,16 @@ regenerate: true
 nav_order: 1
 ---
 
-## Middlefo-
+## Middle ~~fork~~ ridge!-
 
-### Beach Camping, biking, and hiking!
+### Second attempt success :-)
 
-A packed weekend, fortuitously brought about by our annual conference on Friday on the Windward side in Haleiwa!  And while on that beautiful side of the island, why not explore a bit?  
 
-Maleakahana Beach on the northeast corner has a campground.  I did not have a reservation because I threw this plan together kinda last minute, but long story short- security man at Maleakahana Camp hooked me up with a tiny, secret overflow campsite at 7pm Friday night.   Soon I'm sitting on the beach, under the stars and a waxing half moon, in front of a campfire, eating takeaway Brazilian food from the nearby food trucks in Kahuka.  With the sound of surf on the beach, wind in the trees, and crackling campfire.  
-
-The night was great, as was sunrise:  
+Maleakahana Beach on the northeast corner has a campground.  I did not have a reservation because I threw this plan together :  
 
 <p><img src="../oahuv1/images/maleakahana/sunrise.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
 
-A video of the beach at sunrise:  
+
 
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/maleakahana/sunrisevid.webm" type="video/webm">
@@ -99,5 +96,5 @@ Back up the dark forest with a quick pace to beat the coming rain and a happy he
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NDM3MjE3XX0=
+eyJoaXN0b3J5IjpbLTIxMzk0OTg2MDddfQ==
 -->
