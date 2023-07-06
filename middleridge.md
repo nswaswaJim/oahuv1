@@ -66,15 +66,15 @@ Before descending the  clouds lifted a bit, calling for another pano vid.  Waian
 
 The route down was, technically, same as route up but in reverse.  Mentally, however, was completely different:  I love this trail!  It challenged me to turn back.  I did not.  I persevered and reached my goal.  Trails like this build the confidence to keep pushing when the next trail gets rough.   Those are good feelings on the way down.  
 
-(upload from vscode)
+(test load via stackedit)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg3MDkzNTcsNjA3MzA4NzcyLC0xOD
-M5NzQyODUyLC0zMzgzNzA2NjgsMTI4NTYzNTg2Niw1MTY5OTY4
-NTYsLTE4NjU5MjU2NDMsLTEyODY0Nzg5NywxNjYzNzEyMDQ5LD
-E4NjQzMzA5NDYsLTczMDAwMDMwMl19
+eyJoaXN0b3J5IjpbLTIwMTc4MTk3ODgsLTE3NTg3MDkzNTcsNj
+A3MzA4NzcyLC0xODM5NzQyODUyLC0zMzgzNzA2NjgsMTI4NTYz
+NTg2Niw1MTY5OTY4NTYsLTE4NjU5MjU2NDMsLTEyODY0Nzg5Ny
+wxNjYzNzEyMDQ5LDE4NjQzMzA5NDYsLTczMDAwMDMwMl19
 -->
