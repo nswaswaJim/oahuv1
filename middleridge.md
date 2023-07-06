@@ -64,15 +64,15 @@ Before descending the  clouds lifted a bit, calling for another pano vid.  Waian
   Your browser does not support the video tag.
 </video>
 
-The route down was, technically, same as route up but in reverse.  Mentally, however, was completely different:  I love this trail!  It challenged me to turn back.  I did not.  I persevered and reached my goal.   Trails like this make nor Those are good feelings on the way down.  
+The route down was, technically, same as route up but in reverse.  Mentally, however, was completely different:  I love this trail!  It challenged me to turn back.  I did not.  I persevered and reached my goal.  Trails like this build the confidence to keep pushing when the next trail turn Those are good feelings on the way down.  
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjAyNjQ5LDYwNzMwODc3MiwtMTgzOT
-c0Mjg1MiwtMzM4MzcwNjY4LDEyODU2MzU4NjYsNTE2OTk2ODU2
-LC0xODY1OTI1NjQzLC0xMjg2NDc4OTcsMTY2MzcxMjA0OSwxOD
-Y0MzMwOTQ2LC03MzAwMDAzMDJdfQ==
+eyJoaXN0b3J5IjpbLTUwMjU2MTIxNCw2MDczMDg3NzIsLTE4Mz
+k3NDI4NTIsLTMzODM3MDY2OCwxMjg1NjM1ODY2LDUxNjk5Njg1
+NiwtMTg2NTkyNTY0MywtMTI4NjQ3ODk3LDE2NjM3MTIwNDksMT
+g2NDMzMDk0NiwtNzMwMDAwMzAyXX0=
 -->
