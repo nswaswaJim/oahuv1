@@ -16,8 +16,9 @@ p {color:  red;}
 
 ## template title
 
+just template test,  and...  
 
-template test w/color
+<p>template test w/color</p>
 <p>
 <video width="320" height="240" controls>
 <source src="../oahuv1/images/kaala.webm" type="video/webm">
@@ -25,6 +26,5 @@ template test w/color
 </video>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjMxODI1ODMsLTEyNTIyMTEwMDhdfQ
-==
+eyJoaXN0b3J5IjpbNjQzNzU3NjkzLC0xMjUyMjExMDA4XX0=
 -->
