@@ -18,6 +18,8 @@ p {color:  red;}
 
 just template test,  and...  
 
+ok organ
+
 <p>template test w/color</p>
 <p>
 <video width="320" height="240" controls>
@@ -26,5 +28,6 @@ just template test,  and...
 </video>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNzU3NjkzLC0xMjUyMjExMDA4XX0=
+eyJoaXN0b3J5IjpbLTEzODQ1OTA2MTIsNjQzNzU3NjkzLC0xMj
+UyMjExMDA4XX0=
 -->
