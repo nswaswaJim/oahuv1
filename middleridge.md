@@ -31,7 +31,7 @@ There are trails running up and down both sides of the stream and it is not at a
 
 <p><img src="../oahuv1/images/middleridge/bambooforest.JPG" height="300px" alt="bamboo forest"/></p>  
 
-Before too long you get out of the bamboo and clearly onto the proper ridge trail.  The trail is difficult.  Muddy, very slippery, very narrow with ferns and brush encroaching on the edges and brushing your legs with every squistep. Rocks and roots and narrow and more slippery.  Not pleasant hiking.   Just determined hiking.  The rain which turned me back days ago, and the mud it left behind, will not stop me from getting to the top of this ridge.
+Before too long you get out of the bamboo and clearly onto the proper ridge trail.  The trail is difficult.  Muddy, very slippery, very narrow with ferns and brush encroaching on the edges and brushing your legs with every squishy sliding step. Rocks and roots and narrow and more slippery.   Not pleasant hiking.   Just determined hiking.  The rain which turned me back days ago, and the mud it left behind, will not stop me from getting to the top of this ridge.
 
 One small advantage this morning- I had biked/hiked part of this just two days before.  So today, to save a little time and effort, I had taken the bus to the trailhead.  Instead of grinding up hills in low gear.   Thus I had hit the trailhead pretty fresh and rested.  So I had to laugh out loud when, thinking I was just reaching a false summit with more of this trail- instead, the windward side came into view- I had reached the ridge!  Ahead of schedule, despite the gruesome trail conditions.  
 
@@ -69,8 +69,8 @@ Before descending the  clouds lifted a bit, another pano vid.  Waianae range is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDQ1MjE1MCwtMTgzOTc0Mjg1MiwtMz
-M4MzcwNjY4LDEyODU2MzU4NjYsNTE2OTk2ODU2LC0xODY1OTI1
-NjQzLC0xMjg2NDc4OTcsMTY2MzcxMjA0OSwxODY0MzMwOTQ2LC
-03MzAwMDAzMDJdfQ==
+eyJoaXN0b3J5IjpbNDI3MDY1MzEwLC0xODM5NzQyODUyLC0zMz
+gzNzA2NjgsMTI4NTYzNTg2Niw1MTY5OTY4NTYsLTE4NjU5MjU2
+NDMsLTEyODY0Nzg5NywxNjYzNzEyMDQ5LDE4NjQzMzA5NDYsLT
+czMDAwMDMwMl19
 -->
