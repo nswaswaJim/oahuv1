@@ -33,7 +33,7 @@ There are trails running up and down both sides of the stream and it is not at a
 
 Before too long you get out of the bamboo and clearly onto the proper ridge trail.  The trail is difficult.  Muddy, very slippery, very narrow with ferns and brush encroaching on the edges and brushing your legs with every squishy sliding step. Rocks and roots and narrow and more slippery.   The steep gradient means every step is sliding backwards, or forwards, depending on direction of travel.  Not pleasant hiking.   Just determined hiking.  The rain which turned me back days ago, and the mud it left behind, will not stop me from getting to the top of this ridge.
 
-One small advantage this morning- I had biked/hiked part of this just two days before.  So today, to save a little time and effort, I had taken the bus to the trailhead.  Instead of grinding up hills in low gear.   Thus I had hit the trailhead pretty fresh and rested.  So I had to laugh out loud when, thinking I was just reaching a false summit with more of this trail to climb- instead, the windward side came into view I had reached the ridge!  Ahead of schedule, despite the gruesome trail conditions.  
+One small advantage this morning- I had biked/hiked part of this just two days before.  So today, to save a little time and effort, I had taken the bus to the trailhead.  Instead of grinding up hills in low gear.   Thus I had hit the trailhead pretty fresh and rested.  So I had to laugh out loud when, thinking I was just reaching a false summit with more of this trail to climb- instead, the windward side came into view!  I had reached the ridge!  Ahead of schedule, despite the gruesome trail conditions.  
 
 The weather was quite low on reaching the ridge, with clouds blowing up from the windward side.  It reminded me of telling flight students to carefully open the window and stick their hand out to touch a cloud:  
 
@@ -52,9 +52,9 @@ Looking Southeast along the fantastic Ko'olau ridge, towards Mt. Olympus.  Been 
 
 <p><img src="../oahuv1/images/middleridge/mtolympusview.JPG" height="300px" alt="koolau ridge and mt olympus"/></p>
 
-Possibilities of hiking over to Olympus and going back down that way ran through my head.  So much nicer than the trail I just came up...  But the windswept ridge over to Olympus had to be crossed, and that trail would surely be as slick, just more overgrown and tremendously exposed.  After serious debate I opted to just go back down the Middle Ridge trail, the way I had come up.    
+Possibilities of hiking over to Olympus and going back down that way ran through my head.  So much nicer than the trail I just came up...  But the windswept ridge over to Olympus would need to be crossed, and that trail would surely be as slick, just more overgrown and tremendously exposed.  After serious debate I opted to just go back down the Middle Ridge trail, the way I had come up.    
 
-<p><img src="../oahuv1/images/middleridge/olympustrail.JPG" height="300px" alt="Maleakahana Sunrise"/></p>
+<p><img src="../oahuv1/images/middleridge/olympustrail.JPG" height="300px" alt="Ridgeline from Middle Ridge Trail to Mt. Olympus"/></p>
 
 
 Before descending the  clouds lifted a bit, another pano vid.  Waianae range is visible in the distance at the end of this clip:
@@ -69,7 +69,7 @@ Before descending the  clouds lifted a bit, another pano vid.  Waianae range is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc2MTYxNzIsLTE4Mzk3NDI4NTIsLT
+eyJoaXN0b3J5IjpbLTE1ODkxNTIyNTQsLTE4Mzk3NDI4NTIsLT
 MzODM3MDY2OCwxMjg1NjM1ODY2LDUxNjk5Njg1NiwtMTg2NTky
 NTY0MywtMTI4NjQ3ODk3LDE2NjM3MTIwNDksMTg2NDMzMDk0Ni
 wtNzMwMDAwMzAyXX0=
