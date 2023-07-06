@@ -3,14 +3,16 @@ title: Page template
 layout: default
 regenerate: true
 nav_exclude: true
----
+---  
+
+<head>
 <link rel="stylesheet"  href="../oahuv1/images/styletest.css">
 
 <style>  
 
 p {color:  red;}  
 </style>  
-
+</head>
 
 
 ## template title
@@ -29,6 +31,6 @@ ok organic before lunch retest
 </video>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzU1MzA3NywtMTExNjIxOTU5NCw2ND
-M3NTc2OTMsLTEyNTIyMTEwMDhdfQ==
+eyJoaXN0b3J5IjpbMTQxNTYwODUzOCwtMzIzNTUzMDc3LC0xMT
+E2MjE5NTk0LDY0Mzc1NzY5MywtMTI1MjIxMTAwOF19
 -->
