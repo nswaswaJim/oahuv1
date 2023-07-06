@@ -4,7 +4,7 @@ layout: default
 regenerate: true
 nav_exclude: true
 ---
-<link rel="stylesheet"  href=""../oahuv1/images/styletest.css"">
+<link rel="stylesheet"  href="../oahuv1/images/styletest.css">
 
 <style>  
 
@@ -19,6 +19,8 @@ just template test,  and...
 
 ok organic before lunch retest
 
+h1 {color:  blue;}
+
 <p>template test w/color</p>
 <p>
 <video width="320" height="240" controls>
@@ -27,6 +29,6 @@ ok organic before lunch retest
 </video>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU5MTc4MzEsLTExMTYyMTk1OTQsNj
-QzNzU3NjkzLC0xMjUyMjExMDA4XX0=
+eyJoaXN0b3J5IjpbMTIzNzM1OTA4MiwtMTExNjIxOTU5NCw2ND
+M3NTc2OTMsLTEyNTIyMTEwMDhdfQ==
 -->
