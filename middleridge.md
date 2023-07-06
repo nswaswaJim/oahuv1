@@ -57,20 +57,22 @@ Possibilities of hiking over to Olympus and going back down that way ran through
 <p><img src="../oahuv1/images/middleridge/olympustrail.JPG" height="300px" alt="Ridgeline from Middle Ridge Trail to Mt. Olympus"/></p>
 
 
-Before descending the  clouds lifted a bit, another pano vid.  Waianae range is visible in the distance at the end of this clip:
+Before descending the  clouds lifted a bit, calling for another pano vid.  Waianae range is visible in the distance at the end of this clip:
 
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/middleridge/panovid.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
+The route down was, technically, same as route up but in reverse.  Mentally, however, was completely different:  I love this trail!  It challenged me to turn back.  I did not.  I re
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkxNTIyNTQsLTE4Mzk3NDI4NTIsLT
-MzODM3MDY2OCwxMjg1NjM1ODY2LDUxNjk5Njg1NiwtMTg2NTky
-NTY0MywtMTI4NjQ3ODk3LDE2NjM3MTIwNDksMTg2NDMzMDk0Ni
-wtNzMwMDAwMzAyXX0=
+eyJoaXN0b3J5IjpbLTQ5NjQ3NDAwMiwtMTgzOTc0Mjg1MiwtMz
+M4MzcwNjY4LDEyODU2MzU4NjYsNTE2OTk2ODU2LC0xODY1OTI1
+NjQzLC0xMjg2NDc4OTcsMTY2MzcxMjA0OSwxODY0MzMwOTQ2LC
+03MzAwMDAzMDJdfQ==
 -->
