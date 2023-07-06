@@ -19,7 +19,7 @@ just template test,  and...
 
 ok organic before lunch retest
 
-h1 {color:  blue;}
+<h1>added 1:46 stackedit</h1>
 
 <p>template test w/color</p>
 <p>
@@ -29,6 +29,6 @@ h1 {color:  blue;}
 </video>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzM1OTA4MiwtMTExNjIxOTU5NCw2ND
+eyJoaXN0b3J5IjpbLTMyMzU1MzA3NywtMTExNjIxOTU5NCw2ND
 M3NTc2OTMsLTEyNTIyMTEwMDhdfQ==
 -->
