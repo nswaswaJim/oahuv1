@@ -6,13 +6,13 @@ nav_exclude: true
 ---
 
 
-<head>  
+
 <style>  
-body  {background-color:  powderblue;}  
-h1 {color:  blue;}  
+
 p {color:  red;}  
 </style>  
-</head>
+
+
 
 ## template title
 
@@ -25,5 +25,5 @@ template test
 </video>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDk5OTY0OF19
+eyJoaXN0b3J5IjpbLTEyNTIyMTEwMDhdfQ==
 -->
