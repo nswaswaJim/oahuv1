@@ -5,7 +5,7 @@ nav_order: 1
 regenerate: true
 nav_exclude: false
 ---
-
+**still in progress!**
 ## Olympus reloaded!
 
 ### Second summit on Olympus :-)
@@ -35,7 +35,7 @@ Olympus summit was even better than last time!  Great visibility.  Also great to
 
 
 <video width="640" height="480" controls>
-<source src="../oahuv1/images/middleridge/streamvid.webm" type="video/webm">
+<source src="../oahuv1/images/olympushike2/panovideast.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>  
 
@@ -72,6 +72,6 @@ Olympus summit was even better than last time!  Great visibility.  Also great to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU4MzY3MjEsLTE4Nzk5MzE3MzQsMT
-k2OTAwNDg0NSwyMTI5NTMzMDYzLDE3NzUxOTY2MTldfQ==
+eyJoaXN0b3J5IjpbLTU0Nzg0OTIyMywtMTg3OTkzMTczNCwxOT
+Y5MDA0ODQ1LDIxMjk1MzMwNjMsMTc3NTE5NjYxOV19
 -->
