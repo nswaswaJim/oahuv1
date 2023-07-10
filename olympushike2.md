@@ -16,9 +16,9 @@ Not that Olympus is easy!  There is a lot of altitude to gain in a short distanc
 
 The plan:  Olympus summit.  Then, along the Koolau Summit Trail over to Paau crater, then down the upper loop of the Paau crater trail.  (I have done the waterfall side of the Paau crater loop but not the upper loop.)  Well that was the plan anyway.
 
-The hike up Olympus went as smoothly as could be wished for.  The trail was mostly dry, and empty- due to light rain in town this morning maybe some people cancelled?  I did not see anyone, not one person, on the Olympus trail until later morning when I was on my way down.  On a Saturday.  Still amazing to see the tremendous views which overlook the densely packed Honolul
+The hike up Olympus went as smoothly as could be wished for.  The trail was mostly dry, and empty- due to light rain in town this morning maybe some people cancelled?  I did not see anyone, not one person, on the Olympus trail until later morning when I was on my way down.  Even then, only saw a handful of people going up. On a Saturday.  Still amazing to see the tremendous views which overlook the densely packed Honolulu just a few miles away, yet up here- complete wilderness and solitude.  
 
-
+Sample of one of the more difficult parts on the trail which has ropes set up.  
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xoSwPg6RbnYm52u0NjqyFuY4pY6_YoA&ehbc=2E312F" width="800" height="600"></iframe>
 
@@ -65,6 +65,6 @@ The hike up Olympus went as smoothly as could be wished for.  The trail was most
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NTU3NDkyLC0xODc5OTMxNzM0LDE5Nj
-kwMDQ4NDUsMjEyOTUzMzA2MywxNzc1MTk2NjE5XX0=
+eyJoaXN0b3J5IjpbLTEwMDgzNDYwNDgsLTE4Nzk5MzE3MzQsMT
+k2OTAwNDg0NSwyMTI5NTMzMDYzLDE3NzUxOTY2MTldfQ==
 -->
