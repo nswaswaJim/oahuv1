@@ -12,7 +12,7 @@ nav_exclude: false
 
 Back to Mt. Olympus!  Probably inspired by my recent experience on the  Middle Ridge Trail, which left me wishing for the great trail that Olympus is.  
 
-Not that Olympus is easy!  
+Not that Olympus is easy!  There is a lot of altitude to gain in a short distance.  There are parts that are perpetual mudpits, sections that steep and muddy and likely impassible in the rain; there are roped sections...  
 
 (route map)
 
@@ -61,6 +61,6 @@ Not that Olympus is easy!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUxMDEyMTUsMTk2OTAwNDg0NSwyMT
-I5NTMzMDYzLDE3NzUxOTY2MTldfQ==
+eyJoaXN0b3J5IjpbMTgyMzM4NjgwOSwxOTY5MDA0ODQ1LDIxMj
+k1MzMwNjMsMTc3NTE5NjYxOV19
 -->
