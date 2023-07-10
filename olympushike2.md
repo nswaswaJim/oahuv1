@@ -10,7 +10,7 @@ nav_exclude: false
 
 ### Second summit on Olympus :-)
 
-(text here)
+Back to Olympus!  
 
 (route map)
 
@@ -59,6 +59,6 @@ nav_exclude: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTAwNDg0NSwyMTI5NTMzMDYzLDE3Nz
-UxOTY2MTldfQ==
+eyJoaXN0b3J5IjpbLTE1Mzg2NzMyNzEsMTk2OTAwNDg0NSwyMT
+I5NTMzMDYzLDE3NzUxOTY2MTldfQ==
 -->
