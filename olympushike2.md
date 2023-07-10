@@ -1,20 +1,18 @@
 ---
-title: Olympu
+title: Olympus revisited
 layout: default
-nav_order: 2
+nav_order: 1
 regenerate: true
 nav_exclude: false
 ---
 
-## Middle ~~fork~~ ridge!-
+## Olympus reloaded!
 
-### Second attempt success :-)
+### Second summit on Olympus :-)
 
-Flashback to prior attempt on Saturday:  About a quarter way in I was turned back due rain.  The rain was moderate and steady.  That's not enough to make one give up.  But the trail conditions- this is a steep trail- were going from terrible to really terrible.  Water was starting to run down the already slippery trail, with about 3000 steps to go, every one of them a slip hazard.  And then back down again.   I turned around to come back another day.
+(text here)
 
-Now, 3 days later- 4th of July!  A day off.   And the forecast was for clear.  Try again.  Today, so glad of the prior decision to turn back, so glad I came back here to finish what was started!
-
-
+(route map)
 Route map:  The trail begins at the common trailhead for Mt. Olympus (climbed a few weeks ago) and the much shorter Pu'u Pia overlook trail (hiked Saturday as my fallback plan b in the rain.)   Zoom in map for trailhead visual.   Blue icon is end of Manoa Middle Ridge Rail.  Green mountain icon to the southeast is Olympus, to the north is K2:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>  
@@ -75,5 +73,5 @@ The route down was, technically, same as route up but in reverse.  Mentally, how
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0MzY4MDM1XX0=
+eyJoaXN0b3J5IjpbLTg5MTA2MzMxMF19
 -->
