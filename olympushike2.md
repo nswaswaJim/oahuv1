@@ -14,6 +14,8 @@ nav_exclude: false
 
 (route map)
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1xoSwPg6RbnYm52u0NjqyFuY4pY6_YoA&ehbc=2E312F" width="800" height="600"></iframe>
+
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1R_EhhlFsxO--j2a7naXejokWcUS2N90&ehbc=2E312F" width="800" height="600"></iframe>  
 
@@ -58,5 +60,5 @@ nav_exclude: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTE5NjYxOV19
+eyJoaXN0b3J5IjpbMjEyOTUzMzA2MywxNzc1MTk2NjE5XX0=
 -->
