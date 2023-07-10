@@ -14,6 +14,8 @@ Back to Mt. Olympus!  Probably inspired by my recent experience on the  Middle R
 
 Not that Olympus is easy!  There is a lot of altitude to gain in a short distance.  There are parts that are perpetual mudpits, sections that steep and muddy and likely impassible in the rain; there are roped sections... but these challenges are just the right amount to make one appreciate Olympus' stretches of steep but mostly enjoyable, mostly shaded trail with some excellent views.  
 
+The plan:  Olympus summit.  Then, along the 
+
 (route map)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xoSwPg6RbnYm52u0NjqyFuY4pY6_YoA&ehbc=2E312F" width="800" height="600"></iframe>
@@ -61,6 +63,6 @@ Not that Olympus is easy!  There is a lot of altitude to gain in a short distanc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyOTQxNTcsMTk2OTAwNDg0NSwyMTI5NT
-MzMDYzLDE3NzUxOTY2MTldfQ==
+eyJoaXN0b3J5IjpbLTE4Nzk5MzE3MzQsMTk2OTAwNDg0NSwyMT
+I5NTMzMDYzLDE3NzUxOTY2MTldfQ==
 -->
