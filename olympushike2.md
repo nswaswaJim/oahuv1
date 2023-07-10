@@ -5,7 +5,7 @@ nav_order: 1
 regenerate: true
 nav_exclude: false
 ---
-**still in progress!**
+
 ## Olympus reloaded!
 
 ### Second summit on Olympus :-)
