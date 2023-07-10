@@ -14,7 +14,7 @@ Back to Mt. Olympus!  Probably inspired by my recent experience on the  Middle R
 
 Not that Olympus is easy!  There is a lot of altitude to gain in a short distance.  There are parts that are perpetual mudpits, sections that steep and muddy and likely impassible in the rain; there are roped sections... but these challenges are just the right amount to make one appreciate Olympus' stretches of steep but mostly enjoyable, mostly shaded trail with some excellent views.  
 
-The plan:  Olympus summit.  Then, along the 
+The plan:  Olympus summit.  Then, along the Koolau Summit Trail over to Pa
 
 (route map)
 
@@ -63,6 +63,6 @@ The plan:  Olympus summit.  Then, along the
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk5MzE3MzQsMTk2OTAwNDg0NSwyMT
-I5NTMzMDYzLDE3NzUxOTY2MTldfQ==
+eyJoaXN0b3J5IjpbLTEwNjEzNjc0MjYsLTE4Nzk5MzE3MzQsMT
+k2OTAwNDg0NSwyMTI5NTMzMDYzLDE3NzUxOTY2MTldfQ==
 -->
