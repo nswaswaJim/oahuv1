@@ -25,6 +25,11 @@ ok organic before lunch retest
 <h1>added 1:46 stackedit</h1>
 
 <p class="greentext">template test w/color green</p>
+
+## template title
+
+
+template test 
 <p>
 <video width="320" height="240" controls>
 <source src="../oahuv1/images/kaala.webm" type="video/webm">
@@ -32,7 +37,7 @@ ok organic before lunch retest
 </video>
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDY1ODQ5NywtMTgyMzExOTkyNCwxND
-E1NjA4NTM4LC0zMjM1NTMwNzcsLTExMTYyMTk1OTQsNjQzNzU3
-NjkzLC0xMjUyMjExMDA4XX0=
+eyJoaXN0b3J5IjpbLTIwNDQwNzc1OTEsLTc1NDY1ODQ5NywtMT
+gyMzExOTkyNCwxNDE1NjA4NTM4LC0zMjM1NTMwNzcsLTExMTYy
+MTk1OTQsNjQzNzU3NjkzLC0xMjUyMjExMDA4XX0=
 -->
