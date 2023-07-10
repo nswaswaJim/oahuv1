@@ -14,7 +14,7 @@ Back to Mt. Olympus!  Probably inspired by my recent experience on the  Middle R
 
 Not that Olympus is easy!  There is a lot of altitude to gain in a short distance.  There are parts that are perpetual mudpits, sections that steep and muddy and likely impassible in the rain; there are roped sections... but these challenges are just the right amount to make one appreciate Olympus' stretches of steep but mostly enjoyable, mostly shaded trail with some excellent views.  
 
-The plan:  Olympus summit.  Then, along the Koolau Summit Trail over to Paau crater, then down the upper loop of the Paau crater trail.  
+The plan:  Olympus summit.  Then, along the Koolau Summit Trail over to Paau crater, then down the upper loop of the Paau crater trail.  I 
 
 (route map)
 
@@ -63,6 +63,6 @@ The plan:  Olympus summit.  Then, along the Koolau Summit Trail over to Paau cra
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0NDQ5NjY5LC0xODc5OTMxNzM0LDE5Nj
-kwMDQ4NDUsMjEyOTUzMzA2MywxNzc1MTk2NjE5XX0=
+eyJoaXN0b3J5IjpbLTUzODczOTI4MiwtMTg3OTkzMTczNCwxOT
+Y5MDA0ODQ1LDIxMjk1MzMwNjMsMTc3NTE5NjYxOV19
 -->
