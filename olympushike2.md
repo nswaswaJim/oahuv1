@@ -10,7 +10,9 @@ nav_exclude: false
 
 ### Second summit on Olympus :-)
 
-Back to Olympus!  
+Back to Mt. Olympus!  Probably inspired by my recent experience on the  Middle Ridge Trail, which left me wishing for the great trail that Olympus is.  
+
+Not that Olympus is easy!  
 
 (route map)
 
@@ -59,6 +61,6 @@ Back to Olympus!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg2NzMyNzEsMTk2OTAwNDg0NSwyMT
+eyJoaXN0b3J5IjpbLTEzOTUxMDEyMTUsMTk2OTAwNDg0NSwyMT
 I5NTMzMDYzLDE3NzUxOTY2MTldfQ==
 -->
