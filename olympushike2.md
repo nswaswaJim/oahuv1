@@ -18,7 +18,9 @@ The plan:  Olympus summit.  Then, along the Koolau Summit Trail over to Paau cra
 
 The hike up Olympus went as smoothly as could be wished for.  The trail was mostly dry, and empty- due to light rain in town this morning maybe some people cancelled?  I did not see anyone, not one person, on the Olympus trail until later morning when I was on my way down.  Even then, only saw a handful of people going up. On a Saturday.  Still amazing to see the tremendous views which overlook the densely packed Honolulu just a few miles away, yet up here- complete wilderness and solitude.  
 
-Sample of one of the more difficult parts on the trail which has ropes set up.  
+Samples of one of the more difficult parts on the trail which has ropes set up.  
+
+<p><img src="../oahuv1/images/.JPG" height="300px" alt="bamboo forest"/></p>  
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xoSwPg6RbnYm52u0NjqyFuY4pY6_YoA&ehbc=2E312F" width="800" height="600"></iframe>
 
@@ -65,6 +67,6 @@ Sample of one of the more difficult parts on the trail which has ropes set up.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgzNDYwNDgsLTE4Nzk5MzE3MzQsMT
+eyJoaXN0b3J5IjpbLTE2NTAwNjUyODEsLTE4Nzk5MzE3MzQsMT
 k2OTAwNDg0NSwyMTI5NTMzMDYzLDE3NzUxOTY2MTldfQ==
 -->
