@@ -8,7 +8,7 @@ nav_exclude: false
 
 ## Olympus
 
-## Olympus reloaded!
+## Olympus rev
 
 ### Second summit on Olympus :-)
 
@@ -74,7 +74,7 @@ via git
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4MDIzNTcxLC01NDc4NDkyMjMsLTE4Nz
-k5MzE3MzQsMTk2OTAwNDg0NSwyMTI5NTMzMDYzLDE3NzUxOTY2
-MTldfQ==
+eyJoaXN0b3J5IjpbLTE3NTQzNjAxMTUsLTU0Nzg0OTIyMywtMT
+g3OTkzMTczNCwxOTY5MDA0ODQ1LDIxMjk1MzMwNjMsMTc3NTE5
+NjYxOV19
 -->
