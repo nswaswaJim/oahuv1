@@ -1,10 +1,12 @@
 ---
-title: Olympus revisited
+title: Olympus revisit
 layout: default
-nav_order: 1
+nav_order: 2
 regenerate: true
 nav_exclude: false
 ---
+
+## Olympus
 
 ## Olympus reloaded!
 
@@ -72,6 +74,7 @@ via git
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Nzg0OTIyMywtMTg3OTkzMTczNCwxOT
-Y5MDA0ODQ1LDIxMjk1MzMwNjMsMTc3NTE5NjYxOV19
+eyJoaXN0b3J5IjpbNjY4MDIzNTcxLC01NDc4NDkyMjMsLTE4Nz
+k5MzE3MzQsMTk2OTAwNDg0NSwyMTI5NTMzMDYzLDE3NzUxOTY2
+MTldfQ==
 -->
