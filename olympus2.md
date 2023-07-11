@@ -37,6 +37,10 @@ Video to west:
 
 Time for Kaau crater trail, via the Koolau Summit Trail.  A very exposed, windswept narrow ridge.  I started my way down, even took a little trail video:
 
+<video width="640" height="480" controls>
+<source src="../oahuv1/images/olympushike2/kaaucraterolympus.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>    
  
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xoSwPg6RbnYm52u0NjqyFuY4pY6_YoA&ehbc=2E312F" width="800" height="600"></iframe>
@@ -44,6 +48,6 @@ Time for Kaau crater trail, via the Koolau Summit Trail.  A very exposed, windsw
 test from stackedit 7/11 8:55
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODEyNDc1NTQsNDk1NjY3MzY4LC0xNT
+eyJoaXN0b3J5IjpbLTExOTI4MDgwODcsNDk1NjY3MzY4LC0xNT
 Y1MDc0NDZdfQ==
 -->
