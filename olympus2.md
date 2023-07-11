@@ -14,18 +14,15 @@ Not that Olympus is easy!  There is a lot of altitude to gain in a short distanc
 The plan:  Olympus summit.  Then, along the Koolau Summit Trail over to Paau crater, then down the upper loop of the Paau crater trail.  (I have done the waterfall side of the Paau crater loop but not the upper loop.)  Well that was the plan anyway.
 
 The hike up Olympus went as smoothly as could be wished for.  The trail was mostly dry, and empty- due to light rain in town this morning maybe some people cancelled?  I did not see anyone, not one person, on the Olympus trail until later morning when I was on my way down.  Even then, only saw a handful of people going up. On a Saturday.  Still amazing to see the tremendous views which overlook the densely packed Honolulu just a few miles away, yet up here- complete wilderness and solitude.  
-
-Samples of one of the more difficult parts on the trail which has ropes set up.  
-
-<p><img src="../oahuv1/images/olympushike2/ropes.JPG" height="300px" alt="a steep roped section"/></p>  
-
-Olympus summit was even better than last time!  Great visibility.  Also great to look back north to see where the Middle Ridge Trail joins the Koolau backbone, where I was on Tuesday.  Also very good views of my near-horizon target of K2, and also today's goal of Kaau crater.  
-
+ 
 Samples of one of the more difficult parts on the trail which has ropes set up.  
 
 <p><img src="../oahuv1/images/olympushike2/ropes.JPG" height="300px" alt="a steep roped section"/></p>  
 
 <p><img src="../oahuv1/images/olympushike2/ropestop.JPG" height="300px" alt="a steep roped section"/></p>  
+
+Olympus summit was even better than last time!  Great visibility.  Also great to look back north to see where the Middle Ridge Trail joins the Koolau backbone, where I was on Tuesday.  Also very good views of my near-horizon target of K2, and also today's goal of Kaau crater.  
+  
 
 Olympus summit was even better than last time!  Great visibility.  Also great to look back north to see where the Middle Ridge Trail joins the Koolau backbone, where I was on Tuesday.  Also very good views of my near-horizon target of K2, and also today's goal of Kaau crater.  
 
@@ -47,5 +44,5 @@ Video to west:
 test from stackedit 7/11 8:55
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUwNzQ0Nl19
+eyJoaXN0b3J5IjpbMTUwNjg3MjE2MCwtMTU2NTA3NDQ2XX0=
 -->
