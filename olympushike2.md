@@ -24,6 +24,8 @@ Samples of one of the more difficult parts on the trail which has ropes set up.
 
 <p><img src="../oahuv1/images/olympushike2/ropes.JPG" height="300px" alt="a steep roped section"/></p>  
 
+<p><img src="../oahuv1/images/olympushike2/ropes.JPG" height="300px" alt="a steep roped section"/></p>  
+
 Olympus summit was even better than last time!  Great visibility.  Also great to look back north to see where the Middle Ridge Trail joins the Koolau backbone, where I was on Tuesday.  Also very good views of my near-horizon target of K2, and also today's goal of Kaau crater.  
 
 
@@ -74,7 +76,7 @@ via git
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQzNjAxMTUsLTU0Nzg0OTIyMywtMT
-g3OTkzMTczNCwxOTY5MDA0ODQ1LDIxMjk1MzMwNjMsMTc3NTE5
-NjYxOV19
+eyJoaXN0b3J5IjpbLTE1NTY5MDcxMTksLTE3NTQzNjAxMTUsLT
+U0Nzg0OTIyMywtMTg3OTkzMTczNCwxOTY5MDA0ODQ1LDIxMjk1
+MzMwNjMsMTc3NTE5NjYxOV19
 -->
