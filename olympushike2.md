@@ -79,14 +79,13 @@ Video to west:
 
 
 
-via git
-
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTMxMzU0OTIsLTE1NTY5MDcxMTksLT
-E3NTQzNjAxMTUsLTU0Nzg0OTIyMywtMTg3OTkzMTczNCwxOTY5
-MDA0ODQ1LDIxMjk1MzMwNjMsMTc3NTE5NjYxOV19
+eyJoaXN0b3J5IjpbLTE5MDkzMDY3MTYsLTE5MTMxMzU0OTIsLT
+E1NTY5MDcxMTksLTE3NTQzNjAxMTUsLTU0Nzg0OTIyMywtMTg3
+OTkzMTczNCwxOTY5MDA0ODQ1LDIxMjk1MzMwNjMsMTc3NTE5Nj
+YxOV19
 -->
