@@ -35,12 +35,13 @@ Video to west:
   Your browser does not support the video tag.
 </video>    
 
-  
+Time for Kaau crater
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xoSwPg6RbnYm52u0NjqyFuY4pY6_YoA&ehbc=2E312F" width="800" height="600"></iframe>
 
 test from stackedit 7/11 8:55
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1NjY3MzY4LC0xNTY1MDc0NDZdfQ==
+eyJoaXN0b3J5IjpbLTI4NDU2MDk0Nyw0OTU2NjczNjgsLTE1Nj
+UwNzQ0Nl19
 -->
