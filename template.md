@@ -18,6 +18,8 @@ p {color:  red;}
 
 ## template title
 
+testing 7/10
+
 just template test,  and...  
 
 ok organic before lunch retest
