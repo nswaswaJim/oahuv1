@@ -21,10 +21,7 @@ Samples of one of the more difficult parts on the trail which has ropes set up.
 
 <p><img src="../oahuv1/images/olympushike2/ropestop.JPG" height="300px" alt="a steep roped section"/></p>  
 
-Olympus summit was even better than last time!  Great visibility.  Also great to look back north to see where the Middle Ridge Trail joins the Koolau backbone, where I was on Tuesday.  Also very good views of my near-horizon target of K2, and also today's goal of Kaau crater.  
-  
-
-Olympus summit was even better than last time!  Great visibility.  Also great to look back north to see where the Middle Ridge Trail joins the Koolau backbone, where I was on Tuesday.  Also very good views of my near-horizon target of K2, and also today's goal of Kaau crater.  
+Olympus summit was even better than last time!  Great visibility.  Also great to look back north to see where the Middle Ridge Trail joins the Koolau backbone, where I was on Tuesday.  Also very good views of my near-horizon target of K2, and also today's goal of Kaau crater.    
 
 Panoramic video to east:  
 <video width="640" height="480" controls>
@@ -36,7 +33,8 @@ Video to west:
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/olympushike2/panovidwest.webm" type="video/webm">
   Your browser does not support the video tag.
-</video>  
+</video>    
+
   
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xoSwPg6RbnYm52u0NjqyFuY4pY6_YoA&ehbc=2E312F" width="800" height="600"></iframe>
@@ -44,5 +42,5 @@ Video to west:
 test from stackedit 7/11 8:55
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjg3MjE2MCwtMTU2NTA3NDQ2XX0=
+eyJoaXN0b3J5IjpbNDk1NjY3MzY4LC0xNTY1MDc0NDZdfQ==
 -->
