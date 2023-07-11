@@ -42,13 +42,13 @@ Time for Kaau crater trail, via the Koolau Summit Trail.  A very exposed, windsw
   Your browser does not support the video tag.
 </video>    
  
- The windard side of the trail was dry.  Windblown, sunny, exposed, dry.  And very crumbly narrow steep
+ The windard side of the trail was dry.  Windblown, sunny, exposed, dry.  And very crumbly narrow and steep.  Still I pressed on to a point where I would likely be committed- no turning back.  
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xoSwPg6RbnYm52u0NjqyFuY4pY6_YoA&ehbc=2E312F" width="800" height="600"></iframe>
 
 test from stackedit 7/11 8:55
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAwMzkxMjksNDk1NjY3MzY4LC0xNT
-Y1MDc0NDZdfQ==
+eyJoaXN0b3J5IjpbMTEwNjkxMzkwLDQ5NTY2NzM2OCwtMTU2NT
+A3NDQ2XX0=
 -->
