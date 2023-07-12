@@ -3,7 +3,7 @@ title: Olympus revisit
 layout: default
 nav_order: 2
 regenerate: true
-nav_exclude: false
+nav_exclude: true
 ---
 
 ## Olympus
