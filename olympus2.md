@@ -51,6 +51,4 @@ Blue icon is Paau crater, best seen from Mt. Olympus anyway.
 
 
 
-(retest from vscode 7/12 and nav order)
-(retest from git)
-  
+(retest merge)
