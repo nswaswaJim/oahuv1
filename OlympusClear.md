@@ -1,5 +1,5 @@
 ---
-title: Olympus 2
+title: Olympus Clear
 layout: default
 nav_order: 2
 regenerate: true
