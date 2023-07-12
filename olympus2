@@ -4,6 +4,7 @@ layout: default
 regenerate: true
 nav_order: 2
 nav_exclude: false
+testvar: 1
 ---  
 
 ### Second summit on Olympus :-)
@@ -22,5 +23,5 @@ Samples of one of the more difficult parts on the trail which has ropes set up.
 
 Olympus summit was even better than last time!  Great visibility.  Also great to look back north to see where the Middle Ridge Trail joins the Koolau backbone, where I was on Tuesday.  Also very good views of my near-horizon target of K2, and also today's goal of Kaau crater.  
 
-(vscode push 7/12)
+(vscode push 7/12 1856 nav order)
   
