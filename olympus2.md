@@ -1,6 +1,7 @@
 ---
 title: Olympus 2
 layout: default
+nav_order: 2
 regenerate: true
 nav_exclude: false
 ---  
@@ -48,7 +49,7 @@ Blue icon is Paau crater, best seen from Mt. Olympus anyway.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xoSwPg6RbnYm52u0NjqyFuY4pY6_YoA&ehbc=2E312F" width="800" height="600"></iframe>
 
-test from stackedit 7/11 8:55
+(retest from vscode 7/12)
   
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTg3ODE3NDYyOSwtNTk0MDA0NDMxLDQ5NT
