@@ -45,13 +45,13 @@ Time for Kaau crater trail, via the Koolau Summit Trail.  A very exposed, windsw
  
  The windard side of the trail was dry.  Windblown, sunny, exposed, dry.  And narrow and steep.  Still I pressed on to a point where I would be committed, not far below the video:  A point of no return, which I could probably descend, but as equipped, would be potentially hazardous getting back up.   Not only narrow and very steep, it was loose crumbly soil.  Thus it would be point of no return, committed to the rest of the ridgeline- which would likely be more of the same.   I looked over at Kaau crater trail- Not dying today, not dying for you today.  Coming back another day with more gear, meanwhile there is another stretch of trail I'd not done, on the ridge between Manoa and Palolo valleys.  I'll route back that way today.  But not forgetting the ridge trail.
 
-Blue icon is Paau crater, best seen from Mt. Olympus anyway.  
+Blue icon is Paau crater, best seen from Mt. Olympus anyway.  (more below)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xoSwPg6RbnYm52u0NjqyFuY4pY6_YoA&ehbc=2E312F" width="800" height="600"></iframe>
 
 
-
-(edit in stackedit 37)
+The hike past the Pua Pua trail where I had come up was a great experience, wonderful enough to not regret 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5Njk2Njc4LC0xNzc5Mjk4NTEyXX0=
+eyJoaXN0b3J5IjpbNzQ4NDUyMTk0LDY0OTY5NjY3OCwtMTc3OT
+I5ODUxMl19
 -->
