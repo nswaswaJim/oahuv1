@@ -50,8 +50,8 @@ Blue icon is Paau crater, best seen from Mt. Olympus anyway.  (more below)
 <iframe src="https://www.google.com/maps/d/embed?mid=1xoSwPg6RbnYm52u0NjqyFuY4pY6_YoA&ehbc=2E312F" width="800" height="600"></iframe>
 
 
-The hike past the Pua Pua trail where I had come up was a great experience, wonderful enough to not regret 
+The hike past the Pua Pua trail where I had come up was a great experience, wonderful enough to not regret changing plans from the crater trail.  The ridge was a mostly gentle walk along a good trail carpeted by needles dropped by the whisper
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NDUyMTk0LDY0OTY5NjY3OCwtMTc3OT
-I5ODUxMl19
+eyJoaXN0b3J5IjpbMTYzMjkzNjU4Nyw2NDk2OTY2NzgsLTE3Nz
+kyOTg1MTJdfQ==
 -->
