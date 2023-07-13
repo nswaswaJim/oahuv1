@@ -19,6 +19,8 @@ p {color:  red;}
 
 testing new template created in git
 
+edit via git 38
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI4NTcwOTg5XX0=
 -->
