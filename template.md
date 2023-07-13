@@ -2,7 +2,6 @@
 title: Page template
 layout: default
 regenerate: true
-nav_exclude: true
 ---  
 
 <head>
@@ -38,8 +37,11 @@ template test
   Your browser does not support the video tag.
 </video>
 </p>
+
+13jul test removed nav_exclude: true
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQwNzc1OTEsLTc1NDY1ODQ5NywtMT
-gyMzExOTkyNCwxNDE1NjA4NTM4LC0zMjM1NTMwNzcsLTExMTYy
-MTk1OTQsNjQzNzU3NjkzLC0xMjUyMjExMDA4XX0=
+eyJoaXN0b3J5IjpbLTEyNzEyMDM2NDAsLTIwNDQwNzc1OTEsLT
+c1NDY1ODQ5NywtMTgyMzExOTkyNCwxNDE1NjA4NTM4LC0zMjM1
+NTMwNzcsLTExMTYyMTk1OTQsNjQzNzU3NjkzLC0xMjUyMjExMD
+A4XX0=
 -->
