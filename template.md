@@ -38,9 +38,9 @@ template test
 </video>
 </p>
 
-13jul test removed nav_exclude: true
+13jul test removed nav_exclude: true upload stack edit organic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEyMDM2NDAsLTIwNDQwNzc1OTEsLT
+eyJoaXN0b3J5IjpbLTEzNzAyNjQyMTQsLTIwNDQwNzc1OTEsLT
 c1NDY1ODQ5NywtMTgyMzExOTkyNCwxNDE1NjA4NTM4LC0zMjM1
 NTMwNzcsLTExMTYyMTk1OTQsNjQzNzU3NjkzLC0xMjUyMjExMD
 A4XX0=
