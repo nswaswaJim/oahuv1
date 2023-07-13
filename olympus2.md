@@ -3,7 +3,7 @@ title: Olympus 2
 layout: default
 nav_order: 2
 regenerate: true
-nav_exclude: false
+nav_exclude: true
 ---  
 
 ### Second summit on Olympus :-)
@@ -51,10 +51,10 @@ Blue icon is Paau crater, best seen from Mt. Olympus anyway.
 
 
 
-(retest merge)
+stackedit navexclude true 09
 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODA0NjI3M119
+eyJoaXN0b3J5IjpbMTE3NTk5MDE1MCwyMDQ4MDQ2MjczXX0=
 -->
