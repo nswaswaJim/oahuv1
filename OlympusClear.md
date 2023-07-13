@@ -43,7 +43,7 @@ Time for Kaau crater trail, via the Koolau Summit Trail.  A very exposed, windsw
   Your browser does not support the video tag.
 </video>    
  
- The windard side of the trail was dry.  Windblown, sunny, exposed, dry.  And very crumbly narrow and steep.  Still I pressed on to a point where I would be committed:  A point of no return, which I could probably descend, but as equipped, would be potentially hazardous getting back up.  Thus it would be point of no return, committed to the rest of the ridgeline- which would likely be more of the same.   I looked over at Kaau crater trail- Not dying today, not dying for you today.  Coming back another day with more gear, meanwhile there is another stretch of trail I'd not done, on the ridge between Manoa and Palolo valleys.  I'll route back that way today.  But not forgetting the ridge trail.
+ The windard side of the trail was dry.  Windblown, sunny, exposed, dry.  And narrow and steep.  Still I pressed on to a point where I would be committed, not far below the video:  A point of no return, which I could probably descend, but as equipped, would be potentially hazardous getting back up.   Not only nThus it would be point of no return, committed to the rest of the ridgeline- which would likely be more of the same.   I looked over at Kaau crater trail- Not dying today, not dying for you today.  Coming back another day with more gear, meanwhile there is another stretch of trail I'd not done, on the ridge between Manoa and Palolo valleys.  I'll route back that way today.  But not forgetting the ridge trail.
 
 Blue icon is Paau crater, best seen from Mt. Olympus anyway.  
 
@@ -53,5 +53,5 @@ Blue icon is Paau crater, best seen from Mt. Olympus anyway.
 
 (edit in stackedit)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkyOTg1MTJdfQ==
+eyJoaXN0b3J5IjpbNjE5ODY0NDUwLC0xNzc5Mjk4NTEyXX0=
 -->
