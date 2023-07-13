@@ -52,8 +52,8 @@ Blue icon is Paau crater, best seen from Mt. Olympus anyway.  (more below)
 
 The hike past the Pua Pua trail where I had come up was a great experience, wonderful enough to not regret changing plans from the crater trail.  The ridge was a mostly gentle walk along a good trail carpeted by needles dropped by the whispering pines with some occasional rock scrambles thrown in.  The added benefit- beyond simply exploring an unfamiliar trail- was that I did not know where it was coming out.  I had a general idea but no exact location.  Just follow the trail, it's going somewhere.  
 
-The trail took me to the beautiful Wa'ahila park!  Sheltered picnic benches, towering pines, scenic views over town.  A great picnic or just relax spot.  
+The trail took me to the beautiful Wa'ahila park!  Sheltered picnic benches, towering pines, scenic views over town.  A great picnic or just relax spot.  Great to see new places, and a nice finish to a great hike.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE5NjE3ODYsNjQ5Njk2Njc4LC0xNz
+eyJoaXN0b3J5IjpbLTE3Njg4MDM3NzUsNjQ5Njk2Njc4LC0xNz
 c5Mjk4NTEyXX0=
 -->
