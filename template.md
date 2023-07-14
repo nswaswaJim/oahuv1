@@ -2,7 +2,7 @@
 title: Page template
 layout: default
 regenerate: true  
-nav_exclude: false
+nav_exclude: true
 ---  
 
 <head>
@@ -40,10 +40,10 @@ template test
 </p>
 
 13jul test removed nav_exclude: true upload stack edit organic.
-14 jul added nav_exclude: true, se organic 1129
+14 jul added nav_exclude: true, se organic 1155
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMwNDgyNzUsLTEzNzAyNjQyMTQsLT
-IwNDQwNzc1OTEsLTc1NDY1ODQ5NywtMTgyMzExOTkyNCwxNDE1
-NjA4NTM4LC0zMjM1NTMwNzcsLTExMTYyMTk1OTQsNjQzNzU3Nj
-kzLC0xMjUyMjExMDA4XX0=
+eyJoaXN0b3J5IjpbLTY1ODU0MzQ1MSwtMTQ0MzA0ODI3NSwtMT
+M3MDI2NDIxNCwtMjA0NDA3NzU5MSwtNzU0NjU4NDk3LC0xODIz
+MTE5OTI0LDE0MTU2MDg1MzgsLTMyMzU1MzA3NywtMTExNjIxOT
+U5NCw2NDM3NTc2OTMsLTEyNTIyMTEwMDhdfQ==
 -->
