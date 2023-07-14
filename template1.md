@@ -2,6 +2,7 @@
 title: Page template 1
 layout: default
 regenerate: true
+nav_exclude: true
 ---  
 
 <head>
@@ -22,5 +23,5 @@ testing new template created in git
 edit via git 38
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTcwOTg5XX0=
+eyJoaXN0b3J5IjpbMTQzNDQ2OTM4NCwxMjg1NzA5ODldfQ==
 -->
