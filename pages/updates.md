@@ -13,7 +13,7 @@ nav_order: 1
 List of updates, most recent updates/changes on top.  
 
 
-**9 July**  Olympus, revisited.   First time was success, this time even better:  Better weather, new trail, ideas for future.  <a href="https://nswaswajim.github.io/oahuv1/OlympusClear.html>Olympus revisited</a>
+**9 July**  Olympus, revisited.   First time was success, this time even better:  Better weather, new trail, ideas for future.  <a href="https://nswaswajim.github.io/oahuv1/OlympusClear.html">Olympus revisited</a>
 
 **4 July** Manoa Middle Ridge Trail- for a mental challenge!  Success on second try.  <a href="https://nswaswajim.github.io/oahuv1/middleridge.html">Manoa Middle Ridge Trail</a>
 
@@ -36,5 +36,6 @@ Will add to most upcoming posts, and a few of the older ones.
 
 **28 May:**  Posted Nuuanu trail pics and video, halfway up Pali Highway.  Great long weekend bike 'n hike!  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTQzMzQzNywxMzM3MzE2NjU0XX0=
+eyJoaXN0b3J5IjpbMjEyNzAxOTI4NywxMDk1NDMzNDM3LDEzMz
+czMTY2NTRdfQ==
 -->
