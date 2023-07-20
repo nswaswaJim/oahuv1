@@ -23,9 +23,7 @@ The videos can be made full-screen, just click the box in the player controls at
 Most route maps are embedded from Google Maps thus have zoom and full-screen features enabled.   
 Panoramic images can be clicked to open a much larger zoomable image in a new tab which can be scrolled around.    
 
-Best viewed in Chrome, tested and appears working in Firefox, Edge, and Opera.  Mobiles- large items like videos, maps, and panoramics display better in landscape mode, but much better on larger display.
-
-What is github?  Free, I like that.  It's a place for collaboration, I like that too.  And a chance to learn a bit about the git process, which is a cool thing in a geeky way:  
+What is github?  Free, I like that.  It's a place for collaboration, I like that too.  And a chance to learn a bit more about the git process, which is a cool thing in a geeky way:  
 
 <p><img src="../images/gitprocess.png" height="300" title="git process" /><br /></p>
 
@@ -38,11 +36,11 @@ Github required a name.  Nswaswa is my old nickname.  Nile Monitor lizard.  Amaz
 <p><img src="../images/nswaswa1.webp" height="300" title="Nswaswa, Nile Monitor Lizard" /><br /></p>
 
 
-**PS Ok, the opening image** on the index page is NOT from biking around this island.  It was an image I put up as placeholder when building a page template for the site, and is just too good to take down:</p>
+**PS Ok, the opening image** on the index page is NOT from biking around this island.  But it IS a volcano.  It was an image I put up as placeholder when building a page template for the site, and is just too good to take down:
 
 <p><img src="../images/muhabura.jpg" height="300" title="Muhabura, the guide" /><br /></p>
 
 <p><img src="../images/muhabura1.jpg" height="300" title="Muhabura, the guide, lakeview" /><br /></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgxOTUxMDddfQ==
+eyJoaXN0b3J5IjpbMTY5NjI4Nzc5OV19
 -->
