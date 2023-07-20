@@ -14,14 +14,14 @@ It is amazing how something so simple like a used bike can change things.  It st
 
 **Why videos?**  
 
-Put the viewer in the scene a little better.  A pic is worth a thousand words, a video is just a thousand pics put together, do the math.  So while not exactly red-bull kinda stuff, the trail videos can a pic.  The sound of blissful audio of waves and forest is also a bonus with video.    
+Put the viewer in the scene a little better.  A pic is worth a thousand words, a video is just a thousand pics put together, do the math.  So while not exactly red-bull kinda stuff, the trail videos have some added value over just pics.  The sound of blissful audio of waves and forest is also a bonus with video.    
 
 **Tech stuff:**
 
-Some nice features in case you weren't aware:
-Videos can be made full-screen, click the box in the player controls at bottom of video.
-Most route maps are embedded from Google Maps thus have zoom and full-screen features enabled. 
-Panoramic images can be clicked to open a much larger zoomable image which can be scrolled around.  
+Some nice features in case you weren't aware:  
+The videos can be made full-screen, just click the box in the player controls at bottom of the video.  
+Most route maps are embedded from Google Maps thus have zoom and full-screen features enabled.   
+Panoramic images can be clicked to open a much larger zoomable image in a new tab which can be scrolled around.    
 
 Best viewed in Chrome, tested and appears working in Firefox, Edge, and Opera.  Mobiles- large items like videos, maps, and panoramics display better in landscape mode, but much better on larger display.
 
@@ -44,5 +44,5 @@ Github required a name.  Nswaswa is my old nickname.  Nile Monitor lizard.  Amaz
 
 <p><img src="../images/muhabura1.jpg" height="300" title="Muhabura, the guide, lakeview" /><br /></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzA1NV19
+eyJoaXN0b3J5IjpbLTE3NTgxOTUxMDddfQ==
 -->
