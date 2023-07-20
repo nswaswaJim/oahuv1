@@ -14,7 +14,7 @@ It is amazing how something so simple like a used bike can change things.  It st
 
 **Why videos?**  
 
-Put the viewer in the scene a little better.  A pic is worth a thousand words, a video is a thousand pics in rapid succession, do the math.  So no, not exactly red-bull kinda stuff but better than a pic.  The sound of waves and forest is also a bonus. Finally, this builds the foundation of a site for my future 4D virtual reality site.  For now just enjoy the 2D pics and vids.
+Put the viewer in the scene a little better.  A pic is worth a thousand words, a video is just a thousand pics put together, do the math.  So while not exactly red-bull kinda stuff, the trail videos are better than a pic.  The sound of blissful audio of waves and forest is also a bonus with Finally, this builds the foundation of a site for my future 4D virtual reality site.  For now just enjoy the 2D pics and vids.
 
 **Tech stuff:**
 
@@ -43,3 +43,6 @@ Github required a name.  Nswaswa is my old nickname.  Nile Monitor lizard.  Amaz
 <p><img src="../images/muhabura.jpg" height="300" title="Muhabura, the guide" /><br /></p>
 
 <p><img src="../images/muhabura1.jpg" height="300" title="Muhabura, the guide, lakeview" /><br /></p>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MjM4NTQ3OTFdfQ==
+-->
