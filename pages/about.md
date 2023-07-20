@@ -36,11 +36,11 @@ Github required a name.  Nswaswa is my old nickname.  Nile Monitor lizard.  Amaz
 <p><img src="../images/nswaswa1.webp" height="300" title="Nswaswa, Nile Monitor Lizard" /><br /></p>
 
 
-**PS Ok, the opening image** on the index page is NOT from biking around this island.  But it IS a volcano.  It was an image I put up as placeholder when building a page template for the site, and is just too good to take down:
+**PS Ok, the opening image** on the index page is NOT from this island.  But it IS a volcano, in a fantastic part of the world.  It was an image I put up as placeholder when building a page template for this site, and is just too good to take down:
 
 <p><img src="../images/muhabura.jpg" height="300" title="Muhabura, the guide" /><br /></p>
 
 <p><img src="../images/muhabura1.jpg" height="300" title="Muhabura, the guide, lakeview" /><br /></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjI4Nzc5OV19
+eyJoaXN0b3J5IjpbMjAxNjQyNTcyM119
 -->
