@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+</style>
+<script src=""></script>
+<body>
+
+<img src="test.jpg" alt="test" style="width:100%">
+
+<div class="" id="enterdata">
+<p>
+    <input type="number" min="0" max="999" id="Wind">Wind<br>
+    <input type="number" min="0" max="999" id="Jib">Jib<br>
+    <input type="number" min="0" max="999" id="Main">Main<br>
+    <input type="number" min="0" max="999" id="Mizzen">Mizzen<br>
+</p>
+<p>
+    <button type="button" onclick="forces()">Simple forces</button>
+    <button type="button" onclick="forceangles()">Simple forces</button>
+    <script>
+        function forces() {
+            let Wind=document.getElementById("Wind").value;
+            const Jibangle=document.getElementById("Jib").value;
+            const Mainangle=document.getElementById("Main").value;
+            const Mizzenangle=document.getElementById("Mizzen").value;
+           
+            let Jibforce= (Wind * Wind) *0.00431 * 317;
+            let Mainforce= (Wind * Wind) *0.00431 * 220;
+            let Mizzenforce= (Wind * Wind) *0.00431 * 100;
+            console.log(Wind);
+            console.log(Jibforce);
+            console.log(Mainforce);
+            console.log(Mizzenforce);
+            document.getElementById("Jibforce").value=Jibforce;
+            document.getElementById("Mainforce").value=Mainforce;
+            document.getElementById("Mizzenforce").value=Mizzenforce;
+
+
+            }
+
+            function forceangles() {
+                let Wind=document.getElementById("Wind").value;
+                let anglefactor=  (Math.cos(45));
+                let jibforce1 = (Wind * Wind) *0.00431 * 317 * anglefactor;
+                console.log(anglefactor);
+                console.log(jibforce1);
+             
+            }
+
+    </script>
+</p>
+</div>
+
+<div class="" id="outputdata">
+<p>
+    <input type="number" min="0" max="999" id="Jibforce">Jib force<br>
+    <input type="number" min="0" max="999" id="Mainforce">Main force<br>
+    <input type="number" min="0" max="999" id="Mizzenforce">Mizzen force<br>
+</p>
+</div>
+
+
+
+<!--
+
+ function forceangles() {
+                let Jibforce1= (Wind * Wind) *0.00431 * 317 * Math.cos(89);
+                let Jibforce2= (Wind * Wind) *0.00431 * 317 * Math.sin(60);
+                let Jibforce3= (Wind * Wind) *0.00431 * 317 * Math.sin(30);
+                console.log(jibforce1);
+                console.log(jibforce2);
+                console.log(jibforce3);
+
+</div>
+
+<div class="">
+ <h1>H1</h1>
+ <p>.p1</p>
+ <input type="text" id="input1">input1<br>
+ <input type="text" id="input2">input2<br>
+ <button name="button1" onclick="add2number()">add2number</button><br>
+ <input type="text" id="output1">output<br>
+
+ <script>
+    
+     function add2number() {
+         const inp1 = parseInt(document.getElementById("input1").value);
+         const inp2 = parseInt(document.getElementById("input2").value);
+         let result = inp1 + inp2;       
+         document.getElementById("output1").value = result;
+         console.log(result);
+      }
+ </script>
+  test-->
+</div>
+
+</body>
+</html>
