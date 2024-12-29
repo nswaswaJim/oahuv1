@@ -12,7 +12,7 @@ nav_order: 1
 
 List of updates, most recent updates/changes on top.  
 
-**28 Dec** Waikiki Reef Snorkel- GoPro test!  Nothing fascinating and not yet NatGeo quality.  But it was fun to take the new used GoPro out for a test.    <a href="https://nswaswajim.github.io/oahuv1/reef1.html">Reefin'</a>
+**28 Dec** Waikiki Reef Snorkel- GoPro test!  Nothing fascinating and not yet NatGeo quality.  But it was fun to take out the new used GoPro out for a test.    <a href="https://nswaswajim.github.io/oahuv1/reef1.html">Reefin'</a>
 
 
 **9 July**  Olympus, revisited.   First time was success, this time even better:  Better weather, new trail, ideas for future.  <a href="https://nswaswajim.github.io/oahuv1/OlympusClear.html">Olympus revisited</a>
