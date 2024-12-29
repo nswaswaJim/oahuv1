@@ -2,12 +2,16 @@
 title: kuliouou
 layout: default
 regenerate: true
-nav_order: 1
+nav_order: 2
+
+
 ---
 
 ## Kuliouou
 
 ### A fantastic bike 'n hike!!!
+
+### {{}}
 
 Got lucky with an outstanding trip today!  Semi-randomly picked a spot on Google Maps and ended up shocking myself with how great a bike and hike it turned out to be!  
 
