@@ -36,15 +36,15 @@ Floating over the reef at low tide.  Enjoy!
 <source src="../oahuv1/images/3morayV4.mp4" type="video/webm">
   Your browser does not support the video tag.
 </video>
-</p>
+
 
 Waikiki marine conservation district:
-</p>
+
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/wmcd1.mp4" type="video/webm">
   Your browser does not support the video tag.
 </video>
-</p>
+
 
 
 
