@@ -66,7 +66,7 @@ The albatross are nice to watch.  Video also captures the remote beauty of this 
 </p>
 
 
-Kaena point.  Was a monk seal basking on the rocks (not in video, sorry!)
+Kaena point.  Was a monk seal basking on the rocks (not in the video, sorry!)
 <p>
 <video width="640" height="480" controls>
 <source src="../oahuv1/images/kaena2.webm" type="video/webm">
