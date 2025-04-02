@@ -15,7 +15,7 @@ nav_order: 2
 
 Got lucky with an outstanding trip today!  Semi-randomly picked a spot on Google Maps and ended up shocking myself with how great a bike and hike it turned out to be!  
 
-Ok, the bike portion:  About 8ish miles, about double my daily trip to work. With a small difference- hills!  There's no way to get around Diamond head without climbing, (uphill both ways I tell ya) and for the Kuliouou trail there is a literally breathtaking steep climb before the trailhead.  But not for too long, just enough to make sure my heart was beating before even starting the hike.   Then things got good. (Hike portion below map) 
+Ok, the bike portion:  About 8ish miles, about double my daily trip to work. With a small difference- hills!  There's no way to get around Diamond head without climbing, (uphill both ways!) and for the Kuliouou trail there is a literally breathtaking steep climb before the trailhead.  But not for too long, just enough to make sure my heart was beating before even starting the hike.   Then things got good. (Hike portion below map) 
 
 The route:  
 
