@@ -22,7 +22,7 @@ Then the trail.  It is an old railroad grade.  Tracks are long gone but in a ver
 
 There were a few sections of trail that needed walking the bike.  The old railroad grade was washed out and only the most extreme would attempt biking.  But these spots were very few, and limited to the west side of the point.  
 
-The point itself is pretty incredible!  First, just reaching a destination is very cool.  Especially a remote destination, not far from a crowded city but with almost no people.  There were two people, quietly fishing off rocks on the west side.  More Albatross than people.  
+The point itself is pretty incredible!  First, just reaching a destination is very cool.  Especially a remote destination, not far from a crowded city but with almost no people.  There were just two people, quietly fishing off rocks on the west side.  More Albatross than people.
 
 <!-- template test 3
 Scenic view from the first grassy patch.  With the well traveled Mountainsmith bag:
